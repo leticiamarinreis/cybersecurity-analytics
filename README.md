@@ -35,7 +35,7 @@ analise-vulnerabilidades/
 ├── outputs/
 │   ├── vulnerabilidades_priorizadas.csv
 │   └── ativos_expostos.csv
-│   └── dashboard_executivo_cyber.html
+│   └── Cyber Exposure _ Dashboard executivo.html
 │
 ├── main.py
 ├── requirements.txt
