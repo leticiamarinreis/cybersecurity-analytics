@@ -25,6 +25,7 @@ analise-vulnerabilidades/
 │   ├── padronizacao.py
 │   ├── tratamento_datas.py
 │   ├── cruzamento.py
+│   ├── dashboard_executivo_cyber.py
 │   ├── priorizacao.py
 │   ├── classificacao.py
 │   ├── kpis.py
@@ -34,6 +35,7 @@ analise-vulnerabilidades/
 ├── outputs/
 │   ├── vulnerabilidades_priorizadas.csv
 │   └── ativos_expostos.csv
+│   └── dashboard_executivo_cyber.html
 │
 ├── main.py
 ├── requirements.txt
