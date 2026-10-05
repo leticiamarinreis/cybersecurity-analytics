@@ -1,6 +1,6 @@
 # 🛡️ Análise Executiva de Vulnerabilidades & Exposição a Riscos de CyberSecurity
 
-Este projeto processa, limpa e cruza bases brontas de ativos e vulnerabilidades de TI para avaliar o nível de exposição ao risco cibernético, diagnosticar problemas de qualidade de dados e gerar insumos para priorização estratégica e tomada de decisão executiva.
+Este projeto processa, limpa e cruza bases de ativos e vulnerabilidades de TI para avaliar o nível de exposição ao risco cibernético, diagnosticar problemas de qualidade de dados e gerar insumos para priorização estratégica e tomada de decisão executiva.
 
 ---
 
