@@ -1,0 +1,2001 @@
+﻿vuln_id;ativo_id;severidade;origem;data_abertura;data_correcao;status;cvss_score
+V00001;A0078;Baixa;Cloud Security;21/03/2026;;Em tratamento;2.8
+V00002;A0060;Alta;Qualys;01/06/2026;;Em tratamento;7.5
+V00003;A0080;Alta;Veracode;18/08/2026;;Aberta;1.7
+V00004;A0086;Alta;Qualys;16/06/2026;;Aberta;2.5
+V00005;A0089;Alta;Cloud Security;12/02/2026;;Em tratamento;4.4
+V00006;A0025;Crítica;Cloud Security;02/05/2026;;Aberta;8.9
+V00007;A0061;Média;Veracode;29/03/2026;;Aceita;5.9
+V00008;A0189;Baixa;Pentest;12/01/2026;;Aceita;4.4
+V00009;A0186;Alta;Veracode;15/03/2026;;Em tratamento;3.1
+V00010;A0173;Baixa;Veracode;16/09/2026;;Em tratamento;1.7
+V00011;A0044;Alta;Qualys;13/09/2026;;Aberta;3.1
+V00012;A0046;Crítica;Veracode;13/09/2026;;Aceita;5.6
+V00013;A0060;Baixa;Pentest;09/02/2026;14/03/2026;Corrigida;2.7
+V00014;A0039;Alta;Qualys;08/04/2026;;Aberta;4.2
+V00015;A0078;Baixa;Cloud Security;06/02/2026;;Em tratamento;3.3
+V00016;A0019;Baixa;Cloud Security;08/06/2026;;Aberta;6.4
+V00017;A0037;Média;Cloud Security;21/06/2026;;Em tratamento;8.1
+V00018;A0188;Baixa;Cloud Security;04/06/2026;;Aberta;4.9
+V00019;A0090;Média;Pentest;05/03/2026;;Em tratamento;9.6
+V00020;A0180;Média;Qualys;17/05/2026;;Aberta;0.2
+V00021;A0183;Média;Cloud Security;11/07/2026;;Aceita;3.9
+V00022;A0046;Alta;Cloud Security;02/04/2026;29/04/2026;Corrigida;7.6
+V00023;A0200;N/A;Veracode;08/08/2026;26/09/2026;Corrigida;2.7
+V00024;A0147;Média;Qualys;22/07/2026;;Aceita;7.1
+V00025;A0060;Baixa;Veracode;26/04/2026;;Em tratamento;9.6
+V00026;A0089;Baixa;Cloud Security;14/06/2026;;Aberta;3.4
+V00027;A0172;Crítica;Pentest;02/05/2026;;Aberta;1.4
+V00028;A0070;Alta;Veracode;09/09/2026;;Em tratamento;2.5
+V00029;A0033;Alta;Cloud Security;22/05/2026;;Aceita;0.7
+V00030;A0145;Baixa;Qualys;13/05/2026;31/05/2026;Corrigida;2.4
+V00031;A0197;Baixa;Pentest;04/06/2026;;Aberta;1.8
+V00032;A0107;Média;Qualys;23/08/2026;;Aceita;0.6
+V00033;A0038;Baixa;Qualys;08/08/2026;;Em tratamento;5.2
+V00034;A0011;Média;Veracode;09/03/2026;;Em tratamento;0.3
+V00035;A0017;Crítica;Cloud Security;16/09/2026;;Aceita;3.0
+V00036;A0050;Média;Veracode;20/07/2026;;Em tratamento;8.3
+V00037;A0009;Alta;Pentest;03/06/2026;03/08/2026;Corrigida;1.5
+V00038;A0101;Média;Veracode;06/03/2026;;Em tratamento;0.9
+V00039;A0096;Alta;Cloud Security;06/07/2026;;Aberta;8.6
+V00040;A0183;Crítica;Cloud Security;09/07/2026;;Aberta;9.6
+V00041;A0199;Média;Veracode;24/02/2026;;Em tratamento;8.3
+V00042;A0078;Baixa;Pentest;06/05/2026;;Aceita;2.1
+V00043;A0085;Média;Cloud Security;04/09/2026;24/11/2026;Corrigida;3.8
+V00044;A0150;Média;Cloud Security;23/03/2026;;Aceita;5.3
+V00045;A0166;Alta;Qualys;15/03/2026;;Aceita;6.7
+V00046;A0101;N/A;Pentest;19/04/2026;;Em tratamento;0.3
+V00047;A0167;Alta;Pentest;03-29-2026;;Em tratamento;2.6
+V00048;A0036;Baixa;Qualys;13/07/2026;;Em tratamento;0.7
+V00049;A0163;Alta;Qualys;23/03/2026;;Em tratamento;8.6
+V00050;A0088;Média;Cloud Security;15/04/2026;;Aceita;5.7
+V00051;A0017;Média;Cloud Security;14/07/2026;;Em tratamento;1.8
+V00052;A0058;Média;Cloud Security;20/01/2026;;Em tratamento;6.4
+V00053;A0199;Baixa;Cloud Security;26/02/2026;;Aberta;0.3
+V00054;A0178;Crítica;Veracode;25/07/2026;;Aberta;7.2
+V00055;A0025;Alta;Pentest;21/06/2026;;Em tratamento;2.5
+V00056;A0193;Alta;Qualys;15/08/2026;;Aberta;0.8
+V00057;A0056;Baixa;Veracode;18/06/2026;;Em tratamento;7.4
+V00058;A0128;Baixa;Cloud Security;02/05/2026;;Aberta;1.2
+V00059;A0017;Média;Cloud Security;07/02/2026;;Em tratamento;5.9
+V00060;A0060;Alta;Veracode;08/05/2026;;Em tratamento;1.7
+V00061;A0069;Média;Veracode;18/02/2026;;Em tratamento;0.1
+V00062;A0066;Média;Veracode;05/07/2026;;Aberta;5.2
+V00063;A0080;Crítica;Cloud Security;02/02/2026;13/02/2026;Corrigida;2.5
+V00064;A0086;Baixa;Cloud Security;18/04/2026;;Aceita;0.5
+V00065;A0197;Crítica;Cloud Security;25/02/2026;;Aberta;4.0
+V00066;A0134;Crítica;Veracode;15/04/2026;05/05/2026;Corrigida;9.5
+V00067;A0146;Alta;Cloud Security;04/06/2026;13/06/2026;Corrigida;0.3
+V00068;A0024;Média;Pentest;14/09/2026;;Aberta;4.2
+V00069;A0187;media;Cloud Security;04/03/2026;;Em tratamento;6.7
+V00070;A0160;Média;Pentest;16/06/2026;;Aceita;1.8
+V00071;A0200;Alta;Qualys;2026-13-01;31/08/2026;Corrigida;4.8
+V00072;A0064;Baixa;Cloud Security;22/07/2026;;Em tratamento;3.2
+V00073;A0138;Média;Cloud Security;10/01/2026;;Aberta;6.9
+V00074;A0036;Baixa;Cloud Security;08/08/2026;;Em tratamento;7.3
+V00075;A0032;Média;Qualys;13/03/2026;;Em tratamento;1.1
+V00076;A0150;Média;Pentest;22/06/2026;;Em tratamento;9.3
+V00077;A0112;Média;Qualys;10/02/2026;;Em tratamento;8.9
+V00078;A0101;Média;Pentest;06/08/2026;;Aberta;8.6
+V00079;A0058;Média;Cloud Security;25/08/2026;;Em tratamento;0.8
+V00080;A0056;Alta;Pentest;03/06/2026;;Em tratamento;1.9
+V00081;A0021;Baixa;Cloud Security;02/07/2026;;Em tratamento;9.5
+V00082;A0115;Alta;Qualys;04/01/2026;10/03/2026;Corrigida;8.6
+V00083;A0057;Baixa;Pentest;12/08/2026;;Em tratamento;3.2
+V00084;A0198;Crítica;Veracode;01/05/2026;;Aceita;0.1
+V00085;A0011;Média;Cloud Security;31/05/2026;;Em tratamento;8.9
+V00086;A0191;Crítica;Veracode;10/04/2026;;Aceita;0.3
+V00087;A0142;Alta;Veracode;04/03/2026;;Em tratamento;9.6
+V00088;A0142;Crítica;Veracode;31/01/2026;;Aberta;4.7
+V00089;A0123;Média;Cloud Security;31/02/2026;;Aceita;1.0
+V00090;A0178;Média;Pentest;19/04/2026;;Aceita;7.5
+V00091;A0148;Crítica;Veracode;04/04/2026;;Em tratamento;9.0
+V00092;A0046;critica;Pentest;26/07/2026;;Em tratamento;6.1
+V00093;A0138;Baixa;Qualys;25/05/2026;;Em tratamento;7.7
+V00094;A0150;Baixa;Veracode;06-16-2026;;Aberta;3.8
+V00095;A0185;Crítica;Cloud Security;15/04/2026;18/06/2026;Corrigida;0.5
+V00096;A0194;Baixa;Veracode;21/08/2026;;Em tratamento;8.6
+V00097;A0031;Baixa;Veracode;27/06/2026;;Aberta;2.1
+V00098;A0057;Alta;Pentest;30/03/2026;22/05/2026;Corrigida;7.6
+V00099;A0192;Alta;Pentest;22/02/2026;;Aberta;5.6
+V00100;A0112;Crítica;Cloud Security;08/01/2026;04/04/2026;Corrigida;4.1
+V00101;A9999;Média;Cloud Security;08/06/2026;;Aceita;3.9
+V00102;A0190;Alta;Qualys;17/02/2026;;Aceita;3.7
+V00103;A0188;Crítica;Veracode;03/01/2026;;Aceita;6.1
+V00104;A0026;Alta;Pentest;08/06/2026;23/08/2026;Corrigida;5.8
+V00105;A0079;Alta;Pentest;02/09/2026;;Aberta;2.9
+V00106;A0100;Crítica;Pentest;02/02/2026;;Aberta;7.3
+V00107;A0067;Crítica;Cloud Security;22/04/2026;;Aberta;5.2
+V00108;A0033;Média;Cloud Security;16/05/2026;25/07/2026;Corrigida;2.8
+V00109;A0047;Alta;Cloud Security;21/04/2026;;Aceita;2.5
+V00110;A0044;Média;Qualys;01/08/2026;;Aceita;9.8
+V00111;A0073;Crítica;Veracode;12/04/2026;;Aceita;9.0
+V00112;A0094;Média;Pentest;09/07/2026;18/09/2026;Corrigida;8.7
+V00113;A0188;Crítica;Pentest;01/03/2026;;Em tratamento;2.6
+V00114;A0132;Média;Pentest;08/05/2026;;Aceita;7.1
+V00115;A0193;media;Pentest;10/09/2026;04/11/2026;Corrigida;7.6
+V00116;A0126;Crítica;Veracode;21/02/2026;;Aceita;5.4
+V00117;A0075;Baixa;Qualys;05/02/2026;14/03/2026;Corrigida;1.3
+V00118;A0127;Média;Veracode;15/03/2026;24/03/2026;Corrigida;3.6
+V00119;A0112;Crítica;Cloud Security;10/08/2026;;Aberta;9.6
+V00120;A0045;Alta;Veracode;31/01/2026;;Em tratamento;1.9
+V00121;A0166;Crítica;Veracode;22/03/2026;;Aberta;3.4
+V00122;A0138;Alta;Pentest;02/09/2026;;Aceita;1.9
+V00123;A0013;Alta;Qualys;08/08/2026;;Em tratamento;8.1
+V00124;A0157;Crítica;Qualys;04/02/2026;;Aberta;3.6
+V00125;A0174;Baixa;Qualys;29/07/2026;;Aceita;0.6
+V00126;A0017;Alta;Veracode;10/01/2026;;Aceita;2.2
+V00127;A0195;Crítica;Cloud Security;01/06/2026;;Aberta;4.7
+V00128;A0139;Baixa;Veracode;05/09/2026;17/09/2026;Corrigida;4.3
+V00129;A0191;Alta;Pentest;26/02/2026;;Aceita;5.1
+V00130;A0098;Média;Pentest;30/06/2026;;Em tratamento;1.1
+V00131;A0016;Baixa;Pentest;12/02/2026;;Aceita;5.4
+V00132;A0082;Baixa;Veracode;08/02/2026;12/02/2026;Corrigida;4.2
+V00133;A0190;Baixa;Pentest;19/08/2026;28/09/2026;Corrigida;9.2
+V00134;A0131;Baixa;Pentest;26/04/2026;;Aceita;6.6
+V00135;A0021;Média;Veracode;11/06/2026;;Em tratamento;7.7
+V00136;A0055;Média;Cloud Security;07/08/2026;;Aberta;7.6
+V00137;A0115;Média;Cloud Security;01/02/2026;;Aberta;0.6
+V00138;A0024;;Pentest;11/03/2026;04/04/2026;Corrigida;6.4
+V00139;A0035;Crítica;Pentest;19/03/2026;;Aberta;9.7
+V00140;A0085;Alta;Pentest;14/07/2026;;Aceita;9.1
+V00141;A0138;Crítica;Cloud Security;05-30-2026;17/06/2026;Corrigida;2.8
+V00142;A0173;Crítica;Veracode;2026-13-01;;Aberta;6.2
+V00143;A0014;Alta;Qualys;07/03/2026;;Aceita;9.1
+V00144;A0082;Baixa;Qualys;02/03/2026;09/03/2026;Corrigida;9.3
+V00145;A0141;Alta;Pentest;30/03/2026;24/06/2026;Corrigida;7.3
+V00146;A0092;Média;Pentest;04/08/2026;;Aceita;5.2
+V00147;A0005;Baixa;Veracode;01/06/2026;;Aberta;6.7
+V00148;A0065;Baixa;Cloud Security;23/03/2026;06/05/2026;Corrigida;1.4
+V00149;A0036;Alta;Cloud Security;24/06/2026;19/07/2026;Corrigida;4.6
+V00150;A0066;Média;Veracode;11/05/2026;18/07/2026;Corrigida;0.6
+V00151;A0200;Média;Cloud Security;10/01/2026;;Em tratamento;0.5
+V00152;A0165;Crítica;Veracode;04/02/2026;;Em tratamento;2.3
+V00153;A0117;Alta;Qualys;18/02/2026;;Em tratamento;0.3
+V00154;A0133;Alta;Cloud Security;29/03/2026;;Aberta;6.9
+V00155;A0057;Alta;Qualys;12/09/2026;;Em tratamento;9.0
+V00156;A0122;Média;Cloud Security;04/05/2026;;Aberta;8.3
+V00157;A0094;Média;Qualys;20/01/2026;;Aberta;6.4
+V00158;A0130;Média;Cloud Security;04/09/2026;09/09/2026;Corrigida;6.9
+V00159;A0137;Média;Pentest;15/07/2026;;Aberta;3.7
+V00160;A0116;Média;Qualys;08/07/2026;;Em tratamento;4.2
+V00161;A0006;BaixA;Cloud Security;05/01/2026;;Aceita;6.4
+V00162;A0043;Baixa;Cloud Security;21/07/2026;08/10/2026;Corrigida;5.4
+V00163;A0093;Média;Pentest;10/07/2026;16/09/2026;Corrigida;5.5
+V00164;A0134;Média;Veracode;15/07/2026;;Em tratamento;6.0
+V00165;A0008;Alta;Cloud Security;13/06/2026;;Aberta;7.1
+V00166;A0021;Média;Pentest;14/06/2026;;Aberta;6.2
+V00167;A0041;Média;Cloud Security;03/07/2026;;Aberta;2.7
+V00168;A0017;Média;Qualys;16/03/2026;;Aceita;8.7
+V00169;A0190;Baixa;Veracode;14/02/2026;07/03/2026;Corrigida;5.8
+V00170;A0065;Baixa;Qualys;12/02/2026;15/02/2026;Corrigida;4.8
+V00171;A0084;Baixa;Veracode;26/02/2026;;Aceita;6.5
+V00172;A0062;Média;Cloud Security;05/02/2026;23/04/2026;Corrigida;4.2
+V00173;A0190;Alta;Qualys;16/05/2026;;Em tratamento;3.8
+V00174;A0069;Média;Pentest;26/05/2026;;Em tratamento;0.9
+V00175;A0124;Crítica;Qualys;03/06/2026;;Em tratamento;5.9
+V00176;A0021;Baixa;Cloud Security;19/02/2026;;Em tratamento;3.8
+V00177;A0019;Alta;Qualys;30/05/2026;21/07/2026;Corrigida;5.5
+V00178;A0098;Baixa;Veracode;31/02/2026;;Aceita;4.3
+V00179;A0198;Média;Qualys;12/08/2026;;Aceita;7.4
+V00180;A0124;Média;Cloud Security;23/04/2026;;Em tratamento;6.5
+V00181;A0120;Baixa;Cloud Security;03/06/2026;;Aberta;5.4
+V00182;A0132;Média;Pentest;07/09/2026;;Aberta;3.8
+V00183;A0152;Média;Qualys;19/01/2026;;Aberta;6.8
+V00184;A0029;ALTA;Veracode;14/04/2026;;Aberta;6.1
+V00185;A0130;Crítica;Qualys;15/04/2026;;Aceita;4.7
+V00186;A0029;Crítica;Veracode;09/07/2026;;Aceita;0.8
+V00187;A0060;Crítica;Qualys;23/06/2026;;Em tratamento;2.8
+V00188;A0030;Alta;Pentest;06/10/2026;;Aberta;5.0
+V00189;A0024;Crítica;Cloud Security;21/04/2026;11/06/2026;Corrigida;6.2
+V00190;A0051;Crítica;Veracode;01/06/2026;;Aberta;6.2
+V00191;A0073;Crítica;Cloud Security;13/03/2026;;Aberta;3.8
+V00192;A0200;Baixa;Pentest;18/03/2026;;Aceita;3.8
+V00193;A0153;Média;Veracode;16/04/2026;;Aceita;4.7
+V00194;A0067;Baixa;Cloud Security;10/06/2026;18/06/2026;Corrigida;8.6
+V00195;A0172;Média;Veracode;13/05/2026;;Aceita;2.5
+V00196;A0100;Crítica;Veracode;12/03/2026;;Em tratamento;4.8
+V00197;A0152;Alta;Cloud Security;05/09/2026;09/10/2026;Corrigida;2.9
+V00198;A0199;Baixa;Qualys;22/06/2026;;Aceita;2.7
+V00199;A0031;Alta;Veracode;01/05/2026;;Aberta;9.4
+V00200;A0059;Baixa;Qualys;08/02/2026;;Aceita;5.7
+V00201;A0139;Baixa;Pentest;17/06/2026;;Em tratamento;5.5
+V00202;A0013;Média;Pentest;01/07/2026;;Em tratamento;7.1
+V00203;A0106;Média;Cloud Security;22/05/2026;19/06/2026;Corrigida;0.5
+V00204;A0072;Alta;Qualys;14/03/2026;30/03/2026;Corrigida;4.3
+V00205;A0180;Média;Veracode;26/03/2026;;Em tratamento;6.4
+V00206;A0184;Baixa;Veracode;08/01/2026;;Aberta;8.4
+V00207;A0110;media;Cloud Security;15/01/2026;;Em tratamento;0.8
+V00208;A0077;Alta;Veracode;16/06/2026;;Aceita;4.2
+V00209;A0175;Alta;Qualys;06/05/2026;27/07/2026;Corrigida;8.3
+V00210;A0083;Crítica;Pentest;01/02/2026;;Aceita;6.1
+V00211;A0188;Crítica;Cloud Security;14/02/2026;;Em tratamento;7.4
+V00212;A0103;Média;Pentest;06/04/2026;14/04/2026;Corrigida;7.2
+V00213;A0073;Crítica;Cloud Security;2026-13-01;15/03/2026;Corrigida;7.9
+V00214;A0075;Alta;Pentest;02/02/2026;;Aceita;2.2
+V00215;A0036;Alta;Pentest;16/07/2026;;Aberta;9.4
+V00216;A0184;Crítica;Cloud Security;08/08/2026;;Aberta;7.6
+V00217;A0057;Baixa;Pentest;26/04/2026;;Aberta;4.5
+V00218;A0200;Alta;Pentest;10/05/2026;31/07/2026;Corrigida;6.7
+V00219;A0156;Média;Cloud Security;29/04/2026;;Aberta;1.0
+V00220;A0182;Alta;Qualys;31/08/2026;;Aberta;9.5
+V00221;A0200;Média;Veracode;20/06/2026;;Aceita;1.9
+V00222;A0012;Alta;Veracode;24/04/2026;;Aceita;0.3
+V00223;A0167;Alta;Veracode;15/04/2026;;Em tratamento;5.9
+V00224;A0061;Alta;Qualys;08/02/2026;15/02/2026;Corrigida;2.2
+V00225;A0123;Crítica;Veracode;30/05/2026;;Aberta;2.7
+V00226;A0044;Alta;Cloud Security;18/08/2026;;Aceita;2.2
+V00227;A0176;Crítica;Pentest;16/01/2026;;Aceita;7.8
+V00228;A0099;Crítica;Qualys;23/01/2026;30/03/2026;Corrigida;10.0
+V00229;A0105;Alta;Veracode;30/04/2026;;Em tratamento;1.3
+V00230;A0039;;Qualys;31/05/2026;10/06/2026;Corrigida;5.8
+V00231;A0117;Crítica;Veracode;20/04/2026;31/05/2026;Corrigida;1.4
+V00232;A0031;Média;Cloud Security;17/08/2026;;Em tratamento;5.3
+V00233;A0023;Baixa;Cloud Security;08/03/2026;;Em tratamento;4.9
+V00234;A0018;Baixa;Qualys;11/01/2026;;Aceita;9.4
+V00235;A0032;Baixa;Veracode;01-30-2026;08/02/2026;Corrigida;5.1
+V00236;A0039;Baixa;Veracode;09/03/2026;;Aceita;1.4
+V00237;A0083;Alta;Veracode;30/07/2026;14/10/2026;Corrigida;0.3
+V00238;A0025;Alta;Qualys;20/04/2026;;Em tratamento;0.9
+V00239;A0115;Alta;Cloud Security;15/09/2026;;Aberta;2.3
+V00240;A0127;Alta;Qualys;03/08/2026;;Aberta;0.4
+V00241;A0095;Média;Veracode;12/09/2026;;Em tratamento;7.4
+V00242;A0189;Alta;Pentest;17/07/2026;;Aberta;2.0
+V00243;A0143;Alta;Pentest;16/08/2026;;Aceita;7.7
+V00244;A0096;Crítica;Cloud Security;20/02/2026;;Em tratamento;3.0
+V00245;A0079;Alta;Veracode;22/07/2026;30/07/2026;Corrigida;3.2
+V00246;A0164;Média;Cloud Security;09/06/2026;01/09/2026;Corrigida;0.1
+V00247;A0009;Crítica;Cloud Security;26/01/2026;;Aberta;5.3
+V00248;A0095;Crítica;Veracode;12/03/2026;;Aberta;3.4
+V00249;A0089;Crítica;Cloud Security;26/05/2026;;Em tratamento;7.5
+V00250;A0149;Média;Cloud Security;13/08/2026;;Aberta;9.8
+V00251;A0127;Alta;Cloud Security;02/02/2026;;Em tratamento;1.1
+V00252;A0146;Alta;Cloud Security;19/05/2026;31/05/2026;Corrigida;2.9
+V00253;A0032;;Veracode;26/07/2026;;Em tratamento;4.8
+V00254;A0132;Crítica;Cloud Security;21/01/2026;16/03/2026;Corrigida;4.9
+V00255;A0154;Média;Veracode;24/08/2026;15/10/2026;Corrigida;5.2
+V00256;A0164;Alta;Qualys;13/01/2026;;Aberta;9.6
+V00257;A0082;Alta;Cloud Security;27/01/2026;;Aceita;3.7
+V00258;A0094;Média;Veracode;24/07/2026;25/07/2026;Corrigida;9.1
+V00259;A0193;Alta;Qualys;06/03/2026;;Aceita;0.4
+V00260;A0078;Baixa;Qualys;09/06/2026;;Aberta;7.1
+V00261;A0142;Média;Cloud Security;20/08/2026;;Aberta;9.2
+V00262;A0070;Crítica;Cloud Security;24/01/2026;19/02/2026;Corrigida;0.6
+V00263;A0176;Média;Cloud Security;16/01/2026;25/01/2026;Corrigida;1.5
+V00264;A0200;Baixa;Veracode;24/06/2026;;Aberta;7.8
+V00265;A0197;Média;Pentest;13/08/2026;;Aberta;4.7
+V00266;A0127;Crítica;Qualys;02/01/2026;;Em tratamento;0.4
+V00267;A0057;Média;Veracode;31/02/2026;07/04/2026;Corrigida;2.2
+V00268;A0102;Crítica;Pentest;02/03/2026;;Aceita;1.2
+V00269;A0051;Baixa;Veracode;14/04/2026;;Em tratamento;1.6
+V00270;A0026;Baixa;Qualys;12/01/2026;;Em tratamento;7.8
+V00271;A0067;Crítica;Pentest;01/03/2026;;Em tratamento;6.7
+V00272;A0056;Alta;Pentest;06/06/2026;15/08/2026;Corrigida;0.2
+V00273;A0042;Média;Pentest;26/04/2026;;Em tratamento;4.2
+V00274;A0120;Média;Pentest;03/02/2026;;Aberta;2.6
+V00275;A0100;Critica;Pentest;04/02/2026;;Aberta;4.4
+V00276;A0021;N/A;Qualys;15/07/2026;;Em tratamento;8.9
+V00277;A0014;Baixa;Qualys;03/03/2026;07/04/2026;Corrigida;9.4
+V00278;A0005;Baixa;Cloud Security;15/08/2026;;Aceita;0.3
+V00279;A0169;Alta;Pentest;16/02/2026;;Aceita;8.4
+V00280;A0131;Média;Pentest;16/06/2026;;Em tratamento;3.4
+V00281;A0038;Baixa;Qualys;19/06/2026;;Em tratamento;0.8
+V00282;A0106;Alta;Cloud Security;01/08/2026;;Aberta;0.3
+V00283;A0043;Baixa;Qualys;29/01/2026;;Aceita;7.1
+V00284;A0057;Crítica;Qualys;2026-13-01;;Aceita;2.4
+V00285;A0068;Baixa;Veracode;16/05/2026;15/07/2026;Corrigida;5.3
+V00286;A0180;Baixa;Cloud Security;29/07/2026;;Aceita;6.6
+V00287;A0160;Baixa;Cloud Security;04/01/2026;;Em tratamento;1.8
+V00288;A0007;Media;Pentest;21/08/2026;;Aberta;7.0
+V00289;A0152;Crítica;Qualys;24/01/2026;;Em tratamento;6.4
+V00290;A0164;Crítica;Veracode;15/06/2026;10/07/2026;Corrigida;4.9
+V00291;A0024;Baixa;Qualys;05/05/2026;;Aceita;8.0
+V00292;A0126;Alta;Qualys;08/05/2026;;Em tratamento;8.9
+V00293;A0171;Alta;Cloud Security;28/07/2026;;Aceita;6.7
+V00294;A0050;Baixa;Qualys;18/05/2026;;Aceita;3.7
+V00295;A0128;Alta;Pentest;28/05/2026;;Aceita;1.6
+V00296;A0149;Crítica;Pentest;04/09/2026;03/11/2026;Corrigida;2.9
+V00297;A0118;Crítica;Qualys;19/01/2026;;Em tratamento;2.1
+V00298;A0069;Alta;Pentest;04/07/2026;;Aceita;1.6
+V00299;A0001;N/A;Qualys;07/06/2026;26/06/2026;Corrigida;3.4
+V00300;A0106;Média;Qualys;27/08/2026;30/10/2026;Corrigida;1.9
+V00301;A0173;Média;Qualys;06/03/2026;;Em tratamento;3.7
+V00302;A0070;Média;Qualys;02/04/2026;;Em tratamento;4.0
+V00303;A0081;Crítica;Veracode;19/04/2026;;Em tratamento;8.3
+V00304;A0075;Alta;Qualys;17/04/2026;;Aberta;1.4
+V00305;A0046;Baixa;Veracode;15/02/2026;;Aceita;9.0
+V00306;A0183;Baixa;Pentest;14/02/2026;;Aceita;0.7
+V00307;A0153;Baixa;Veracode;24/01/2026;;Aceita;7.6
+V00308;A0066;Média;Pentest;13/04/2026;;Aceita;0.8
+V00309;A0119;Alta;Pentest;18/08/2026;07/09/2026;Corrigida;3.9
+V00310;A0185;Média;Qualys;30/03/2026;23/05/2026;Corrigida;4.7
+V00311;A0027;Média;Veracode;21/06/2026;;Aberta;3.2
+V00312;A0073;Baixa;Qualys;01/05/2026;07/07/2026;Corrigida;1.6
+V00313;A0058;Alta;Cloud Security;02/02/2026;;Aberta;7.5
+V00314;A0167;Alta;Qualys;29/07/2026;;Em tratamento;9.9
+V00315;A0110;Alto;Cloud Security;30/03/2026;15/04/2026;Corrigida;4.7
+V00316;A0102;Crítica;Cloud Security;03/08/2026;19/10/2026;Corrigida;3.0
+V00317;A0192;Baixa;Pentest;10/04/2026;;Aceita;0.1
+V00318;A0011;Crítica;Qualys;08/06/2026;;Aberta;8.1
+V00319;A0137;Alta;Pentest;27/04/2026;10/07/2026;Corrigida;6.2
+V00320;A0117;Crítica;Cloud Security;19/05/2026;;Aceita;0.1
+V00321;A0115;Média;Qualys;18/04/2026;;Aceita;5.6
+V00322;A0117;media;Qualys;31/01/2026;;Em tratamento;2.0
+V00323;A0126;Crítica;Pentest;18/01/2026;28/02/2026;Corrigida;4.7
+V00324;A0179;Média;Cloud Security;23/04/2026;21/05/2026;Corrigida;5.9
+V00325;A0119;Crítica;Pentest;09/04/2026;;Em tratamento;7.4
+V00326;A0189;Crítica;Veracode;17/07/2026;21/08/2026;Corrigida;8.3
+V00327;A0186;Média;Cloud Security;12/07/2026;;Em tratamento;0.6
+V00328;A0093;Baixa;Cloud Security;24/08/2026;;Aberta;0.6
+V00329;A0127;Baixa;Qualys;02/06/2026;;Em tratamento;2.9
+V00330;A0054;Baixa;Qualys;19/01/2026;;Aberta;2.1
+V00331;A0171;Crítica;Pentest;27/01/2026;;Aceita;2.1
+V00332;A0087;Baixa;Veracode;13/07/2026;;Aberta;8.9
+V00333;A0172;Crítica;Cloud Security;09/01/2026;;Em tratamento;2.2
+V00334;A0143;Alta;Pentest;07/02/2026;08/02/2026;Corrigida;2.1
+V00335;A0039;Média;Pentest;13/01/2026;;Aceita;0.7
+V00336;A0054;Crítica;Qualys;17/08/2026;06/11/2026;Corrigida;1.1
+V00337;A0193;Baixa;Pentest;06/01/2026;;Aceita;6.8
+V00338;A0030;Alta;Pentest;23/02/2026;04/05/2026;Corrigida;7.3
+V00339;A0151;Alta;Veracode;29/04/2026;;Em tratamento;9.9
+V00340;A0027;Crítica;Cloud Security;28/04/2026;;Em tratamento;4.4
+V00341;A0147;Crítica;Qualys;21/01/2026;;Em tratamento;1.7
+V00342;A0186;Crítica;Cloud Security;12/07/2026;;Em tratamento;6.7
+V00343;A0027;Baixa;Veracode;13/08/2026;;Em tratamento;3.9
+V00344;A0091;Crítica;Qualys;31/05/2026;04/07/2026;Corrigida;6.2
+V00345;A0193;BaixA;Cloud Security;11/09/2026;;Aberta;6.1
+V00346;A0004;Crítica;Cloud Security;18/06/2026;03/08/2026;Corrigida;4.3
+V00347;A0054;Alta;Cloud Security;11/06/2026;;Em tratamento;1.1
+V00348;A0076;Alta;Cloud Security;22/03/2026;;Em tratamento;2.2
+V00349;A0079;Crítica;Pentest;12/05/2026;;Em tratamento;10.0
+V00350;A0120;Alta;Veracode;01/02/2026;;Aceita;3.1
+V00351;A0130;Média;Veracode;22/05/2026;;Aceita;1.4
+V00352;A0191;Baixa;Pentest;28/03/2026;18/06/2026;Corrigida;7.4
+V00353;A0098;Baixa;Pentest;11/02/2026;16/02/2026;Corrigida;7.3
+V00354;A0116;Alta;Pentest;30/01/2026;;Em tratamento;7.7
+V00355;A0035;Média;Veracode;2026-13-01;;Aceita;7.5
+V00356;A0175;Média;Pentest;31/02/2026;;Aceita;1.0
+V00357;A0002;Média;Cloud Security;04/04/2026;;Aceita;6.1
+V00358;A0118;Crítica;Veracode;21/02/2026;;Aceita;5.0
+V00359;A0111;Crítica;Pentest;08/08/2026;;Aceita;5.3
+V00360;A0184;Baixa;Pentest;31/07/2026;;Aberta;3.1
+V00361;A0156;Baixa;Qualys;03/04/2026;;Em tratamento;5.3
+V00362;A0138;Média;Pentest;19/05/2026;05/08/2026;Corrigida;9.6
+V00363;A0105;Crítica;Cloud Security;01/09/2026;04/09/2026;Corrigida;1.9
+V00364;A0113;Baixa;Qualys;21/02/2026;;Aceita;3.6
+V00365;A0012;Alta;Cloud Security;16/08/2026;;Aceita;7.9
+V00366;A0007;Alta;Veracode;24/02/2026;;Em tratamento;9.3
+V00367;A0100;Baixa;Cloud Security;02/09/2026;;Aceita;4.1
+V00368;A0139;critica;Veracode;31/05/2026;;Em tratamento;9.3
+V00369;A0084;Baixa;Pentest;16/07/2026;24/09/2026;Corrigida;6.6
+V00370;A0004;Média;Qualys;17/08/2026;;Aberta;3.2
+V00371;A0130;Baixa;Veracode;05/08/2026;;Aberta;5.8
+V00372;A0084;Crítica;Cloud Security;15/07/2026;23/09/2026;Corrigida;8.5
+V00373;A0067;Alta;Veracode;25/05/2026;;Em tratamento;5.6
+V00374;A0034;Média;Veracode;02/02/2026;;Em tratamento;0.4
+V00375;A0071;Alta;Qualys;22/05/2026;;Em tratamento;1.6
+V00376;A0099;Baixa;Veracode;05/07/2026;;Aberta;2.7
+V00377;A0145;Média;Cloud Security;12/02/2026;;Aberta;5.9
+V00378;A0105;Crítica;Qualys;01/02/2026;;Em tratamento;9.2
+V00379;A0173;Alta;Veracode;09/09/2026;21/11/2026;Corrigida;1.5
+V00380;A0066;Crítica;Qualys;20/03/2026;;Em tratamento;1.9
+V00381;A0091;Crítica;Veracode;27/02/2026;;Aberta;7.5
+V00382;A0041;Alta;Cloud Security;03/07/2026;;Aberta;6.3
+V00383;A0153;Baixa;Qualys;13/03/2026;;Em tratamento;6.0
+V00384;A0116;Alta;Qualys;05/08/2026;23/10/2026;Corrigida;4.5
+V00385;A0027;Alta;Qualys;10/04/2026;;Em tratamento;3.9
+V00386;A0143;Baixa;Cloud Security;02/05/2026;;Aceita;8.5
+V00387;A0184;Alta;Cloud Security;17/07/2026;;Aceita;8.0
+V00388;A0109;Alta;Veracode;20/03/2026;;Em tratamento;3.7
+V00389;A0003;Crítica;Qualys;30/06/2026;;Aberta;8.7
+V00390;A0093;Alta;Cloud Security;28/04/2026;;Aceita;7.9
+V00391;A0053;BaixA;Qualys;01/09/2026;23/11/2026;Corrigida;0.2
+V00392;A0068;Média;Qualys;26/04/2026;;Em tratamento;3.1
+V00393;A0079;Crítica;Pentest;14/01/2026;;Em tratamento;4.3
+V00394;A0149;Média;Cloud Security;17/06/2026;;Aberta;9.2
+V00395;A0192;Média;Qualys;17/01/2026;;Em tratamento;5.1
+V00396;A0063;Alta;Qualys;03/03/2026;;Aberta;3.1
+V00397;A0155;Baixa;Pentest;10/01/2026;02/04/2026;Corrigida;3.8
+V00398;A0167;Crítica;Veracode;10/04/2026;;Aceita;1.9
+V00399;A0112;Baixa;Cloud Security;17/08/2026;21/10/2026;Corrigida;4.0
+V00400;A0093;Baixa;Pentest;05/08/2026;12/10/2026;Corrigida;9.3
+V00401;A0074;Alta;Qualys;25/08/2026;;Em tratamento;1.5
+V00402;A0124;Alta;Cloud Security;09/07/2026;26/07/2026;Corrigida;8.9
+V00403;A0026;Média;Pentest;18/02/2026;;Aceita;3.9
+V00404;A0193;Baixa;Cloud Security;19/01/2026;07/04/2026;Corrigida;2.2
+V00405;A0068;Alta;Pentest;23/06/2026;23/08/2026;Corrigida;3.4
+V00406;A0034;Crítica;Qualys;10/02/2026;;Em tratamento;9.3
+V00407;A0181;Crítica;Qualys;08/04/2026;;Aberta;3.0
+V00408;A0016;Crítica;Pentest;08/01/2026;;Em tratamento;1.5
+V00409;A0164;Alta;Qualys;23/07/2026;;Aberta;7.5
+V00410;A0001;Baixa;Qualys;22/06/2026;03/09/2026;Corrigida;3.3
+V00411;A0186;Média;Veracode;19/06/2026;;Aceita;8.0
+V00412;A0074;Baixa;Pentest;16/02/2026;;Aberta;5.6
+V00413;A0080;Baixa;Qualys;29/01/2026;;Em tratamento;2.6
+V00414;A0142;critica;Veracode;18/07/2026;;Em tratamento;9.1
+V00415;A0033;Média;Veracode;28/08/2026;;Aberta;9.3
+V00416;A0157;Baixa;Cloud Security;18/01/2026;;Aceita;8.6
+V00417;A0187;Média;Qualys;17/08/2026;;Aceita;5.3
+V00418;A0148;Média;Qualys;11/03/2026;;Aberta;7.1
+V00419;A0057;Baixa;Veracode;07/05/2026;02/07/2026;Corrigida;0.7
+V00420;A0062;Baixa;Cloud Security;12/05/2026;;Aceita;2.9
+V00421;A0119;Baixa;Pentest;22/01/2026;;Em tratamento;8.5
+V00422;A0164;Baixa;Pentest;01/04/2026;;Em tratamento;2.0
+V00423;A0138;Crítica;Veracode;08-13-2026;21/08/2026;Corrigida;9.9
+V00424;A0155;Crítica;Veracode;07/01/2026;;Em tratamento;5.4
+V00425;A0083;Média;Veracode;17/05/2026;;Aceita;9.4
+V00426;A0083;Crítica;Veracode;2026-13-01;;Aberta;4.6
+V00427;A0135;Crítica;Pentest;06/08/2026;;Aceita;7.3
+V00428;A0075;Alta;Qualys;05/01/2026;;Aberta;3.8
+V00429;A0086;Baixa;Qualys;17/04/2026;;Aceita;4.4
+V00430;A0020;Baixa;Veracode;25/03/2026;21/06/2026;Corrigida;0.4
+V00431;A0130;Baixa;Veracode;07/02/2026;;Aberta;4.5
+V00432;A0193;Baixa;Pentest;01/01/2026;28/01/2026;Corrigida;3.7
+V00433;A0087;Baixa;Cloud Security;06/04/2026;;Em tratamento;2.7
+V00434;A0061;Baixa;Pentest;08/03/2026;12/03/2026;Corrigida;2.0
+V00435;A0153;Alta;Pentest;19/05/2026;02/06/2026;Corrigida;9.0
+V00436;A0045;Baixa;Veracode;20/02/2026;;Em tratamento;3.6
+V00437;A0193;critica;Pentest;31/05/2026;;Aberta;1.0
+V00438;A0161;Média;Qualys;28/04/2026;;Aberta;3.1
+V00439;A0031;Crítica;Cloud Security;27/04/2026;;Aceita;2.1
+V00440;A0128;Média;Veracode;13/08/2026;14/08/2026;Corrigida;9.4
+V00441;A0022;Alta;Pentest;06/02/2026;10/04/2026;Corrigida;3.5
+V00442;A0001;Crítica;Pentest;02/08/2026;;Em tratamento;4.2
+V00443;A0158;Crítica;Pentest;13/04/2026;;Aberta;9.0
+V00444;A0169;Alta;Qualys;05/03/2026;;Em tratamento;4.0
+V00445;A0092;Alta;Qualys;31/02/2026;24/06/2026;Corrigida;0.1
+V00446;A0001;Média;Veracode;10/07/2026;;Em tratamento;9.1
+V00447;A0180;Média;Veracode;08/04/2026;17/06/2026;Corrigida;6.8
+V00448;A0013;Baixa;Pentest;07/01/2026;;Aceita;5.6
+V00449;A0126;Crítica;Veracode;11/09/2026;;Aceita;8.1
+V00450;A0020;Baixa;Qualys;26/02/2026;;Aberta;2.8
+V00451;A0085;Média;Qualys;20/01/2026;;Aceita;1.7
+V00452;A0021;Crítica;Cloud Security;24/06/2026;;Aceita;7.4
+V00453;A0021;Baixa;Veracode;11/07/2026;15/08/2026;Corrigida;9.2
+V00454;A0002;Alta;Pentest;29/08/2026;02/10/2026;Corrigida;8.8
+V00455;A0061;Baixa;Pentest;08/02/2026;;Aberta;9.2
+V00456;A0163;Crítica;Qualys;30/04/2026;03/07/2026;Corrigida;6.3
+V00457;A0155;Alta;Qualys;24/06/2026;;Em tratamento;0.4
+V00458;A0178;Alta;Pentest;08/01/2026;;Aberta;0.3
+V00459;A0056;Baixa;Qualys;27/04/2026;;Em tratamento;8.0
+V00460;A0129;ALTA;Cloud Security;25/05/2026;;Aberta;9.4
+V00461;A0064;Alta;Qualys;19/01/2026;;Aberta;8.4
+V00462;A0102;Média;CloudSecurity;25/05/2026;;Em tratamento;5.8
+V00463;A0088;Alta;Veracode;15/03/2026;25/04/2026;Corrigida;5.1
+V00464;A0058;Alta;Pentest;25/08/2026;;Em tratamento;9.7
+V00465;A0086;Crítica;Qualys;14/05/2026;;Aceita;3.9
+V00466;A0048;Alta;Pentest;03/02/2026;;Aceita;7.9
+V00467;A0157;Média;Pentest;08/03/2026;28/03/2026;Corrigida;3.1
+V00468;A0199;Alta;Cloud-Security;05/05/2026;29/07/2026;Corrigida;3.7
+V00469;A0073;Alta;Veracode;14/08/2026;04/10/2026;Corrigida;10.0
+V00470;A0018;Média;Pentest;05-21-2026;;Em tratamento;6.3
+V00471;A0139;Baixa;Cloud Security;04/01/2026;;Em tratamento;1.5
+V00472;A0015;Baixa;Qualys;10/06/2026;29/07/2026;Corrigida;5.8
+V00473;A0185;Alta;Pentest;01/08/2026;;Aberta;0.8
+V00474;A0166;Alta;Qualys;15/09/2026;;Em tratamento;5.2
+V00475;A0126;Média;Pentest;20/04/2026;27/05/2026;Corrigida;3.3
+V00476;A0193;Média;Cloud Security;23/08/2026;;Em tratamento;4.7
+V00477;A0114;Baixa;Cloud Security;29/04/2026;;Aceita;5.9
+V00478;A0097;Média;Qualys;02/03/2026;;Aberta;9.0
+V00479;A0103;Média;Veracode;02/07/2026;;Aceita;4.7
+V00480;A0161;Alta;Veracode;09/09/2026;;Aberta;1.7
+V00481;A0141;Baixa;Pentest;28/03/2026;;Aceita;2.0
+V00482;A0117;Baixa;Veracode;14/08/2026;;Aceita;7.8
+V00483;A0073;ALTA;Veracode;30/06/2026;;Aceita;1.5
+V00484;A0155;Média;Veracode;05/07/2026;;Aceita;3.9
+V00485;A0143;Média;Veracode;21/05/2026;;Aceita;9.6
+V00486;A0059;Crítica;Pentest;06/06/2026;;Aberta;8.3
+V00487;A0137;Crítica;Veracode;29/03/2026;;Aberta;8.7
+V00488;A0169;Alta;Qualys;05/06/2026;;Aceita;3.9
+V00489;A0122;Crítica;Veracode;10/08/2026;;Em tratamento;9.3
+V00490;A0197;Baixa;Veracode;21/08/2026;;Aceita;4.9
+V00491;A0150;Média;Qualys;31/07/2026;03/09/2026;Corrigida;8.9
+V00492;A0164;Crítica;Qualys;27/08/2026;;Em tratamento;3.4
+V00493;A0024;Alta;Qualys;31/01/2026;;Em tratamento;5.7
+V00494;A0012;Crítica;Pentest;06/01/2026;;Aceita;4.3
+V00495;A0102;Crítica;Pentest;18/01/2026;;Aberta;1.7
+V00496;A0038;Crítica;Pentest;07/06/2026;;Em tratamento;4.6
+V00497;A0196;Média;Cloud Security;2026-13-01;;Aberta;8.5
+V00498;A0192;Baixa;Veracode;20/08/2026;;Aberta;1.9
+V00499;A0052;Baixa;Pentest;31/07/2026;06/08/2026;Corrigida;3.9
+V00500;A0121;Média;Cloud Security;24/05/2026;30/07/2026;Corrigida;6.4
+V00501;A9999;Crítica;Veracode;07/05/2026;;Em tratamento;4.7
+V00502;A0168;Alta;Pentest;20/05/2026;;Aceita;8.5
+V00503;A0133;Alta;Pentest;06/03/2026;;Em tratamento;5.9
+V00504;A0025;Alta;Qualys;05/07/2026;;Aberta;9.2
+V00505;A0070;Alta;Qualys;09/01/2026;;Em tratamento;7.0
+V00506;A0143;BaixA;Pentest;27/08/2026;;Aceita;9.5
+V00507;A0150;Baixa;Cloud Security;07/06/2026;;Aberta;6.4
+V00508;A0095;Alta;Cloud Security;13/01/2026;10/02/2026;Corrigida;3.3
+V00509;A0196;Média;Veracode;07/03/2026;;Aberta;6.8
+V00510;A0139;Crítica;Cloud Security;16/08/2026;;Aberta;9.3
+V00511;A0115;Crítica;Qualys;28/03/2026;;Aceita;7.8
+V00512;A0042;Média;Qualys;17/08/2026;12/11/2026;Corrigida;3.5
+V00513;A0200;Crítica;Cloud Security;28/07/2026;;Aceita;8.1
+V00514;A0040;Baixa;Cloud Security;04/06/2026;;Aberta;2.2
+V00515;A0140;Média;Veracode;20/04/2026;;Em tratamento;2.8
+V00516;A0001;Baixa;Qualys;20/06/2026;;Aberta;5.8
+V00517;A0142;Média;Qualys;05/06/2026;;Aceita;5.7
+V00518;A0042;Baixa;Veracode;24/07/2026;;Aceita;8.4
+V00519;A0096;Baixa;Cloud Security;25/05/2026;09/08/2026;Corrigida;8.2
+V00520;A0037;Crítica;Qualys;20/03/2026;;Aberta;9.4
+V00521;A0034;Alta;Qualys;13/01/2026;;Aceita;3.1
+V00522;A0172;Crítica;Qualys;25/02/2026;;Em tratamento;7.6
+V00523;A0096;Baixa;Pentest;11/05/2026;28/05/2026;Corrigida;9.6
+V00524;A0082;Crítica;Pentest;15/06/2026;;Aberta;7.6
+V00525;A0142;Crítica;Cloud Security;31/03/2026;;Em tratamento;9.9
+V00526;A0150;Baixa;Veracode;05/08/2026;;Aberta;1.9
+V00527;A0004;Média;Qualys;14/09/2026;;Em tratamento;5.2
+V00528;A0040;Alta;Cloud Security;24/05/2026;;Aberta;2.3
+V00529;A0154;N/A;Pentest;10/05/2026;;Aberta;4.7
+V00530;A0027;Alta;Qualys;03/07/2026;;Aceita;7.9
+V00531;A0052;Alta;Veracode;05/08/2026;;Em tratamento;6.1
+V00532;A0198;Crítica;Veracode;07/06/2026;;Aceita;8.2
+V00533;A0015;Média;Pentest;17/01/2026;;Aceita;4.8
+V00534;A0084;Crítica;Veracode;31/02/2026;;Em tratamento;7.4
+V00535;A0176;Média;Veracode;28/03/2026;;Aceita;3.1
+V00536;A0075;Crítica;Cloud Security;29/04/2026;;Em tratamento;9.0
+V00537;A0018;Baixa;Veracode;02/06/2026;;Aceita;2.3
+V00538;A0054;Média;Veracode;21/08/2026;;Em tratamento;6.8
+V00539;A0051;Alta;Veracode;19/08/2026;;Aceita;0.9
+V00540;A0025;Alta;Veracode;13/01/2026;26/03/2026;Corrigida;9.4
+V00541;A0147;Média;Veracode;03/07/2026;;Aceita;1.7
+V00542;A0193;Média;Cloud Security;08/01/2026;18/01/2026;Corrigida;8.2
+V00543;A0013;Baixa;Qualys;31/03/2026;;Aceita;1.9
+V00544;A0051;Média;Pentest;06/04/2026;;Em tratamento;7.8
+V00545;A0154;Crítica;Cloud Security;13/04/2026;;Aberta;3.2
+V00546;A0183;Crítica;Veracode;10/04/2026;;Em tratamento;5.7
+V00547;A0077;Baixa;Cloud Security;16/03/2026;19/03/2026;Corrigida;7.1
+V00548;A0084;Baixa;Veracode;11/08/2026;;Aberta;5.8
+V00549;A0122;Crítica;Cloud Security;20/05/2026;04/06/2026;Corrigida;4.9
+V00550;A0126;Baixa;Veracode;13/06/2026;;Aceita;5.1
+V00551;A0071;Média;Cloud Security;21/04/2026;;Em tratamento;4.4
+V00552;A0101;;Cloud Security;14/06/2026;;Aceita;7.4
+V00553;A0018;Baixa;Veracode;05/02/2026;;Em tratamento;0.4
+V00554;A0080;Baixa;Veracode;23/03/2026;;Aceita;8.5
+V00555;A0154;Alta;Veracode;04/04/2026;;Em tratamento;9.5
+V00556;A0018;Média;Cloud Security;31/03/2026;;Aceita;1.5
+V00557;A0189;Crítica;Qualys;02/07/2026;;Em tratamento;8.8
+V00558;A0089;Crítica;Cloud Security;12/07/2026;;Aberta;5.4
+V00559;A0139;Baixa;Qualys;19/06/2026;;Aberta;4.8
+V00560;A0095;Baixa;Qualys;02/09/2026;;Aceita;0.2
+V00561;A0195;Média;Pentest;10/01/2026;;Aberta;7.3
+V00562;A0170;Alta;Cloud Security;10/09/2026;;Aceita;8.4
+V00563;A0183;Média;Pentest;23/01/2026;14/03/2026;Corrigida;5.1
+V00564;A0011;Baixa;Pentest;06/01/2026;01/08/2026;Corrigida;4.9
+V00565;A0179;Média;Cloud Security;11/08/2026;;Aberta;9.9
+V00566;A0065;Média;Qualys;23/02/2026;29/04/2026;Corrigida;4.9
+V00567;A0192;Crítica;Veracode;22/04/2026;;Em tratamento;2.9
+V00568;A0043;Alta;Cloud Security;2026-13-01;21/03/2026;Corrigida;7.3
+V00569;A0181;Média;Cloud Security;04/06/2026;;Aberta;9.0
+V00570;A0034;Alta;Pentest;24/01/2026;;Em tratamento;3.4
+V00571;A0132;Crítica;Pentest;25/02/2026;;Aberta;9.9
+V00572;A0026;Crítica;Qualys;16/01/2026;;Em tratamento;3.5
+V00573;A0163;Alta;Qualys;02/02/2026;15/03/2026;Corrigida;8.6
+V00574;A0078;Alta;Cloud Security;08/03/2026;;Em tratamento;8.1
+V00575;A0093;;Cloud Security;21/01/2026;;Aberta;1.2
+V00576;A0092;Crítica;Veracode;27/06/2026;;Aceita;0.2
+V00577;A0166;Média;Cloud Security;01/02/2026;;Aceita;4.9
+V00578;A0053;Média;Pentest;09/09/2026;;Em tratamento;6.3
+V00579;A0027;Alta;Veracode;20/07/2026;;Aberta;0.2
+V00580;A0057;Alta;Veracode;22/03/2026;;Aceita;2.7
+V00581;A0014;Crítica;Pentest;26/01/2026;08/04/2026;Corrigida;7.8
+V00582;A0198;Alta;Qualys;07/05/2026;;Aberta;6.6
+V00583;A0137;Crítica;Pentest;09/09/2026;20/11/2026;Corrigida;0.4
+V00584;A0195;Crítica;Cloud Security;11/03/2026;;Aberta;5.7
+V00585;A0154;Média;Veracode;17/01/2026;;Aceita;7.9
+V00586;A0098;Média;Veracode;09/05/2026;22/07/2026;Corrigida;6.5
+V00587;A0133;Média;Pentest;08/03/2026;;Em tratamento;6.5
+V00588;A0097;Média;Qualys;15/05/2026;;Aceita;6.7
+V00589;A0177;Alta;Cloud Security;24/07/2026;;Aceita;5.1
+V00590;A0053;Alta;Cloud Security;23/08/2026;26/08/2026;Corrigida;6.4
+V00591;A0094;Média;Veracode;26/08/2026;06/10/2026;Corrigida;8.3
+V00592;A0120;Crítica;Veracode;28/02/2026;;Aberta;7.0
+V00593;A0035;Média;Pentest;13/01/2026;;Aberta;1.1
+V00594;A0177;Alta;Pentest;10/08/2026;03/09/2026;Corrigida;9.3
+V00595;A0043;Crítica;Qualys;04/04/2026;20/05/2026;Corrigida;8.6
+V00596;A0186;Alta;Qualys;12/09/2026;;Aceita;9.5
+V00597;A0041;Média;Qualys;13/01/2026;;Aceita;3.5
+V00598;A0038;media;Veracode;04/07/2026;;Aceita;5.5
+V00599;A0190;Média;Veracode;31/08/2026;;Em tratamento;7.2
+V00600;A0162;Média;Qualys;16/04/2026;17/05/2026;Corrigida;1.2
+V00601;A0132;Média;Pentest;10/09/2026;;Aberta;0.8
+V00602;A0078;Crítica;Pentest;13/08/2026;;Aceita;2.6
+V00603;A0001;Crítica;Veracode;07/08/2026;24/10/2026;Corrigida;4.7
+V00604;A0084;Baixa;Qualys;14/01/2026;;Aberta;7.1
+V00605;A0029;Média;Cloud Security;11/02/2026;;Aceita;6.3
+V00606;A0004;Alta;Cloud Security;12/01/2026;;Em tratamento;9.1
+V00607;A0124;Alta;Pentest;16/07/2026;;Em tratamento;7.3
+V00608;A0070;Baixa;Pentest;11/01/2026;;Aberta;0.8
+V00609;A0098;Baixa;Veracode;23/03/2026;;Em tratamento;5.7
+V00610;A0052;Crítica;Veracode;08/07/2026;;Aberta;1.9
+V00611;A0189;Alta;Cloud Security;07/06/2026;;Aceita;6.1
+V00612;A0092;Crítica;Qualys;07/04/2026;;Em tratamento;5.9
+V00613;A0122;Crítica;Cloud Security;06/08/2026;;Aberta;9.7
+V00614;A0094;Alta;Pentest;12/05/2026;;Aceita;9.1
+V00615;A0160;Alta;Veracode;05/05/2026;01/07/2026;Corrigida;8.9
+V00616;A0193;Alta;Qualys;05/04/2026;;Em tratamento;6.2
+V00617;A0055;Alta;Cloud Security;12/01/2026;;Aberta;9.6
+V00618;A0152;Baixa;Veracode;09/01/2026;;Aberta;7.3
+V00619;A0067;Alta;Qualys;23/01/2026;;Em tratamento;9.0
+V00620;A0042;Alta;Veracode;03/08/2026;;Aceita;8.7
+V00621;A0109;critica;Veracode;26/02/2026;;Aberta;5.8
+V00622;A0186;Alta;Qualys;17/07/2026;;Em tratamento;5.3
+V00623;A0125;Alta;Pentest;31/02/2026;;Em tratamento;8.1
+V00624;A0180;Média;Qualys;07/07/2026;31/07/2026;Corrigida;4.4
+V00625;A0014;Alta;Qualys;08/09/2026;;Aberta;0.3
+V00626;A0022;Baixa;Pentest;05/03/2026;;Aberta;4.0
+V00627;A0159;Média;Pentest;06/05/2026;;Em tratamento;9.4
+V00628;A0186;Alta;Qualys;01/06/2026;;Aceita;1.5
+V00629;A0087;Crítica;Qualys;16/09/2026;20/10/2026;Corrigida;3.4
+V00630;A0149;Média;Pentest;27/07/2026;;Em tratamento;0.7
+V00631;A0026;Alta;Qualys;11/01/2026;16/03/2026;Corrigida;0.7
+V00632;A0175;Baixa;Veracode;25/06/2026;;Aberta;6.0
+V00633;A0150;Alta;Pentest;01/03/2026;28/03/2026;Corrigida;6.9
+V00634;A0166;Média;Cloud Security;21/07/2026;;Aceita;5.3
+V00635;A0179;Baixa;Qualys;27/03/2026;;Aceita;8.9
+V00636;A0160;Média;Qualys;02/07/2026;;Em tratamento;6.9
+V00637;A0075;Média;Pentest;16/07/2026;;Aceita;8.1
+V00638;A0085;Baixa;Veracode;03/09/2026;;Aberta;9.2
+V00639;A0004;Alta;Veracode;2026-13-01;;Em tratamento;8.8
+V00640;A0109;Média;Veracode;02/03/2026;;Aberta;2.1
+V00641;A0069;Média;Pentest;22/07/2026;;Aceita;5.6
+V00642;A0121;Média;Cloud Security;16/07/2026;;Aceita;2.1
+V00643;A0016;Crítica;Cloud Security;06/07/2026;;Aberta;7.0
+V00644;A0161;media;Qualys;06/05/2026;;Aceita;3.8
+V00645;A0103;Crítica;Veracode;05/07/2026;;Aceita;8.8
+V00646;A0175;Média;Veracode;22/05/2026;;Aceita;6.2
+V00647;A0086;Média;Veracode;06/05/2026;;Aceita;2.4
+V00648;A0157;Baixa;Qualys;19/04/2026;;Em tratamento;10.0
+V00649;A0077;Baixa;Qualys;08/05/2026;;Aberta;0.9
+V00650;A0086;Baixa;Pentest;20/03/2026;;Em tratamento;8.0
+V00651;A0179;Crítica;Cloud Security;18/02/2026;;Aceita;8.7
+V00652;A0164;Baixa;Cloud Security;21/07/2026;;Aberta;5.8
+V00653;A0194;Baixa;Qualys;25/06/2026;;Em tratamento;2.5
+V00654;A0010;Crítica;Qualys;13/09/2026;;Aceita;8.6
+V00655;A0120;Média;Cloud Security;23/06/2026;;Aberta;9.0
+V00656;A0131;Alta;Qualys;01/08/2026;;Aberta;6.1
+V00657;A0176;Alta;Pentest;19/03/2026;13/06/2026;Corrigida;7.5
+V00658;A0009;Alta;Pentest;03-20-2026;;Aberta;8.4
+V00659;A0138;Alta;Veracode;20/08/2026;;Aberta;4.9
+V00660;A0125;Média;Cloud Security;30/08/2026;25/10/2026;Corrigida;2.8
+V00661;A0149;Crítica;Qualys;29/04/2026;19/05/2026;Corrigida;5.5
+V00662;A0057;Alta;Qualys;17/04/2026;;Aceita;1.2
+V00663;A0058;Baixa;Cloud Security;25/07/2026;;Aceita;2.7
+V00664;A0053;Crítica;Cloud Security;16/01/2026;;Aceita;0.8
+V00665;A0043;Média;Pentest;06/03/2026;;Em tratamento;9.7
+V00666;A0140;Alta;Veracode;09/06/2026;05/08/2026;Corrigida;6.5
+V00667;A0072;media;Pentest;22/03/2026;;Aceita;7.3
+V00668;A0152;Crítica;Qualys;08/09/2026;;Em tratamento;7.4
+V00669;A0031;Crítica;Veracode;27/05/2026;;Aberta;2.2
+V00670;A0010;Alta;Veracode;07/02/2026;;Aceita;7.7
+V00671;A0027;Crítica;Cloud Security;29/08/2026;;Em tratamento;6.5
+V00672;A0173;Alta;Pentest;17/06/2026;;Aceita;7.7
+V00673;A0034;Média;Cloud Security;12/05/2026;11/06/2026;Corrigida;4.9
+V00674;A0098;Crítica;Pentest;29/01/2026;;Em tratamento;7.6
+V00675;A0163;Alta;Veracode;05/03/2026;;Aberta;9.0
+V00676;A0159;Média;Veracode;07/04/2026;;Aberta;3.1
+V00677;A0054;Alta;Pentest;03/04/2026;;Em tratamento;9.4
+V00678;A0183;Baixa;Cloud Security;04/01/2026;;Aceita;8.7
+V00679;A0074;Alta;Qualys;29/04/2026;;Aberta;6.5
+V00680;A0081;Alta;Qualys;26/06/2026;;Em tratamento;4.4
+V00681;A0008;Média;Qualys;05/05/2026;;Aberta;8.1
+V00682;A0021;Alta;Pentest;13/05/2026;;Em tratamento;1.4
+V00683;A0146;Alta;Cloud Security;10/03/2026;;Aceita;1.3
+V00684;A0020;Média;Pentest;01/01/2026;;Aberta;6.5
+V00685;A0158;Média;Pentest;05/05/2026;;Aberta;3.5
+V00686;A0057;Baixa;Veracode;16/04/2026;08/05/2026;Corrigida;1.2
+V00687;A0120;Alta;Veracode;20/08/2026;;Aceita;10.0
+V00688;A0060;Baixa;Veracode;19/05/2026;;Aberta;2.6
+V00689;A0010;Alta;Cloud Security;26/04/2026;15/05/2026;Corrigida;3.0
+V00690;A0137;critica;Cloud Security;11/01/2026;01/03/2026;Corrigida;2.1
+V00691;A0145;Média;Veracode;05/07/2026;17/09/2026;Corrigida;9.7
+V00692;A0181;Crítica;Qualys;14/08/2026;;Em tratamento;1.1
+V00693;A0145;Crítica;Veracode;18/03/2026;;Em tratamento;0.3
+V00694;A0020;Média;Pentest;30/04/2026;;Em tratamento;4.5
+V00695;A0123;Crítica;Cloud Security;01/04/2026;;Aberta;3.3
+V00696;A0198;Crítica;Veracode;01/06/2026;;Em tratamento;3.8
+V00697;A0152;Baixa;Veracode;20/06/2026;;Em tratamento;3.1
+V00698;A0067;Média;Qualys;22/07/2026;;Aceita;5.4
+V00699;A0178;Baixa;Qualys;22/08/2026;;Aberta;2.0
+V00700;A0149;Média;Cloud Security;11/03/2026;;Aberta;7.0
+V00701;A0134;Média;Veracode;07/09/2026;;Aberta;5.7
+V00702;A0001;Média;Qualys;05/05/2026;;Em tratamento;7.8
+V00703;A0189;Baixa;Qualys;04/06/2026;30/08/2026;Corrigida;1.0
+V00704;A0001;Média;Pentest;11/08/2026;11/10/2026;Corrigida;7.7
+V00705;A0020;Média;Pentest;05-14-2026;;Em tratamento;4.2
+V00706;A0199;Baixa;Veracode;16/01/2026;;Em tratamento;4.0
+V00707;A0156;Crítica;Qualys;30/08/2026;12/11/2026;Corrigida;9.6
+V00708;A0186;Baixa;Veracode;23/07/2026;02/09/2026;Corrigida;8.2
+V00709;A0001;Média;Cloud Security;27/01/2026;;Aceita;7.5
+V00710;A0080;Média;Qualys;2026-13-01;;Aceita;8.8
+V00711;A0118;Média;Pentest;14/09/2026;16/10/2026;Corrigida;2.3
+V00712;A0011;Baixa;Qualys;31/02/2026;13/06/2026;Corrigida;5.1
+V00713;A0121;critica;Pentest;26/05/2026;11/07/2026;Corrigida;5.1
+V00714;A0031;Baixa;Veracode;19/04/2026;07/07/2026;Corrigida;5.8
+V00715;A0149;Alta;Cloud Security;30/04/2026;27/05/2026;Corrigida;5.2
+V00716;A0063;Crítica;Veracode;17/04/2026;29/05/2026;Corrigida;8.1
+V00717;A0130;Média;Cloud Security;26/07/2026;;Aberta;2.3
+V00718;A0195;Baixa;Veracode;25/04/2026;28/04/2026;Corrigida;5.2
+V00719;A0042;Média;Veracode;06/01/2026;;Aceita;5.8
+V00720;A0156;Alta;Pentest;21/03/2026;;Em tratamento;2.1
+V00721;A0182;Média;Cloud Security;28/03/2026;27/05/2026;Corrigida;4.7
+V00722;A0149;Média;Qualys;27/04/2026;;Aceita;6.0
+V00723;A0142;Alta;Cloud Security;08/09/2026;01/11/2026;Corrigida;0.5
+V00724;A0074;Crítica;Pentest;14/02/2026;15/05/2026;Corrigida;1.5
+V00725;A0001;Média;Veracode;02/08/2026;;Aberta;9.0
+V00726;A0081;Crítica;Qualys;04/01/2026;;Em tratamento;6.4
+V00727;A0059;Média;Pentest;30/08/2026;;Aberta;0.1
+V00728;A0177;Alta;Cloud Security;04/03/2026;30/03/2026;Corrigida;2.1
+V00729;A0178;Baixa;Veracode;24/06/2026;;Em tratamento;9.0
+V00730;A0049;Crítica;Pentest;25/08/2026;26/10/2026;Corrigida;4.8
+V00731;A0007;Alta;Pentest;06/09/2026;;Aberta;3.0
+V00732;A0153;Alta;Pentest;23/05/2026;11/08/2026;Corrigida;4.0
+V00733;A0100;Baixa;Cloud Security;17/05/2026;;Aberta;1.9
+V00734;A0156;Baixa;Cloud Security;02/07/2026;;Aceita;6.5
+V00735;A0034;Crítica;Qualys;06/07/2026;;Aceita;7.1
+V00736;A0082;ALTA;Pentest;11/03/2026;08/06/2026;Corrigida;5.4
+V00737;A0023;Crítica;Pentest;07/03/2026;;Em tratamento;3.7
+V00738;A0125;Crítica;Veracode;16/04/2026;01/07/2026;Corrigida;1.0
+V00739;A0129;Crítica;Qualys;09/03/2026;;Aberta;6.4
+V00740;A0048;Crítica;Veracode;16/06/2026;;Aceita;4.0
+V00741;A0148;Crítica;Cloud Security;26/01/2026;;Aceita;3.4
+V00742;A0021;Baixa;Pentest;17/06/2026;;Em tratamento;7.5
+V00743;A0057;Baixa;Pentest;26/01/2026;;Em tratamento;3.3
+V00744;A0164;Média;Qualys;10/06/2026;;Aberta;9.7
+V00745;A0115;Crítica;Cloud Security;10/05/2026;;Aberta;0.7
+V00746;A0050;Crítica;Cloud Security;24/02/2026;;Em tratamento;6.7
+V00747;A0124;Baixa;Veracode;26/02/2026;;Aberta;5.3
+V00748;A0098;Média;Cloud Security;12/01/2026;;Aceita;5.8
+V00749;A0143;Alta;Qualys;02/04/2026;;Aceita;4.4
+V00750;A0139;Baixa;Veracode;29/01/2026;;Em tratamento;9.5
+V00751;A0022;Crítica;Pentest;09/06/2026;;Aceita;1.2
+V00752;A0011;Baixa;Cloud Security;06-23-2026;;Aberta;9.9
+V00753;A0155;Alta;Qualys;20/07/2026;12/08/2026;Corrigida;1.8
+V00754;A0064;Baixa;Veracode;08/08/2026;;Aberta;3.6
+V00755;A0139;Média;Qualys;28/07/2026;;Aceita;9.3
+V00756;A0048;Média;Cloud Security;12/01/2026;;Em tratamento;6.5
+V00757;A0200;Crítica;Pentest;22/06/2026;;Aceita;9.7
+V00758;A0177;Baixa;Qualys;11/05/2026;;Aceita;2.7
+V00759;A0072;BaixA;Veracode;02/01/2026;;Aberta;1.0
+V00760;A0137;Média;Cloud Security;07/06/2026;;Em tratamento;8.2
+V00761;A0192;Baixa;Cloud Security;12/07/2026;;Aceita;7.4
+V00762;A0034;Baixa;Qualys;21/01/2026;;Em tratamento;7.4
+V00763;A0190;Crítica;Cloud Security;11/03/2026;;Em tratamento;1.5
+V00764;A0191;Crítica;Veracode;15/02/2026;21/03/2026;Corrigida;0.5
+V00765;A0082;Média;Qualys;05/04/2026;18/05/2026;Corrigida;1.8
+V00766;A0021;Baixa;Pentest;05/04/2026;17/06/2026;Corrigida;4.1
+V00767;A0119;Baixa;Pentest;27/01/2026;;Aceita;4.1
+V00768;A0161;Crítica;Veracode;19/01/2026;;Em tratamento;8.7
+V00769;A0172;Alta;Veracode;09/08/2026;;Aberta;6.7
+V00770;A0170;Média;Cloud Security;28/08/2026;;Aberta;9.2
+V00771;A0085;Baixa;Qualys;24/08/2026;17/11/2026;Corrigida;0.2
+V00772;A0063;Crítica;Veracode;17/03/2026;;Aberta;5.8
+V00773;A0067;Baixa;Veracode;31/05/2026;;Aceita;7.8
+V00774;A0050;Alta;Cloud Security;11/08/2026;;Aberta;7.2
+V00775;A0151;Baixa;Veracode;06/07/2026;27/08/2026;Corrigida;4.7
+V00776;A0188;Baixa;Cloud Security;23/07/2026;11/08/2026;Corrigida;8.9
+V00777;A0184;Média;Qualys;14/08/2026;03/10/2026;Corrigida;2.9
+V00778;A0046;Alta;Veracode;27/07/2026;;Aceita;8.1
+V00779;A0017;Crítica;Qualys;05/03/2026;;Aceita;4.1
+V00780;A0038;Baixa;Veracode;16/07/2026;;Aberta;0.1
+V00781;A0134;Crítica;Veracode;2026-13-01;;Aberta;6.3
+V00782;A0134;N/A;Pentest;28/06/2026;;Aceita;5.2
+V00783;A0187;Crítica;Cloud Security;23/03/2026;;Aberta;6.8
+V00784;A0086;Média;Pentest;13/07/2026;;Aberta;1.1
+V00785;A0068;Crítica;Veracode;30/05/2026;;Aceita;1.1
+V00786;A0119;Média;Cloud Security;21/07/2026;17/10/2026;Corrigida;3.2
+V00787;A0086;Crítica;Qualys;09/07/2026;09/08/2026;Corrigida;2.8
+V00788;A0183;Média;Qualys;30/06/2026;;Aceita;5.5
+V00789;A0179;Alta;Cloud Security;10/02/2026;;Em tratamento;0.6
+V00790;A0151;Média;Veracode;21/03/2026;;Em tratamento;9.5
+V00791;A0086;Média;Pentest;21/06/2026;;Aberta;9.3
+V00792;A0107;Crítica;Veracode;23/01/2026;19/04/2026;Corrigida;5.1
+V00793;A0185;Alta;Cloud Security;31/01/2026;13/04/2026;Corrigida;6.7
+V00794;A0032;Crítica;Cloud Security;27/05/2026;;Aceita;1.0
+V00795;A0014;Baixa;Pentest;09/02/2026;11/02/2026;Corrigida;10.0
+V00796;A0052;Crítica;Pentest;22/02/2026;12/03/2026;Corrigida;9.2
+V00797;A0097;Crítica;Qualys;02/01/2026;;Aceita;8.1
+V00798;A0070;Média;Cloud Security;06/03/2026;;Em tratamento;3.5
+V00799;A0093;Crítica;Pentest;03/02/2026;;Aceita;0.4
+V00800;A0033;Crítica;Pentest;22/03/2026;30/04/2026;Corrigida;9.1
+V00801;A0106;Alta;Pentest;31/02/2026;26/09/2026;Corrigida;8.6
+V00802;A0056;Crítica;Pentest;15/02/2026;;Aberta;6.3
+V00803;A0135;Baixa;Pentest;14/09/2026;17/10/2026;Corrigida;9.9
+V00804;A0113;Alta;Qualys;11/05/2026;;Aberta;2.4
+V00805;A0191;N/A;Veracode;20/08/2026;17/11/2026;Corrigida;8.5
+V00806;A0161;Crítica;Pentest;03/03/2026;21/03/2026;Corrigida;6.2
+V00807;A0106;Crítica;Cloud Security;19/07/2026;;Aceita;5.3
+V00808;A0072;Média;Cloud Security;10/08/2026;;Em tratamento;9.1
+V00809;A0075;Média;Cloud Security;26/03/2026;;Em tratamento;5.1
+V00810;A0197;Crítica;Pentest;03/01/2026;;Aceita;6.9
+V00811;A0151;Crítica;Pentest;09/07/2026;;Aberta;8.7
+V00812;A0193;Baixa;Qualys;11/01/2026;;Em tratamento;0.1
+V00813;A0182;Média;Veracode;10/05/2026;;Aceita;2.1
+V00814;A0045;Alta;Veracode;10/01/2026;;Aberta;9.3
+V00815;A0055;Alta;Qualys;10/04/2026;07/05/2026;Corrigida;0.2
+V00816;A0027;Baixa;Veracode;26/06/2026;;Aberta;7.0
+V00817;A0139;Média;Cloud Security;11/05/2026;;Aceita;9.5
+V00818;A0164;Crítica;Pentest;12/06/2026;;Aceita;5.2
+V00819;A0161;Crítica;Pentest;30/07/2026;07/08/2026;Corrigida;0.9
+V00820;A0032;Alta;Cloud Security;03/01/2026;06/03/2026;Corrigida;0.6
+V00821;A0007;Baixa;Qualys;19/05/2026;;Em tratamento;3.2
+V00822;A0152;Média;Qualys;04/05/2026;;Aceita;1.6
+V00823;A0118;Alta;Pentest;18/08/2026;29/09/2026;Corrigida;9.3
+V00824;A0143;Baixa;Pentest;01/09/2026;;Aceita;8.8
+V00825;A0104;Baixa;Pentest;25/08/2026;06/09/2026;Corrigida;1.6
+V00826;A0014;Crítica;Pentest;10/05/2026;;Aberta;5.3
+V00827;A0125;Baixa;Qualys;22/01/2026;;Em tratamento;3.3
+V00828;A0179;;Veracode;21/06/2026;;Em tratamento;9.6
+V00829;A0163;Baixa;Pentest;26/08/2026;;Aberta;0.3
+V00830;A0173;Média;Cloud Security;25/07/2026;;Em tratamento;3.3
+V00831;A0168;Crítica;Pentest;21/08/2026;;Aceita;9.2
+V00832;A0071;Baixa;Qualys;01/06/2026;04/08/2026;Corrigida;1.0
+V00833;A0173;Crítica;Pentest;18/05/2026;;Aberta;4.2
+V00834;A0180;Alta;Pentest;07/05/2026;;Aberta;6.1
+V00835;A0004;Alta;Qualys;05/01/2026;;Aberta;5.7
+V00836;A0135;Baixa;Cloud Security;08/01/2026;;Em tratamento;5.8
+V00837;A0062;Baixa;Cloud Security;19/01/2026;;Aberta;7.1
+V00838;A0128;Baixa;Qualys;23/08/2026;;Em tratamento;0.7
+V00839;A0080;Baixa;Cloud Security;12/07/2026;31/07/2026;Corrigida;8.6
+V00840;A0026;Média;Pentest;11/05/2026;;Aberta;2.5
+V00841;A0057;Alta;Cloud Security;27/05/2026;11/08/2026;Corrigida;0.5
+V00842;A0196;Alta;Qualys;28/05/2026;23/06/2026;Corrigida;4.2
+V00843;A0044;Alta;Cloud Security;18/07/2026;;Em tratamento;0.9
+V00844;A0017;Média;Cloud Security;01/09/2026;27/11/2026;Corrigida;8.5
+V00845;A0090;Baixa;Veracode;19/07/2026;;Aberta;4.1
+V00846;A0133;Crítica;Pentest;03-28-2026;;Em tratamento;3.3
+V00847;A0002;Alta;Veracode;19/05/2026;;Aberta;3.3
+V00848;A0013;Crítica;Veracode;24/03/2026;31/03/2026;Corrigida;4.0
+V00849;A0079;Média;Qualys;08/01/2026;;Em tratamento;2.0
+V00850;A0094;Crítica;Qualys;28/02/2026;;Em tratamento;8.6
+V00851;A0077;critica;Veracode;07/08/2026;;Aceita;2.5
+V00852;A0180;Média;Cloud Security;2026-13-01;;Aberta;3.5
+V00853;A0021;Média;Qualys;22/05/2026;;Aberta;3.8
+V00854;A0153;Média;Pentest;12/08/2026;31/10/2026;Corrigida;9.4
+V00855;A0043;Crítica;Qualys;21/05/2026;;Aberta;6.8
+V00856;A0048;Crítica;Veracode;18/03/2026;;Aceita;2.6
+V00857;A0020;Alta;Veracode;21/05/2026;;Em tratamento;4.9
+V00858;A0023;Crítica;Cloud Security;17/06/2026;;Em tratamento;1.2
+V00859;A0139;Alta;Veracode;07/08/2026;;Aceita;3.6
+V00860;A0046;Baixa;Cloud Security;02/09/2026;08/11/2026;Corrigida;3.8
+V00861;A0068;Crítica;Qualys;17/09/2026;;Aceita;1.3
+V00862;A0083;Crítica;Veracode;28/03/2026;;Em tratamento;10.0
+V00863;A0067;Crítica;Pentest;27/07/2026;;Em tratamento;6.3
+V00864;A0007;Alta;Qualys;09/04/2026;;Aceita;4.6
+V00865;A0193;Crítica;Qualys;09/05/2026;23/06/2026;Corrigida;6.0
+V00866;A0018;Média;Qualys;11/05/2026;;Em tratamento;2.3
+V00867;A0042;Média;Pentest;26/07/2026;;Aberta;3.6
+V00868;A0120;Crítica;Cloud Security;12/08/2026;08/11/2026;Corrigida;9.6
+V00869;A0050;Alta;Cloud Security;10/05/2026;;Aceita;6.6
+V00870;A0181;Baixa;Veracode;31/08/2026;01/10/2026;Corrigida;7.5
+V00871;A0185;Alta;Pentest;28/05/2026;;Em tratamento;0.8
+V00872;A0145;Baixa;Pentest;09/09/2026;14/09/2026;Corrigida;4.3
+V00873;A0102;Crítica;Qualys;06/09/2026;;Aberta;8.8
+V00874;A0150;N/A;Pentest;16/06/2026;;Aberta;2.5
+V00875;A0026;Baixa;Cloud Security;27/03/2026;30/05/2026;Corrigida;6.3
+V00876;A0158;Crítica;Qualys;13/09/2026;;Aceita;8.0
+V00877;A0039;Baixa;Cloud Security;18/08/2026;;Aceita;8.0
+V00878;A0127;Média;Pentest;18/06/2026;;Em tratamento;2.4
+V00879;A0116;Média;Cloud Security;31/05/2026;;Em tratamento;5.1
+V00880;A0064;Média;Veracode;12/03/2026;07/04/2026;Corrigida;8.5
+V00881;A0197;Alta;Cloud Security;11/07/2026;;Aberta;5.3
+V00882;A0021;Alta;Veracode;30/07/2026;;Aceita;4.6
+V00883;A0068;Média;Qualys;03/08/2026;;Em tratamento;3.9
+V00884;A0114;Média;Veracode;16/01/2026;;Em tratamento;1.3
+V00885;A0028;Baixa;Veracode;20/05/2026;;Aberta;6.6
+V00886;A0127;Média;Cloud Security;02/07/2026;02/09/2026;Corrigida;6.5
+V00887;A0075;Baixa;Veracode;09/01/2026;;Aceita;5.9
+V00888;A0170;Alta;Qualys;11/01/2026;;Em tratamento;6.4
+V00889;A0111;Crítica;Qualys;02/05/2026;;Aceita;9.8
+V00890;A0024;Média;Cloud Security;31/02/2026;;Em tratamento;0.4
+V00891;A0139;Média;Veracode;09/09/2026;;Aceita;4.4
+V00892;A0135;Média;Pentest;01/06/2026;;Aberta;5.8
+V00893;A0130;Baixa;Veracode;02-20-2026;;Aberta;1.5
+V00894;A0040;Crítica;Pentest;28/08/2026;24/10/2026;Corrigida;0.7
+V00895;A0104;Média;Pentest;07/04/2026;;Aceita;9.4
+V00896;A0138;Baixa;Pentest;11/02/2026;;Em tratamento;8.7
+V00897;A0174;N/A;Qualys;14/08/2026;;Aberta;9.7
+V00898;A0189;Média;Qualys;14/09/2026;;Aberta;1.8
+V00899;A0163;Alta;Qualys;01/03/2026;13/05/2026;Corrigida;6.4
+V00900;A0064;Média;Veracode;31/08/2026;15/09/2026;Corrigida;0.8
+V00901;A9999;Baixa;Cloud Security;04/01/2026;29/03/2026;Corrigida;5.8
+V00902;A0083;Média;Qualys;24/01/2026;;Aberta;3.6
+V00903;A0069;Crítica;Qualys;16/09/2026;09/11/2026;Corrigida;1.5
+V00904;A0008;Crítica;Veracode;07/01/2026;05/02/2026;Corrigida;7.2
+V00905;A0120;Crítica;Veracode;04/01/2026;;Aberta;0.5
+V00906;A0162;Baixa;Pentest;02/04/2026;;Aceita;6.9
+V00907;A0166;Média;Pentest;08/08/2026;;Aberta;8.1
+V00908;A0087;Baixa;Pentest;15/02/2026;;Aberta;8.9
+V00909;A0174;Média;Veracode;22/07/2026;;Aceita;4.8
+V00910;A0156;Baixa;Qualys;16/06/2026;;Aberta;9.9
+V00911;A0053;Alta;Veracode;29/08/2026;14/10/2026;Corrigida;7.7
+V00912;A0187;Média;Qualys;11/01/2026;;Aberta;5.0
+V00913;A0134;Crítica;Pentest;04/01/2026;;Aberta;6.7
+V00914;A0059;Crítica;Qualys;03/03/2026;;Aceita;4.3
+V00915;A0038;Baixa;Cloud Security;31/03/2026;;Em tratamento;9.8
+V00916;A0109;Média;Pentest;13/07/2026;;Em tratamento;3.9
+V00917;A0139;Média;Veracode;30/03/2026;13/06/2026;Corrigida;5.2
+V00918;A0142;Baixa;Veracode;26/06/2026;;Em tratamento;6.5
+V00919;A0161;Crítica;Qualys;05/08/2026;;Em tratamento;9.1
+V00920;A0051;BaixA;Pentest;28/08/2026;;Aceita;1.4
+V00921;A0153;Alta;Veracode;21/04/2026;;Aberta;5.8
+V00922;A0124;Crítica;Cloud Security;26/05/2026;24/07/2026;Corrigida;7.7
+V00923;A0057;Média;Cloud Security;2026-13-01;;Aberta;5.9
+V00924;A0023;Baixa;Pentest;27/04/2026;;Aberta;4.6
+V00925;A0160;Alta;Veracode;08/01/2026;;Aceita;6.3
+V00926;A0132;Crítica;Pentest;08/01/2026;26/03/2026;Corrigida;6.3
+V00927;A0110;Crítica;Cloud Security;28/04/2026;;Aceita;1.4
+V00928;A0082;Crítica;Cloud Security;05/05/2026;;Aberta;4.9
+V00929;A0161;Alta;Veracode;15/06/2026;;Aceita;6.7
+V00930;A0013;Crítica;Pentest;09/04/2026;;Em tratamento;9.9
+V00931;A0023;Alta;Pentest;14/06/2026;17/08/2026;Corrigida;4.7
+V00932;A0170;Crítica;Pentest;15/08/2026;;Aberta;5.8
+V00933;A0165;Crítica;Cloud Security;04/06/2026;;Aberta;1.6
+V00934;A0070;Baixa;Cloud Security;07/03/2026;;Aceita;0.8
+V00935;A0026;Crítica;Cloud Security;07/06/2026;;Aceita;6.9
+V00936;A0014;Alta;Cloud Security;24/05/2026;03/07/2026;Corrigida;2.1
+V00937;A0133;Média;Qualys;02/02/2026;;Em tratamento;8.5
+V00938;A0123;Crítica;Cloud Security;30/05/2026;;Aceita;2.3
+V00939;A0079;Baixa;Pentest;17/08/2026;19/10/2026;Corrigida;8.7
+V00940;A0089;Crítica;Veracode;04-17-2026;;Aberta;6.9
+V00941;A0150;Média;Veracode;01/05/2026;29/07/2026;Corrigida;9.7
+V00942;A0167;Crítica;Cloud Security;10/08/2026;07/10/2026;Corrigida;2.6
+V00943;A0123;BaixA;Pentest;25/08/2026;20/09/2026;Corrigida;5.9
+V00944;A0200;Média;Pentest;04/01/2026;03/04/2026;Corrigida;5.7
+V00945;A0013;Alta;Pentest;04/09/2026;;Em tratamento;1.8
+V00946;A0017;Baixa;Veracode;28/05/2026;;Em tratamento;2.6
+V00947;A0083;Baixa;Qualys;07/09/2026;;Em tratamento;9.7
+V00948;A0031;Baixa;Veracode;23/04/2026;;Aberta;2.1
+V00949;A0003;Alta;Veracode;18/07/2026;09/08/2026;Corrigida;7.8
+V00950;A0142;Baixa;Cloud Security;25/07/2026;27/08/2026;Corrigida;9.8
+V00951;A0116;Alta;Cloud Security;26/07/2026;;Aberta;4.2
+V00952;A0011;Média;Cloud Security;02/07/2026;27/07/2026;Corrigida;5.7
+V00953;A0184;Crítica;Qualys;13/01/2026;;Em tratamento;6.2
+V00954;A0026;Baixa;Cloud Security;17/04/2026;;Em tratamento;4.7
+V00955;A0016;Crítica;Pentest;08/01/2026;;Aberta;6.4
+V00956;A0012;Média;Qualys;25/05/2026;;Aceita;5.9
+V00957;A0196;Média;Cloud Security;18/07/2026;;Em tratamento;0.5
+V00958;A0081;Baixa;Pentest;23/01/2026;;Aceita;9.0
+V00959;A0053;Média;Qualys;10/04/2026;;Aceita;0.8
+V00960;A0068;Alta;Cloud Security;07/01/2026;;Aceita;8.9
+V00961;A0083;Crítica;Pentest;04/09/2026;;Aberta;6.3
+V00962;A0041;Média;Cloud Security;18/04/2026;09/05/2026;Corrigida;1.5
+V00963;A0199;Média;Cloud Security;19/02/2026;;Em tratamento;4.2
+V00964;A0065;Crítica;Cloud Security;28/05/2026;;Em tratamento;0.5
+V00965;A0166;Média;Cloud Security;14/01/2026;;Em tratamento;4.4
+V00966;A0192;media;Qualys;01/05/2026;;Aceita;0.5
+V00967;A0144;Média;Qualys;01/06/2026;;Aceita;7.4
+V00968;A0069;Alta;Pentest;16/03/2026;;Aberta;3.8
+V00969;A0093;Alta;Veracode;04/05/2026;07/06/2026;Corrigida;8.1
+V00970;A0065;Crítica;Qualys;15/06/2026;;Em tratamento;5.5
+V00971;A0075;Média;Pentest;22/06/2026;;Aceita;8.3
+V00972;A0109;Crítica;Qualys;27/07/2026;;Aceita;0.4
+V00973;A0163;Baixa;Cloud Security;03/06/2026;;Aceita;9.8
+V00974;A0105;Crítica;Pentest;16/04/2026;;Em tratamento;1.0
+V00975;A0164;Baixa;Pentest;02/01/2026;26/02/2026;Corrigida;6.4
+V00976;A0128;Média;Veracode;10/04/2026;07/06/2026;Corrigida;1.5
+V00977;A0152;Alta;Veracode;09/06/2026;;Aberta;2.4
+V00978;A0071;Crítica;Cloud Security;24/01/2026;;Aceita;7.9
+V00979;A0066;Alta;Veracode;31/02/2026;;Aberta;9.7
+V00980;A0154;Média;Qualys;24/07/2026;28/08/2026;Corrigida;2.7
+V00981;A0159;Média;Pentest;04/04/2026;;Aceita;1.3
+V00982;A0097;Crítica;Qualys;12/06/2026;;Aceita;3.1
+V00983;A0078;Média;Pentest;26/06/2026;24/09/2026;Corrigida;1.1
+V00984;A0032;Alta;Cloud Security;03/08/2026;;Aberta;0.5
+V00985;A0007;Baixa;Cloud Security;26/03/2026;;Em tratamento;3.0
+V00986;A0182;Alta;Veracode;16/09/2026;06/11/2026;Corrigida;0.8
+V00987;A0092;Baixa;Veracode;08-28-2026;;Em tratamento;8.4
+V00988;A0013;Baixa;Pentest;15/07/2026;;Aberta;1.9
+V00989;A0019;N/A;Veracode;03/02/2026;;Em tratamento;1.8
+V00990;A0153;Crítica;Pentest;21/01/2026;;Aceita;1.0
+V00991;A0182;Média;Cloud Security;20/08/2026;;Em tratamento;5.1
+V00992;A0161;Baixa;Cloud Security;30/08/2026;;Aceita;2.8
+V00993;A0167;Baixa;Veracode;24/07/2026;;Aberta;6.0
+V00994;A0054;Baixa;Qualys;2026-13-01;;Aberta;7.5
+V00995;A0030;Crítica;Cloud Security;12/01/2026;;Aberta;5.3
+V00996;A0102;Baixa;Qualys;06/05/2026;;Em tratamento;8.7
+V00997;A0118;Alta;Veracode;06/09/2026;;Aberta;8.5
+V00998;A0026;Alta;Cloud Security;27/04/2026;;Em tratamento;7.3
+V00999;A0157;Alta;Cloud Security;01/09/2026;;Aberta;0.4
+V01000;A0014;Baixa;Qualys;16/06/2026;18/06/2026;Corrigida;3.5
+V01001;A0133;Média;Qualys;27/02/2026;06/04/2026;Corrigida;1.9
+V01002;A0132;Baixa;Qualys;18/04/2026;09/05/2026;Corrigida;6.8
+V01003;A0104;Baixa;Pentest;11/01/2026;;Aceita;7.2
+V01004;A0176;Alta;Veracode;24/05/2026;;Em tratamento;9.2
+V01005;A0080;Alta;Veracode;18/04/2026;;Aberta;5.4
+V01006;A0107;Alta;Cloud Security;21/03/2026;;Aceita;8.9
+V01007;A0066;Baixa;Qualys;23/01/2026;;Aceita;6.1
+V01008;A0034;Média;Cloud Security;15/02/2026;08/04/2026;Corrigida;0.3
+V01009;A0067;Alta;Cloud Security;17/01/2026;;Aberta;7.4
+V01010;A0009;Baixa;Cloud Security;18/02/2026;;Aberta;8.8
+V01011;A0174;Baixa;Veracode;09/05/2026;18/05/2026;Corrigida;3.4
+V01012;A0198;BaixA;Pentest;27/02/2026;;Aberta;7.1
+V01013;A0005;Média;Cloud Security;17/05/2026;;Em tratamento;5.1
+V01014;A0167;Baixa;Veracode;14/07/2026;;Aceita;0.7
+V01015;A0119;Alta;Cloud Security;23/02/2026;;Em tratamento;3.6
+V01016;A0085;Crítica;Cloud Security;05/07/2026;;Aceita;7.5
+V01017;A0189;Crítica;Cloud Security;11/08/2026;;Aberta;4.7
+V01018;A0174;Baixa;Veracode;21/02/2026;;Em tratamento;8.4
+V01019;A0171;Crítica;Veracode;18/01/2026;;Aberta;4.5
+V01020;A0168;Baixa;Cloud Security;22/04/2026;;Aceita;2.5
+V01021;A0074;Média;Qualys;04/03/2026;;Aberta;8.6
+V01022;A0188;Média;Cloud Security;20/01/2026;;Aceita;5.6
+V01023;A0098;Crítica;Cloud Security;31/07/2026;;Em tratamento;5.6
+V01024;A0189;Crítica;Qualys;09/08/2026;;Aberta;0.4
+V01025;A0140;Crítica;Veracode;12/06/2026;;Em tratamento;1.9
+V01026;A0017;Baixa;Qualys;05/07/2026;11/09/2026;Corrigida;6.7
+V01027;A0200;Média;Veracode;04/06/2026;;Em tratamento;9.1
+V01028;A0161;Alta;Pentest;10/03/2026;;Aberta;3.5
+V01029;A0086;Baixa;Veracode;05/07/2026;;Aberta;3.8
+V01030;A0159;Alta;Cloud Security;14/05/2026;22/05/2026;Corrigida;8.5
+V01031;A0123;Crítica;Veracode;04/06/2026;09/08/2026;Corrigida;2.3
+V01032;A0104;Baixa;Cloud Security;24/06/2026;09/07/2026;Corrigida;4.5
+V01033;A0179;Crítica;Qualys;18/05/2026;;Aberta;6.5
+V01034;A0035;Alta;Pentest;06-22-2026;26/08/2026;Corrigida;2.7
+V01035;A0057;media;Qualys;31/08/2026;;Em tratamento;1.0
+V01036;A0054;Crítica;Pentest;29/05/2026;;Aceita;0.8
+V01037;A0093;Crítica;Pentest;09/01/2026;;Em tratamento;9.0
+V01038;A0084;Crítica;Cloud Security;25/03/2026;;Em tratamento;4.1
+V01039;A0043;Alta;Veracode;20/01/2026;;Em tratamento;7.5
+V01040;A0153;Crítica;Pentest;23/05/2026;;Em tratamento;8.1
+V01041;A0148;Alta;Cloud Security;26/01/2026;;Aceita;7.2
+V01042;A0133;Crítica;Qualys;20/07/2026;;Aberta;4.4
+V01043;A0159;Alta;Cloud Security;25/03/2026;;Em tratamento;6.6
+V01044;A0144;Média;Veracode;30/07/2026;15/10/2026;Corrigida;0.3
+V01045;A0130;Baixa;Veracode;16/02/2026;;Aberta;0.7
+V01046;A0047;Baixa;Pentest;24/05/2026;;Aberta;7.3
+V01047;A0005;Alta;Cloud Security;22/02/2026;26/02/2026;Corrigida;5.7
+V01048;A0093;Alta;Qualys;04/04/2026;;Aberta;8.0
+V01049;A0059;Crítica;Qualys;30/06/2026;;Aceita;7.8
+V01050;A0145;Crítica;Qualys;08/06/2026;20/06/2026;Corrigida;4.2
+V01051;A0160;Média;Cloud Security;26/04/2026;;Em tratamento;2.4
+V01052;A0013;Baixa;Cloud Security;21/05/2026;;Aberta;2.7
+V01053;A0148;Média;Qualys;14/03/2026;;Aberta;1.9
+V01054;A0021;Baixa;Cloud Security;04/02/2026;;Aceita;2.5
+V01055;A0182;Média;Cloud Security;23/01/2026;24/01/2026;Corrigida;7.4
+V01056;A0154;Alta;Pentest;09/08/2026;;Aceita;2.4
+V01057;A0100;Crítica;Qualys;29/07/2026;;Aberta;8.5
+V01058;A0003;ALTA;Pentest;23/01/2026;;Em tratamento;7.1
+V01059;A0024;Alta;Cloud Security;25/01/2026;;Em tratamento;3.0
+V01060;A0137;Alta;Pentest;15/04/2026;;Aceita;1.1
+V01061;A0005;Baixa;Qualys;03/06/2026;;Aberta;7.4
+V01062;A0059;Crítica;Veracode;01/09/2026;;Aberta;10.0
+V01063;A0189;Baixa;Pentest;03/04/2026;;Aceita;8.0
+V01064;A0062;Crítica;Pentest;22/06/2026;;Aberta;0.4
+V01065;A0053;Alta;Pentest;2026-13-01;;Aceita;1.4
+V01066;A0013;Baixa;Pentest;08/09/2026;;Em tratamento;3.3
+V01067;A0107;Baixa;Cloud Security;21/06/2026;;Aceita;3.6
+V01068;A0070;Crítica;Veracode;31/02/2026;;Aberta;8.4
+V01069;A0023;Crítica;Cloud Security;21/08/2026;;Aberta;3.8
+V01070;A0031;Baixa;Cloud Security;22/02/2026;;Em tratamento;4.6
+V01071;A0185;Média;Pentest;06/02/2026;18/02/2026;Corrigida;8.3
+V01072;A0180;Crítica;Cloud Security;15/04/2026;;Aberta;5.5
+V01073;A0109;Crítica;Pentest;03/04/2026;;Aceita;3.8
+V01074;A0078;Crítica;Pentest;04/09/2026;12/11/2026;Corrigida;4.1
+V01075;A0098;Alta;Pentest;27/05/2026;;Aberta;5.8
+V01076;A0138;Crítica;Qualys;29/05/2026;01/06/2026;Corrigida;9.0
+V01077;A0058;Média;Pentest;11/01/2026;;Aceita;0.2
+V01078;A0105;Média;Qualys;13/07/2026;;Aceita;6.8
+V01079;A0073;Alta;Cloud Security;16/09/2026;;Aberta;5.0
+V01080;A0038;Baixa;Pentest;15/09/2026;;Aberta;1.7
+V01081;A0191;;Pentest;08-27-2026;02/09/2026;Corrigida;9.9
+V01082;A0187;Baixa;Qualys;07/07/2026;;Em tratamento;5.7
+V01083;A0065;Baixa;Cloud Security;12/02/2026;;Aceita;5.7
+V01084;A0002;Alta;Pentest;15/06/2026;;Aceita;9.6
+V01085;A0137;Crítica;Qualys;21/02/2026;;Em tratamento;6.3
+V01086;A0110;Média;Cloud Security;18/08/2026;;Em tratamento;3.5
+V01087;A0033;Média;Cloud Security;18/02/2026;;Aceita;8.1
+V01088;A0032;Baixa;Pentest;17/07/2026;;Aberta;2.6
+V01089;A0186;Alta;Veracode;04/06/2026;;Aceita;6.1
+V01090;A0159;Média;Cloud Security;29/04/2026;07/06/2026;Corrigida;5.1
+V01091;A0141;Baixa;Qualys;29/08/2026;25/10/2026;Corrigida;7.1
+V01092;A0051;Alta;Veracode;15/02/2026;17/03/2026;Corrigida;4.4
+V01093;A0121;Baixa;Veracode;20/02/2026;;Aberta;1.0
+V01094;A0117;Alta;Cloud Security;13/09/2026;;Aberta;9.4
+V01095;A0176;Crítica;Veracode;14/07/2026;;Aberta;8.3
+V01096;A0027;Alta;Cloud Security;02/01/2026;;Aberta;0.7
+V01097;A0104;Baixa;Veracode;09/02/2026;;Aberta;7.8
+V01098;A0187;Baixa;Cloud Security;31/03/2026;01/06/2026;Corrigida;4.9
+V01099;A0024;Crítica;Qualys;19/08/2026;08/10/2026;Corrigida;5.9
+V01100;A0088;Crítica;Cloud Security;09/01/2026;;Aceita;9.2
+V01101;A0169;Alta;Cloud Security;27/08/2026;20/09/2026;Corrigida;5.2
+V01102;A0123;Alta;Veracode;26/02/2026;;Aberta;4.0
+V01103;A0041;Crítica;Qualys;19/06/2026;22/07/2026;Corrigida;8.5
+V01104;A0189;critica;Veracode;06/07/2026;;Aberta;2.7
+V01105;A0183;Alta;Pentest;26/07/2026;;Aberta;2.8
+V01106;A0103;Crítica;Qualys;09/02/2026;;Aceita;3.5
+V01107;A0047;Crítica;Pentest;06/04/2026;12/05/2026;Corrigida;9.6
+V01108;A0178;Baixa;Qualys;24/02/2026;05/05/2026;Corrigida;6.2
+V01109;A0157;Média;Pentest;28/06/2026;;Aceita;8.1
+V01110;A0007;Média;Cloud Security;16/08/2026;;Em tratamento;4.4
+V01111;A0142;Crítica;Cloud Security;13/02/2026;;Aceita;0.1
+V01112;A0174;Baixa;Cloud Security;04/07/2026;;Em tratamento;4.9
+V01113;A0140;Crítica;Cloud Security;20/06/2026;;Em tratamento;4.2
+V01114;A0050;Crítica;Pentest;28/02/2026;;Aberta;4.5
+V01115;A0048;Crítica;Pentest;25/05/2026;;Aceita;3.4
+V01116;A0132;Média;Qualys;24/01/2026;;Aberta;6.7
+V01117;A0162;Baixa;Pentest;04/05/2026;;Aceita;3.3
+V01118;A0033;Baixa;Pentest;14/06/2026;;Aberta;5.2
+V01119;A0082;Média;Pentest;02/07/2026;05/08/2026;Corrigida;4.9
+V01120;A0034;Baixa;Pentest;11/06/2026;13/08/2026;Corrigida;0.9
+V01121;A0045;Crítica;Qualys;15/07/2026;;Aceita;3.0
+V01122;A0183;Crítica;Cloud Security;30/07/2026;;Em tratamento;0.4
+V01123;A0070;Crítica;Pentest;13/06/2026;;Aceita;3.3
+V01124;A0149;Alta;Pentest;23/03/2026;;Aberta;3.1
+V01125;A0186;Baixa;Qualys;21/06/2026;;Em tratamento;5.4
+V01126;A0002;Alta;Veracode;10/05/2026;;Aberta;7.2
+V01127;A0092;media;Cloud Security;14/07/2026;;Em tratamento;6.0
+V01128;A0135;Média;Veracode;05/04/2026;;Aceita;0.8
+V01129;A0099;Baixa;Pentest;25/01/2026;;Em tratamento;1.1
+V01130;A0120;Alta;Veracode;02/02/2026;;Aceita;5.1
+V01131;A0099;Alta;Cloud Security;31/08/2026;;Aceita;7.5
+V01132;A0173;Alta;Cloud Security;28/05/2026;;Em tratamento;3.4
+V01133;A0109;Alta;Veracode;15/05/2026;;Em tratamento;2.4
+V01134;A0039;Alta;Cloud Security;25/02/2026;;Aberta;9.0
+V01135;A0050;Crítica;Pentest;31/05/2026;21/07/2026;Corrigida;1.3
+V01136;A0167;Baixa;Cloud Security;2026-13-01;;Em tratamento;4.6
+V01137;A0180;Alta;Qualys;30/01/2026;;Aceita;8.4
+V01138;A0108;Média;Cloud Security;05/09/2026;;Aceita;0.2
+V01139;A0064;Crítica;Qualys;05/03/2026;05/04/2026;Corrigida;9.8
+V01140;A0014;Média;Pentest;08/02/2026;20/02/2026;Corrigida;0.6
+V01141;A0014;Crítica;Veracode;10/05/2026;;Aberta;4.7
+V01142;A0087;Alta;Cloud Security;18/08/2026;;Aberta;1.1
+V01143;A0187;Crítica;Veracode;16/06/2026;21/06/2026;Corrigida;9.5
+V01144;A0149;Média;Veracode;26/05/2026;;Aberta;4.8
+V01145;A0142;Crítica;Cloud Security;22/06/2026;;Aberta;6.2
+V01146;A0092;Média;Veracode;30/04/2026;;Em tratamento;2.5
+V01147;A0083;Média;Veracode;20/03/2026;;Aberta;5.1
+V01148;A0144;Crítica;Qualys;01/04/2026;;Aceita;4.2
+V01149;A0092;Crítica;Qualys;28/02/2026;29/05/2026;Corrigida;6.0
+V01150;A0037;media;Pentest;21/05/2026;;Em tratamento;5.0
+V01151;A0066;Baixa;Pentest;06/05/2026;03/07/2026;Corrigida;0.9
+V01152;A0112;Alta;Cloud Security;14/02/2026;01/03/2026;Corrigida;3.3
+V01153;A0100;Baixa;Veracode;26/05/2026;;Aceita;0.9
+V01154;A0050;Baixa;Pentest;02/09/2026;;Aberta;1.3
+V01155;A0168;Crítica;Pentest;04/06/2026;03/07/2026;Corrigida;3.6
+V01156;A0123;Média;Cloud Security;26/02/2026;;Aceita;2.2
+V01157;A0059;Crítica;Pentest;31/02/2026;;Aberta;7.6
+V01158;A0071;Crítica;Veracode;23/06/2026;;Aceita;7.1
+V01159;A0120;Crítica;Veracode;20/07/2026;;Aberta;5.0
+V01160;A0174;Alta;Qualys;01/04/2026;;Aceita;3.4
+V01161;A0029;Crítica;Qualys;04/01/2026;;Aceita;4.0
+V01162;A0081;Baixa;Cloud Security;21/01/2026;;Aberta;9.2
+V01163;A0022;Alta;Cloud Security;24/04/2026;;Aberta;5.9
+V01164;A0128;Crítica;Pentest;15/05/2026;;Em tratamento;3.5
+V01165;A0004;Crítica;Cloud Security;29/07/2026;;Em tratamento;3.0
+V01166;A0174;Baixa;Veracode;13/02/2026;;Aberta;6.8
+V01167;A0132;Média;Pentest;08/02/2026;09/03/2026;Corrigida;1.5
+V01168;A0020;Crítica;Pentest;11/02/2026;24/04/2026;Corrigida;5.0
+V01169;A0074;Crítica;Cloud Security;04/09/2026;11/09/2026;Corrigida;9.2
+V01170;A0181;Crítica;Qualys;13/01/2026;;Aceita;2.0
+V01171;A0065;Baixa;Veracode;28/06/2026;;Aceita;3.7
+V01172;A0044;Baixa;Pentest;21/03/2026;;Em tratamento;5.0
+V01173;A0121;ALTA;Veracode;18/08/2026;;Aceita;6.0
+V01174;A0057;Alta;Cloud Security;29/01/2026;23/02/2026;Corrigida;0.1
+V01175;A0003;Crítica;Pentest;08-29-2026;;Aceita;9.3
+V01176;A0001;Baixa;Qualys;17/07/2026;;Aberta;5.7
+V01177;A0029;Baixa;Cloud Security;03/02/2026;;Aceita;0.4
+V01178;A0133;Alta;Pentest;16/09/2026;;Em tratamento;3.9
+V01179;A0183;Média;Cloud Security;17/02/2026;22/03/2026;Corrigida;8.5
+V01180;A0047;Crítica;Cloud Security;01/02/2026;;Aberta;5.2
+V01181;A0151;Crítica;Qualys;28/05/2026;;Em tratamento;0.4
+V01182;A0115;Baixa;Pentest;06/07/2026;;Em tratamento;3.3
+V01183;A0195;Baixa;Veracode;18/03/2026;04/04/2026;Corrigida;7.4
+V01184;A0186;Média;Cloud Security;21/05/2026;;Em tratamento;7.4
+V01185;A0039;Alta;Qualys;13/09/2026;07/12/2026;Corrigida;4.7
+V01186;A0101;Média;Veracode;24/08/2026;;Aberta;2.9
+V01187;A0035;Média;Cloud Security;23/05/2026;;Aceita;5.9
+V01188;A0086;Crítica;Qualys;30/07/2026;;Em tratamento;9.0
+V01189;A0059;Alta;Cloud Security;20/02/2026;;Em tratamento;6.7
+V01190;A0084;Crítica;Cloud Security;19/02/2026;;Aceita;4.0
+V01191;A0120;Alta;Veracode;05/06/2026;;Aberta;1.4
+V01192;A0143;Baixa;Veracode;02/08/2026;;Em tratamento;0.5
+V01193;A0005;Baixa;Pentest;24/05/2026;;Em tratamento;3.8
+V01194;A0182;Média;Veracode;21/07/2026;10/09/2026;Corrigida;8.9
+V01195;A0149;Média;Veracode;22/01/2026;;Em tratamento;9.9
+V01196;A0173;BaixA;Veracode;14/01/2026;;Aberta;8.9
+V01197;A0175;Crítica;Qualys;14/06/2026;;Em tratamento;8.1
+V01198;A0173;Alta;Cloud Security;21/08/2026;;Aberta;8.2
+V01199;A0147;Crítica;Veracode;14/03/2026;;Em tratamento;4.8
+V01200;A0010;Alta;Pentest;14/08/2026;;Em tratamento;7.0
+V01201;A0187;Baixa;Cloud Security;08/02/2026;;Em tratamento;7.6
+V01202;A0148;Baixa;Qualys;21/02/2026;10/03/2026;Corrigida;5.0
+V01203;A0086;Crítica;Veracode;08/05/2026;;Em tratamento;1.4
+V01204;A0064;Baixa;Cloud Security;28/06/2026;;Aberta;5.1
+V01205;A0081;Alta;Cloud Security;06/01/2026;;Em tratamento;3.7
+V01206;A0085;Média;Qualys;18/03/2026;;Aceita;2.8
+V01207;A0024;Alta;Pentest;2026-13-01;;Aberta;2.1
+V01208;A0012;Baixa;Qualys;05/06/2026;;Em tratamento;0.1
+V01209;A0120;Alta;Pentest;25/02/2026;;Aberta;5.4
+V01210;A0080;Crítica;Cloud Security;26/06/2026;;Aceita;3.3
+V01211;A0033;Alta;Veracode;05/05/2026;;Em tratamento;4.3
+V01212;A0099;Crítica;Qualys;07/06/2026;26/06/2026;Corrigida;2.3
+V01213;A0046;Baixa;Veracode;20/01/2026;;Aceita;8.7
+V01214;A0195;Média;Pentest;17/07/2026;;Em tratamento;0.9
+V01215;A0131;Crítica;Cloud Security;12/06/2026;09/09/2026;Corrigida;2.5
+V01216;A0183;Crítica;Pentest;02/01/2026;;Em tratamento;1.7
+V01217;A0064;Média;Qualys;16/09/2026;;Em tratamento;7.2
+V01218;A0081;Média;Pentest;04/07/2026;;Aceita;0.1
+V01219;A0036;BaixA;Pentest;10/08/2026;;Aberta;2.9
+V01220;A0152;Alta;Qualys;02/03/2026;;Aberta;9.2
+V01221;A0173;Baixa;Cloud Security;11/07/2026;;Aberta;8.9
+V01222;A0193;Média;Veracode;06-28-2026;;Aberta;5.4
+V01223;A0019;Alta;Veracode;25/05/2026;08/07/2026;Corrigida;1.8
+V01224;A0031;Alta;Cloud Security;01/09/2026;;Em tratamento;6.0
+V01225;A0086;Alta;Qualys;18/09/2026;19/11/2026;Corrigida;0.5
+V01226;A0112;Média;Cloud Security;21/03/2026;;Em tratamento;5.6
+V01227;A0101;Média;Cloud Security;01/05/2026;;Aceita;4.3
+V01228;A0015;Alta;Veracode;16/06/2026;;Aberta;7.8
+V01229;A0068;Crítica;Cloud Security;05/05/2026;;Aceita;4.2
+V01230;A0145;Média;Qualys;18/07/2026;26/07/2026;Corrigida;3.5
+V01231;A0017;Média;Veracode;25/03/2026;;Em tratamento;0.1
+V01232;A0133;Baixa;Qualys;11/01/2026;;Aberta;6.8
+V01233;A0016;Média;Cloud Security;17/01/2026;;Aceita;5.7
+V01234;A0160;Alta;Veracode;10/08/2026;05/10/2026;Corrigida;6.7
+V01235;A0149;Alta;Cloud Security;04/03/2026;;Em tratamento;10.0
+V01236;A0048;Baixa;Qualys;31/07/2026;;Aceita;4.0
+V01237;A0014;Crítica;Cloud Security;15/08/2026;;Aberta;5.1
+V01238;A0023;Alta;Qualys;11/07/2026;30/07/2026;Corrigida;5.0
+V01239;A0095;Crítica;Veracode;06/08/2026;;Aberta;2.2
+V01240;A0171;Média;Pentest;28/02/2026;;Aceita;4.6
+V01241;A0024;Alta;Cloud Security;05/01/2026;;Em tratamento;8.2
+V01242;A0077;ALTA;Veracode;24/01/2026;;Aceita;9.7
+V01243;A0086;Alta;Veracode;12/02/2026;;Aberta;4.0
+V01244;A0077;Baixa;Qualys;29/01/2026;03/04/2026;Corrigida;9.9
+V01245;A0159;Média;Veracode;01/01/2026;;Aceita;5.0
+V01246;A0042;Baixa;Cloud Security;31/02/2026;;Aceita;0.2
+V01247;A0065;Baixa;Veracode;24/03/2026;21/05/2026;Corrigida;0.3
+V01248;A0038;Média;Veracode;27/06/2026;04/08/2026;Corrigida;3.5
+V01249;A0153;Crítica;Cloud Security;10/08/2026;24/09/2026;Corrigida;6.5
+V01250;A0139;Crítica;Pentest;05/02/2026;;Em tratamento;3.6
+V01251;A0173;Baixa;Veracode;06/04/2026;;Aceita;3.5
+V01252;A0120;Crítica;Qualys;12/08/2026;;Aberta;7.4
+V01253;A0028;Alta;Cloud Security;05/03/2026;26/04/2026;Corrigida;7.9
+V01254;A0133;Baixa;Cloud Security;29/07/2026;17/10/2026;Corrigida;4.8
+V01255;A0141;Alta;Pentest;21/04/2026;16/05/2026;Corrigida;7.3
+V01256;A0079;Média;Cloud Security;11/08/2026;;Aberta;8.9
+V01257;A0071;Baixa;Qualys;03/04/2026;;Aceita;3.1
+V01258;A0119;Alta;Qualys;21/01/2026;;Aceita;7.1
+V01259;A0125;Baixa;Cloud Security;12/03/2026;;Em tratamento;4.9
+V01260;A0069;Crítica;Cloud Security;19/03/2026;;Aceita;8.0
+V01261;A0025;Alta;Cloud Security;01/08/2026;;Aberta;4.6
+V01262;A0158;Baixa;Veracode;06/06/2026;;Em tratamento;5.8
+V01263;A0197;Alta;Veracode;26/01/2026;;Aceita;0.4
+V01264;A0065;Alta;Cloud Security;06/03/2026;;Aceita;3.1
+V01265;A0170;critica;Cloud Security;12/01/2026;;Em tratamento;1.1
+V01266;A0179;Média;Pentest;14/07/2026;10/10/2026;Corrigida;2.6
+V01267;A0163;Média;Qualys;26/04/2026;;Em tratamento;1.8
+V01268;A0014;Alta;Qualys;16/05/2026;;Aceita;9.7
+V01269;A0110;Média;Cloud Security;07-22-2026;;Aberta;6.1
+V01270;A0055;Baixa;Veracode;21/06/2026;;Aberta;1.8
+V01271;A0073;Média;Pentest;10/06/2026;;Aceita;7.8
+V01272;A0030;Alta;Veracode;13/07/2026;;Aceita;4.8
+V01273;A0026;Alta;Qualys;29/08/2026;;Aceita;6.6
+V01274;A0106;Média;Pentest;09/06/2026;;Em tratamento;5.0
+V01275;A0200;Baixa;Qualys;22/05/2026;;Aceita;2.9
+V01276;A0051;Média;Pentest;09/03/2026;31/03/2026;Corrigida;8.2
+V01277;A0037;Crítica;Pentest;24/08/2026;;Aberta;8.1
+V01278;A0078;Baixa;Qualys;2026-13-01;;Aceita;4.5
+V01279;A0169;Média;Veracode;18/08/2026;;Em tratamento;2.8
+V01280;A0053;Alta;Pentest;09/07/2026;30/07/2026;Corrigida;8.9
+V01281;A0153;Crítica;Veracode;05/01/2026;;Em tratamento;8.5
+V01282;A0101;Crítica;Veracode;22/07/2026;;Aceita;1.2
+V01283;A0152;Alta;Cloud Security;10/04/2026;24/06/2026;Corrigida;2.6
+V01284;A0183;Alta;Veracode;11/05/2026;;Aceita;2.6
+V01285;A0081;Média;Qualys;28/07/2026;;Aberta;9.2
+V01286;A0151;Baixa;Veracode;08/07/2026;;Aberta;6.0
+V01287;A0101;Baixa;Qualys;17/09/2026;;Aceita;4.9
+V01288;A0194;ALTA;Veracode;12/04/2026;04/06/2026;Corrigida;5.7
+V01289;A0166;Alta;Cloud Security;18/03/2026;;Aceita;7.2
+V01290;A0090;Baixa;Cloud Security;17/02/2026;19/02/2026;Corrigida;9.5
+V01291;A0149;Baixa;Qualys;27/02/2026;;Em tratamento;0.2
+V01292;A0074;Crítica;Cloud Security;17/05/2026;;Em tratamento;5.7
+V01293;A0053;Crítica;Pentest;25/02/2026;10/04/2026;Corrigida;5.5
+V01294;A0033;Crítica;Cloud Security;15/05/2026;;Em tratamento;3.2
+V01295;A0131;Média;Qualys;26/01/2026;;Aceita;7.9
+V01296;A0186;Baixa;Cloud Security;10/05/2026;;Aceita;9.8
+V01297;A0050;Crítica;Veracode;19/04/2026;;Aberta;9.5
+V01298;A0065;Crítica;Qualys;22/02/2026;;Em tratamento;4.1
+V01299;A0087;Média;Veracode;21/04/2026;;Aceita;7.0
+V01300;A0108;Média;Cloud Security;12/09/2026;;Aberta;6.4
+V01301;A9999;Baixa;Cloud Security;21/07/2026;23/09/2026;Corrigida;7.5
+V01302;A0083;Alta;Pentest;25/04/2026;;Em tratamento;0.5
+V01303;A0033;Alta;Pentest;11/05/2026;;Aceita;4.7
+V01304;A0151;Crítica;Pentest;10/01/2026;06/04/2026;Corrigida;8.0
+V01305;A0165;Crítica;Cloud Security;03/05/2026;;Aceita;6.8
+V01306;A0064;Baixa;Veracode;12/09/2026;;Aceita;9.9
+V01307;A0030;Crítica;Pentest;21/08/2026;18/10/2026;Corrigida;7.0
+V01308;A0073;Alta;Veracode;11/05/2026;;Aberta;1.4
+V01309;A0008;Crítica;Pentest;07/07/2026;;Aceita;6.4
+V01310;A0184;Crítica;Pentest;05/02/2026;;Aceita;8.7
+V01311;A0066;N/A;Cloud Security;07/08/2026;13/09/2026;Corrigida;1.2
+V01312;A0132;Crítica;Veracode;10/05/2026;;Aberta;7.1
+V01313;A0103;Média;Pentest;09/05/2026;;Em tratamento;4.4
+V01314;A0150;Alta;Veracode;04/07/2026;;Aceita;3.2
+V01315;A0085;Média;Veracode;14/09/2026;;Aberta;2.3
+V01316;A0045;Média;Qualys;03-19-2026;;Aceita;5.5
+V01317;A0166;Baixa;Pentest;05/01/2026;17/03/2026;Corrigida;3.5
+V01318;A0091;Crítica;Veracode;20/05/2026;;Aceita;6.2
+V01319;A0018;Média;Veracode;10/09/2026;11/09/2026;Corrigida;4.7
+V01320;A0148;Média;Cloud Security;22/01/2026;;Aberta;10.0
+V01321;A0023;Média;Veracode;26/08/2026;;Aberta;2.5
+V01322;A0051;Alta;Cloud Security;12/01/2026;16/02/2026;Corrigida;6.6
+V01323;A0097;Média;Cloud Security;03/02/2026;;Em tratamento;7.5
+V01324;A0197;Crítica;Qualys;15/01/2026;;Aberta;3.7
+V01325;A0183;Média;Cloud Security;15/05/2026;29/06/2026;Corrigida;2.7
+V01326;A0145;Baixa;Cloud Security;21/06/2026;;Em tratamento;7.8
+V01327;A0113;Média;Pentest;10/06/2026;;Aberta;3.4
+V01328;A0048;Baixa;Qualys;12/07/2026;;Aceita;5.6
+V01329;A0045;Crítica;Veracode;06/05/2026;;Em tratamento;1.7
+V01330;A0040;Alta;Qualys;17/01/2026;;Aceita;2.2
+V01331;A0036;Crítica;Pentest;19/06/2026;;Aberta;7.9
+V01332;A0120;Baixa;Qualys;22/02/2026;06/04/2026;Corrigida;1.5
+V01333;A0095;Média;Veracode;16/04/2026;;Em tratamento;3.6
+V01334;A0117;ALTA;Qualys;07/09/2026;;Aceita;6.0
+V01335;A0023;Crítica;Cloud Security;31/02/2026;;Em tratamento;8.9
+V01336;A0034;Crítica;Veracode;22/04/2026;;Em tratamento;3.5
+V01337;A0083;Baixa;Qualys;21/07/2026;;Em tratamento;1.7
+V01338;A0006;Média;Qualys;21/01/2026;;Aceita;5.6
+V01339;A0004;Alta;Veracode;03/04/2026;;Em tratamento;6.1
+V01340;A0001;Alta;Qualys;28/05/2026;;Aceita;1.4
+V01341;A0070;Média;Veracode;31/03/2026;;Aceita;4.9
+V01342;A0162;Crítica;Veracode;29/03/2026;;Aberta;5.7
+V01343;A0002;Alta;Cloud Security;06/07/2026;22/08/2026;Corrigida;7.8
+V01344;A0008;Alta;Cloud Security;28/05/2026;;Aberta;5.4
+V01345;A0092;Alta;Pentest;03/04/2026;25/04/2026;Corrigida;0.5
+V01346;A0159;Crítica;Qualys;17/09/2026;;Em tratamento;3.6
+V01347;A0032;Crítica;Qualys;01/02/2026;;Aceita;8.8
+V01348;A0087;Média;Veracode;18/07/2026;15/10/2026;Corrigida;3.8
+V01349;A0044;Baixa;Veracode;2026-13-01;;Aceita;0.6
+V01350;A0094;Média;Qualys;18/02/2026;;Em tratamento;5.9
+V01351;A0132;Média;Cloud Security;12/02/2026;;Em tratamento;2.3
+V01352;A0187;Média;Cloud Security;04/05/2026;12/06/2026;Corrigida;1.8
+V01353;A0192;Baixa;Pentest;01/05/2026;;Em tratamento;1.1
+V01354;A0116;Média;Pentest;09/04/2026;;Em tratamento;7.3
+V01355;A0017;Baixa;Cloud Security;13/05/2026;;Aceita;6.9
+V01356;A0147;Alta;Qualys;29/08/2026;;Em tratamento;4.7
+V01357;A0164;N/A;Qualys;27/04/2026;04/05/2026;Corrigida;2.3
+V01358;A0073;Baixa;Pentest;05/06/2026;;Em tratamento;2.7
+V01359;A0119;Baixa;Pentest;05/01/2026;;Aceita;0.3
+V01360;A0123;Baixa;Qualys;12/06/2026;27/07/2026;Corrigida;9.2
+V01361;A0053;Média;Qualys;30/08/2026;;Aceita;3.2
+V01362;A0139;Baixa;Cloud Security;19/08/2026;;Aceita;1.9
+V01363;A0116;Alta;Pentest;06-29-2026;;Aberta;4.6
+V01364;A0056;Baixa;Pentest;22/07/2026;;Aceita;5.0
+V01365;A0099;Baixa;Cloud Security;18/08/2026;;Em tratamento;5.2
+V01366;A0192;Média;Pentest;22/07/2026;;Aberta;1.2
+V01367;A0025;Alta;Veracode;16/08/2026;05/09/2026;Corrigida;9.7
+V01368;A0175;Baixa;Pentest;14/08/2026;;Aberta;5.6
+V01369;A0197;Média;Veracode;23/02/2026;;Aberta;6.8
+V01370;A0086;Alta;Veracode;21/06/2026;;Em tratamento;3.2
+V01371;A0053;Crítica;Qualys;31/08/2026;;Aceita;0.3
+V01372;A0113;Média;Qualys;20/04/2026;;Aceita;6.6
+V01373;A0117;Média;Cloud Security;15/02/2026;;Aberta;7.0
+V01374;A0160;Crítica;Veracode;19/06/2026;;Em tratamento;9.4
+V01375;A0176;Baixa;Cloud Security;11/07/2026;;Aceita;0.5
+V01376;A0082;Alta;Qualys;02/08/2026;;Em tratamento;5.2
+V01377;A0103;Baixa;Qualys;06/08/2026;;Em tratamento;6.4
+V01378;A0148;Baixa;Veracode;12/07/2026;;Aceita;1.2
+V01379;A0060;Baixa;Qualys;25/06/2026;;Em tratamento;7.5
+V01380;A0033;ALTA;Pentest;29/01/2026;;Aceita;0.2
+V01381;A0170;Média;Pentest;02/07/2026;;Aberta;9.9
+V01382;A0045;Crítica;Veracode;18/09/2026;;Aberta;3.8
+V01383;A0023;Média;Cloud Security;07/02/2026;;Aceita;7.9
+V01384;A0181;Alta;Pentest;07/05/2026;;Aceita;6.4
+V01385;A0020;Alta;Veracode;09/06/2026;;Em tratamento;2.3
+V01386;A0105;Alta;Veracode;27/06/2026;;Aceita;6.2
+V01387;A0195;Crítica;Veracode;01/04/2026;;Aceita;9.5
+V01388;A0139;Alta;Veracode;29/08/2026;;Em tratamento;5.1
+V01389;A0179;Baixa;Pentest;20/06/2026;;Em tratamento;0.5
+V01390;A0175;Média;Pentest;17/03/2026;25/03/2026;Corrigida;6.7
+V01391;A0166;Crítica;Cloud Security;10/03/2026;;Em tratamento;1.0
+V01392;A0058;Crítica;Pentest;02/09/2026;;Em tratamento;0.9
+V01393;A0042;Média;Qualys;20/01/2026;23/02/2026;Corrigida;6.6
+V01394;A0132;Alta;Pentest;03/08/2026;;Aberta;4.4
+V01395;A0063;Média;Veracode;02/01/2026;10/03/2026;Corrigida;3.5
+V01396;A0158;Média;Cloud Security;10/02/2026;;Em tratamento;7.3
+V01397;A0198;Crítica;Pentest;26/04/2026;;Aberta;3.1
+V01398;A0008;Alta;Qualys;20/03/2026;15/04/2026;Corrigida;1.7
+V01399;A0114;Baixa;Veracode;31/05/2026;;Aberta;4.0
+V01400;A0102;Baixa;Pentest;28/06/2026;;Aberta;3.7
+V01401;A0111;Crítica;Qualys;28/04/2026;;Aceita;1.3
+V01402;A0175;Baixa;Pentest;04/09/2026;;Aceita;8.0
+V01403;A0141;media;Pentest;24/01/2026;;Aberta;3.7
+V01404;A0154;Alta;Veracode;11/07/2026;;Aberta;0.6
+V01405;A0095;Baixa;Qualys;06/02/2026;;Aceita;3.8
+V01406;A0116;Alta;Pentest;23/08/2026;21/10/2026;Corrigida;8.4
+V01407;A0118;Baixa;Pentest;22/08/2026;;Aceita;9.3
+V01408;A0063;Alta;Veracode;30/01/2026;;Aceita;4.0
+V01409;A0150;Crítica;Veracode;07/07/2026;;Em tratamento;4.4
+V01410;A0121;Média;Cloud Security;03-16-2026;;Em tratamento;4.9
+V01411;A0195;Média;Qualys;23/08/2026;;Em tratamento;7.8
+V01412;A0111;Crítica;Pentest;22/05/2026;;Aceita;1.5
+V01413;A0006;Alta;Cloud Security;04/06/2026;;Em tratamento;4.9
+V01414;A0147;Média;Pentest;09/02/2026;;Aceita;3.0
+V01415;A0053;Alta;Qualys;09/04/2026;;Em tratamento;9.4
+V01416;A0031;Crítica;Pentest;06/05/2026;18/07/2026;Corrigida;3.8
+V01417;A0175;Média;Pentest;05/09/2026;;Aceita;6.6
+V01418;A0141;Alta;Veracode;26/03/2026;;Em tratamento;1.6
+V01419;A0177;Crítica;Qualys;06/09/2026;05/10/2026;Corrigida;3.4
+V01420;A0102;Alta;Cloud Security;2026-13-01;;Em tratamento;6.0
+V01421;A0130;Alta;Veracode;18/06/2026;;Aceita;7.1
+V01422;A0138;Baixa;Qualys;11/02/2026;29/03/2026;Corrigida;8.6
+V01423;A0089;Média;Pentest;05/05/2026;;Aberta;8.6
+V01424;A0033;Média;Qualys;31/02/2026;12/04/2026;Corrigida;3.6
+V01425;A0173;Média;Qualys;02/01/2026;;Em tratamento;8.4
+V01426;A0029;BaixA;Cloud Security;30/06/2026;23/08/2026;Corrigida;4.3
+V01427;A0079;Alta;Cloud Security;11/01/2026;;Aceita;8.8
+V01428;A0147;Baixa;Qualys;01/04/2026;;Aberta;5.7
+V01429;A0142;Alta;Pentest;02/01/2026;;Aceita;8.3
+V01430;A0146;Baixa;Pentest;01/03/2026;;Em tratamento;7.3
+V01431;A0080;Crítica;Pentest;31/08/2026;;Aceita;5.6
+V01432;A0082;Alta;Veracode;14/09/2026;;Aceita;3.2
+V01433;A0152;Média;Qualys;01/02/2026;;Aceita;2.2
+V01434;A0016;Média;Veracode;10/05/2026;;Aceita;9.2
+V01435;A0039;Crítica;Cloud Security;16/01/2026;;Aceita;0.5
+V01436;A0086;Crítica;Qualys;23/02/2026;12/03/2026;Corrigida;5.7
+V01437;A0191;Média;Veracode;25/06/2026;;Aceita;4.4
+V01438;A0041;Crítica;Veracode;07/05/2026;;Aberta;3.1
+V01439;A0148;Baixa;Veracode;16/09/2026;;Aberta;8.0
+V01440;A0093;Média;Cloud Security;14/04/2026;24/06/2026;Corrigida;0.5
+V01441;A0185;Alta;Cloud Security;02/04/2026;;Em tratamento;8.1
+V01442;A0012;Média;Veracode;14/09/2026;02/10/2026;Corrigida;1.6
+V01443;A0019;Média;Cloud Security;15/08/2026;;Aberta;7.5
+V01444;A0093;Baixa;Cloud Security;13/05/2026;;Em tratamento;9.7
+V01445;A0080;Baixa;Qualys;08/09/2026;;Em tratamento;3.2
+V01446;A0044;Alta;Veracode;14/09/2026;10/12/2026;Corrigida;5.3
+V01447;A0073;Crítica;Qualys;07/09/2026;;Em tratamento;1.4
+V01448;A0062;Baixa;Cloud Security;09/02/2026;;Aberta;7.8
+V01449;A0143;N/A;Veracode;13/02/2026;;Aceita;4.3
+V01450;A0163;Baixa;Qualys;29/01/2026;29/04/2026;Corrigida;5.3
+V01451;A0010;Média;Veracode;13/08/2026;;Em tratamento;1.7
+V01452;A0052;Crítica;Pentest;08/09/2026;21/11/2026;Corrigida;9.8
+V01453;A0117;Média;Qualys;03/09/2026;28/11/2026;Corrigida;8.6
+V01454;A0041;Alta;Veracode;07/01/2026;22/03/2026;Corrigida;2.2
+V01455;A0065;Crítica;Veracode;28/07/2026;;Em tratamento;2.4
+V01456;A0134;Baixa;Qualys;16/05/2026;08/07/2026;Corrigida;1.9
+V01457;A0084;Crítica;Cloud Security;15/05/2026;;Aberta;2.2
+V01458;A0009;Alta;Pentest;10/02/2026;;Aceita;8.9
+V01459;A0099;Baixa;Pentest;01/05/2026;;Aberta;1.8
+V01460;A0042;Média;Veracode;13/08/2026;19/08/2026;Corrigida;1.5
+V01461;A0072;Média;Pentest;01/05/2026;27/05/2026;Corrigida;7.6
+V01462;A0028;Crítica;Pentest;05/03/2026;01/04/2026;Corrigida;0.1
+V01463;A0074;Crítica;Qualys;01/04/2026;03/06/2026;Corrigida;6.5
+V01464;A0116;Média;Veracode;23/04/2026;;Aceita;5.3
+V01465;A0110;Baixa;Cloud Security;21/08/2026;;Aceita;5.0
+V01466;A0026;Média;Cloud Security;15/09/2026;;Em tratamento;8.6
+V01467;A0091;Média;Veracode;12/01/2026;;Aberta;6.5
+V01468;A0191;Crítica;Pentest;28/01/2026;;Aceita;1.2
+V01469;A0033;Média;Pentest;04/08/2026;;Aberta;8.5
+V01470;A0170;Baixa;Qualys;18/02/2026;;Em tratamento;3.9
+V01471;A0192;Média;Veracode;03/08/2026;;Em tratamento;3.4
+V01472;A0130;critica;Cloud Security;08/07/2026;;Em tratamento;1.7
+V01473;A0141;Baixa;Veracode;23/01/2026;;Em tratamento;3.6
+V01474;A0115;Alta;Cloud Security;09/01/2026;;Aberta;1.1
+V01475;A0077;Baixa;Pentest;08/09/2026;;Aberta;1.5
+V01476;A0087;Alta;Cloud Security;22/08/2026;;Aberta;8.8
+V01477;A0004;Baixa;Veracode;19/08/2026;;Aceita;5.3
+V01478;A0028;Média;Pentest;16/07/2026;;Aceita;9.1
+V01479;A0069;Média;Cloud Security;16/01/2026;;Aceita;7.2
+V01480;A0035;Baixa;Veracode;22/03/2026;;Aberta;7.0
+V01481;A0044;Baixa;Qualys;19/05/2026;;Aceita;6.3
+V01482;A0011;Alta;Pentest;07/02/2026;30/03/2026;Corrigida;5.7
+V01483;A0059;Crítica;Cloud Security;14/04/2026;;Em tratamento;9.1
+V01484;A0101;Crítica;Veracode;21/02/2026;01/03/2026;Corrigida;1.0
+V01485;A0118;Baixa;Veracode;06/05/2026;;Aceita;7.3
+V01486;A0088;Baixa;Pentest;01/02/2026;;Em tratamento;3.5
+V01487;A0071;Crítica;Pentest;10/09/2026;;Em tratamento;0.3
+V01488;A0050;Alta;Cloud Security;15/01/2026;13/04/2026;Corrigida;0.9
+V01489;A0040;Crítica;Qualys;05/07/2026;;Em tratamento;6.9
+V01490;A0177;Alta;Cloud Security;10/06/2026;;Aceita;9.4
+V01491;A0003;Baixa;Veracode;2026-13-01;03/07/2026;Corrigida;3.1
+V01492;A0120;Crítica;Qualys;18/04/2026;23/04/2026;Corrigida;0.8
+V01493;A0120;Média;Veracode;29/03/2026;;Aceita;7.1
+V01494;A0046;Alta;Cloud Security;25/07/2026;;Em tratamento;0.2
+V01495;A0073;media;Qualys;21/07/2026;;Aberta;3.6
+V01496;A0139;Crítica;Pentest;02/01/2026;;Em tratamento;9.9
+V01497;A0010;Média;Pentest;06/07/2026;06/08/2026;Corrigida;3.3
+V01498;A0130;Crítica;Veracode;09/08/2026;11/10/2026;Corrigida;2.0
+V01499;A0113;Crítica;Cloud Security;02/03/2026;;Aceita;3.2
+V01500;A0056;Média;Veracode;07/09/2026;;Em tratamento;2.6
+V01501;A0096;Baixa;Qualys;19/04/2026;;Em tratamento;5.7
+V01502;A0049;Média;Qualys;03/05/2026;;Em tratamento;5.3
+V01503;A0183;Crítica;Pentest;20/03/2026;;Aberta;8.0
+V01504;A0168;Crítica;Pentest;06-16-2026;;Aceita;9.1
+V01505;A0037;Crítica;Veracode;31/01/2026;;Aceita;4.4
+V01506;A0065;Alta;Veracode;31/01/2026;;Aceita;4.0
+V01507;A0071;Baixa;Qualys;01/03/2026;;Em tratamento;4.5
+V01508;A0081;Alta;Qualys;10/03/2026;07/06/2026;Corrigida;1.5
+V01509;A0137;Média;Pentest;31/01/2026;;Aberta;6.1
+V01510;A0087;Média;Veracode;23/05/2026;;Aberta;5.4
+V01511;A0075;Média;Pentest;19/07/2026;;Aberta;5.9
+V01512;A0155;Média;Veracode;28/07/2026;;Aceita;9.5
+V01513;A0132;Crítica;Veracode;31/02/2026;30/08/2026;Corrigida;9.2
+V01514;A0112;Baixa;Qualys;28/03/2026;;Aberta;1.3
+V01515;A0153;Baixa;Cloud Security;25/08/2026;;Aceita;6.7
+V01516;A0111;Alta;Pentest;12/01/2026;;Em tratamento;1.6
+V01517;A0161;Crítica;Qualys;26/05/2026;;Em tratamento;6.4
+V01518;A0021;critica;Pentest;31/01/2026;;Em tratamento;2.3
+V01519;A0060;Baixa;Pentest;04/09/2026;;Aberta;0.4
+V01520;A0150;Média;Pentest;20/08/2026;;Aberta;4.4
+V01521;A0132;Média;Cloud Security;27/08/2026;;Em tratamento;8.6
+V01522;A0066;Média;Veracode;08/09/2026;;Aberta;0.2
+V01523;A0188;Baixa;Cloud Security;06/07/2026;;Aceita;9.2
+V01524;A0103;Baixa;Veracode;18/07/2026;;Aceita;5.6
+V01525;A0111;Média;Veracode;18/02/2026;;Em tratamento;9.8
+V01526;A0125;Baixa;Cloud Security;27/05/2026;;Aceita;1.3
+V01527;A0127;Baixa;Pentest;24/03/2026;;Aceita;9.5
+V01528;A0193;Média;Cloud Security;17/04/2026;;Aberta;0.9
+V01529;A0001;Baixa;Pentest;22/07/2026;;Aceita;1.0
+V01530;A0155;Alta;Pentest;26/08/2026;;Aberta;4.7
+V01531;A0196;Alta;Veracode;10/06/2026;24/08/2026;Corrigida;1.2
+V01532;A0117;Crítica;Veracode;30/03/2026;;Aceita;2.1
+V01533;A0154;Baixa;Qualys;17/03/2026;;Aceita;2.4
+V01534;A0028;Crítica;Qualys;27/03/2026;;Em tratamento;8.4
+V01535;A0165;Alta;Cloud Security;09/09/2026;;Aceita;8.3
+V01536;A0039;Média;Cloud Security;19/05/2026;;Aceita;6.7
+V01537;A0007;Alta;Veracode;05/04/2026;;Em tratamento;8.8
+V01538;A0198;Crítica;Qualys;28/04/2026;;Aceita;6.5
+V01539;A0190;Crítica;Qualys;19/01/2026;;Aberta;8.1
+V01540;A0038;Crítica;Cloud Security;06/07/2026;;Em tratamento;2.4
+V01541;A0040;critica;Veracode;28/06/2026;;Aceita;4.8
+V01542;A0076;Baixa;Cloud Security;28/05/2026;;Aceita;3.0
+V01543;A0156;Baixa;Veracode;24/01/2026;27/03/2026;Corrigida;8.8
+V01544;A0070;Média;Qualys;16/01/2026;;Aberta;6.5
+V01545;A0071;Média;Veracode;14/07/2026;16/07/2026;Corrigida;6.5
+V01546;A0047;Crítica;Veracode;18/01/2026;;Aceita;9.9
+V01547;A0091;Média;Veracode;06/07/2026;05/09/2026;Corrigida;8.5
+V01548;A0178;Crítica;Cloud Security;11/04/2026;;Aberta;1.5
+V01549;A0011;Média;Cloud Security;23/04/2026;;Aberta;2.7
+V01550;A0072;Crítica;Cloud Security;11/04/2026;;Aberta;2.2
+V01551;A0196;Alta;Veracode;05-24-2026;22/06/2026;Corrigida;2.4
+V01552;A0180;Baixa;Cloud Security;08/08/2026;;Aceita;4.3
+V01553;A0092;Média;Pentest;17/04/2026;;Aberta;3.9
+V01554;A0196;Alta;Pentest;02/01/2026;;Aceita;1.8
+V01555;A0197;Baixa;Veracode;07/09/2026;;Em tratamento;9.8
+V01556;A0048;Crítica;Veracode;19/05/2026;;Em tratamento;6.6
+V01557;A0176;Crítica;Pentest;01/02/2026;;Aceita;3.8
+V01558;A0029;Baixa;Qualys;02/07/2026;;Em tratamento;3.3
+V01559;A0096;Alta;Cloud Security;02/06/2026;;Aberta;5.8
+V01560;A0113;Média;Pentest;18/08/2026;;Em tratamento;0.3
+V01561;A0120;Crítica;Pentest;29/01/2026;25/04/2026;Corrigida;7.0
+V01562;A0107;Crítica;Cloud Security;2026-13-01;25/05/2026;Corrigida;2.7
+V01563;A0019;Média;Pentest;04/02/2026;;Em tratamento;3.2
+V01564;A0055;ALTA;Pentest;10/09/2026;;Aceita;1.8
+V01565;A0020;Alta;Qualys;18/07/2026;13/08/2026;Corrigida;4.0
+V01566;A0198;Alta;Veracode;25/04/2026;06/06/2026;Corrigida;7.6
+V01567;A0065;Crítica;Pentest;06/07/2026;;Aceita;7.2
+V01568;A0024;Baixa;Cloud Security;07/07/2026;;Em tratamento;3.6
+V01569;A0059;Alta;Pentest;26/08/2026;;Aceita;6.2
+V01570;A0150;Baixa;Veracode;16/07/2026;;Em tratamento;1.5
+V01571;A0059;Alta;Pentest;25/01/2026;;Em tratamento;0.8
+V01572;A0089;Média;Pentest;23/04/2026;;Em tratamento;4.8
+V01573;A0159;Baixa;Pentest;22/02/2026;;Aceita;2.4
+V01574;A0178;Alta;Cloud Security;01/02/2026;;Aberta;7.5
+V01575;A0064;Baixa;Qualys;13/01/2026;15/01/2026;Corrigida;1.2
+V01576;A0101;Alta;Pentest;09/09/2026;;Aberta;3.9
+V01577;A0127;Crítica;Pentest;28/07/2026;;Aceita;5.3
+V01578;A0024;Média;Pentest;28/01/2026;;Em tratamento;9.9
+V01579;A0173;Média;Pentest;16/03/2026;;Em tratamento;1.8
+V01580;A0133;Média;Pentest;26/06/2026;21/08/2026;Corrigida;2.6
+V01581;A0029;Baixa;Veracode;14/08/2026;;Aberta;0.3
+V01582;A0148;Média;Cloud Security;24/05/2026;;Aceita;5.4
+V01583;A0029;Média;Veracode;17/04/2026;08/07/2026;Corrigida;3.6
+V01584;A0032;Média;Veracode;17/02/2026;;Aberta;4.4
+V01585;A0173;Alta;Pentest;19/05/2026;;Em tratamento;3.1
+V01586;A0186;Baixa;Qualys;11/01/2026;26/02/2026;Corrigida;1.7
+V01587;A0002;BaixA;Veracode;12/05/2026;10/07/2026;Corrigida;7.7
+V01588;A0167;Baixa;Pentest;27/02/2026;;Aceita;8.6
+V01589;A0051;Baixa;Veracode;30/05/2026;23/07/2026;Corrigida;2.1
+V01590;A0007;Baixa;Qualys;13/04/2026;16/06/2026;Corrigida;1.1
+V01591;A0136;Crítica;Qualys;25/04/2026;;Aceita;4.4
+V01592;A0092;Crítica;Qualys;03/08/2026;;Aceita;7.9
+V01593;A0022;Crítica;Cloud Security;06/02/2026;17/02/2026;Corrigida;7.3
+V01594;A0068;Média;Pentest;25/02/2026;;Aberta;2.0
+V01595;A0043;Média;Cloud Security;26/02/2026;;Aceita;3.3
+V01596;A0067;Média;Veracode;18/02/2026;30/04/2026;Corrigida;5.5
+V01597;A0062;Alta;Cloud Security;18/03/2026;;Em tratamento;1.9
+V01598;A0027;Crítica;Qualys;09/01/2026;;Aceita;1.7
+V01599;A0037;Média;Veracode;25/06/2026;;Aberta;2.3
+V01600;A0016;Alta;Pentest;14/02/2026;;Em tratamento;2.5
+V01601;A0193;Baixa;Qualys;19/03/2026;;Aceita;3.6
+V01602;A0129;Alta;Pentest;31/02/2026;;Aberta;2.0
+V01603;A0079;Média;Veracode;26/06/2026;;Aberta;7.4
+V01604;A0108;Alta;Qualys;03/07/2026;;Aberta;3.3
+V01605;A0022;Crítica;Cloud Security;14/04/2026;;Em tratamento;9.7
+V01606;A0171;Alta;Pentest;28/01/2026;;Aberta;1.8
+V01607;A0098;Média;Veracode;15/02/2026;;Em tratamento;3.4
+V01608;A0011;Baixa;Qualys;12/03/2026;09/04/2026;Corrigida;7.5
+V01609;A0184;Crítica;Pentest;01/03/2026;;Aberta;9.0
+V01610;A0145;media;Pentest;12/06/2026;;Em tratamento;4.7
+V01611;A0123;Crítica;Pentest;12/09/2026;;Em tratamento;0.9
+V01612;A0084;Baixa;Qualys;14/04/2026;;Em tratamento;2.7
+V01613;A0042;Crítica;Veracode;13/04/2026;25/05/2026;Corrigida;6.8
+V01614;A0067;Baixa;Veracode;15/07/2026;;Aceita;9.9
+V01615;A0108;Baixa;Cloud Security;30/01/2026;;Em tratamento;7.5
+V01616;A0158;Alta;Pentest;29/07/2026;;Em tratamento;2.6
+V01617;A0005;Crítica;Veracode;28/08/2026;;Aceita;7.2
+V01618;A0060;Alta;Pentest;29/06/2026;;Aceita;9.7
+V01619;A0135;Baixa;Cloud Security;29/07/2026;;Aberta;8.8
+V01620;A0095;Crítica;Pentest;18/08/2026;10/11/2026;Corrigida;0.7
+V01621;A0007;Média;Pentest;26/05/2026;30/07/2026;Corrigida;5.7
+V01622;A0053;Alta;Qualys;23/03/2026;;Em tratamento;9.6
+V01623;A0144;Crítica;Veracode;09/05/2026;;Aceita;5.0
+V01624;A0194;Crítica;Qualys;11/08/2026;;Em tratamento;1.9
+V01625;A0042;Alta;Pentest;31/08/2026;;Aceita;1.1
+V01626;A0062;Crítica;Qualys;12/04/2026;;Em tratamento;2.8
+V01627;A0131;Baixa;Pentest;28/04/2026;;Em tratamento;0.6
+V01628;A0143;Alta;Veracode;09/07/2026;30/07/2026;Corrigida;9.0
+V01629;A0097;Baixa;Cloud Security;27/02/2026;;Aberta;5.5
+V01630;A0169;Crítica;Qualys;05/08/2026;;Aceita;8.2
+V01631;A0037;Média;Qualys;12/02/2026;;Aceita;3.3
+V01632;A0067;Crítica;Cloud Security;28/04/2026;;Aberta;9.5
+V01633;A0052;BaixA;Pentest;2026-13-01;;Em tratamento;4.1
+V01634;A0042;Média;Qualys;06/03/2026;;Aberta;6.7
+V01635;A0028;Alta;Veracode;09/06/2026;;Aceita;5.3
+V01636;A0023;Baixa;Cloud Security;08/08/2026;;Aberta;5.7
+V01637;A0127;Crítica;Qualys;07/01/2026;07/04/2026;Corrigida;3.6
+V01638;A0057;Crítica;Cloud Security;27/01/2026;;Aceita;8.0
+V01639;A0113;Média;Veracode;29/07/2026;;Aceita;5.6
+V01640;A0176;Média;Pentest;25/07/2026;;Aceita;9.8
+V01641;A0044;Baixa;Qualys;24/03/2026;;Em tratamento;3.8
+V01642;A0172;Alta;Qualys;13/07/2026;;Em tratamento;9.4
+V01643;A0186;Média;Veracode;23/08/2026;29/09/2026;Corrigida;4.3
+V01644;A0036;Crítica;Cloud Security;04/02/2026;;Em tratamento;2.7
+V01645;A0095;Crítica;Pentest;06-21-2026;;Em tratamento;1.7
+V01646;A0148;Crítica;Pentest;02/05/2026;;Aberta;6.3
+V01647;A0046;Média;Cloud Security;14/02/2026;28/04/2026;Corrigida;3.5
+V01648;A0095;Baixa;Veracode;17/09/2026;;Aceita;2.1
+V01649;A0085;Baixa;Veracode;03/07/2026;;Aceita;6.3
+V01650;A0145;Alta;Cloud Security;29/07/2026;;Em tratamento;3.7
+V01651;A0158;Crítica;Cloud Security;24/07/2026;;Em tratamento;3.9
+V01652;A0140;Alta;Cloud Security;26/08/2026;;Aceita;9.8
+V01653;A0135;Alta;Veracode;05/04/2026;;Aberta;2.1
+V01654;A0178;Alta;Pentest;30/03/2026;;Aberta;4.7
+V01655;A0046;Crítica;Pentest;18/01/2026;15/03/2026;Corrigida;3.6
+V01656;A0195;media;Qualys;24/04/2026;25/05/2026;Corrigida;1.1
+V01657;A0170;Crítica;Cloud Security;20/02/2026;;Aberta;3.9
+V01658;A0099;Crítica;Qualys;24/01/2026;28/01/2026;Corrigida;4.7
+V01659;A0196;Baixa;Cloud Security;13/09/2026;;Aberta;9.6
+V01660;A0112;Crítica;Veracode;24/08/2026;;Aceita;4.7
+V01661;A0181;Crítica;Pentest;14/08/2026;;Aberta;8.8
+V01662;A0058;Baixa;Veracode;03/08/2026;20/09/2026;Corrigida;0.4
+V01663;A0093;Média;Veracode;05/09/2026;;Aceita;3.3
+V01664;A0017;Alta;Cloud Security;12/05/2026;;Aceita;7.6
+V01665;A0178;Média;Veracode;15/01/2026;12/02/2026;Corrigida;4.9
+V01666;A0033;Baixa;Veracode;28/01/2026;21/02/2026;Corrigida;3.7
+V01667;A0068;Baixa;Pentest;20/01/2026;;Aceita;5.5
+V01668;A0196;Baixa;Cloud Security;11/07/2026;;Aberta;4.5
+V01669;A0050;Alta;Veracode;05/05/2026;21/06/2026;Corrigida;8.0
+V01670;A0195;Média;Pentest;05/01/2026;30/03/2026;Corrigida;0.6
+V01671;A0181;Alta;Cloud Security;04/02/2026;;Aberta;6.2
+V01672;A0091;Média;Qualys;23/08/2026;09/10/2026;Corrigida;3.6
+V01673;A0087;Média;Cloud Security;26/05/2026;19/07/2026;Corrigida;6.6
+V01674;A0095;Baixa;Veracode;13/01/2026;04/02/2026;Corrigida;7.4
+V01675;A0094;Alta;Qualys;07/08/2026;;Aberta;5.3
+V01676;A0110;Média;Cloud Security;09/03/2026;;Aceita;7.7
+V01677;A0044;Média;Veracode;17/02/2026;;Aceita;0.7
+V01678;A0079;Crítica;Pentest;18/02/2026;;Em tratamento;2.9
+V01679;A0076;ALTA;Pentest;24/01/2026;;Aceita;6.0
+V01680;A0059;Média;Veracode;16/01/2026;07/02/2026;Corrigida;4.8
+V01681;A0125;Média;Pentest;19/02/2026;;Aberta;4.4
+V01682;A0155;Crítica;Qualys;16/09/2026;26/10/2026;Corrigida;8.6
+V01683;A0172;Baixa;Qualys;11/07/2026;;Aberta;1.4
+V01684;A0073;Crítica;Cloud Security;26/08/2026;;Aceita;0.7
+V01685;A0018;Alta;Pentest;14/08/2026;26/10/2026;Corrigida;7.1
+V01686;A0088;Média;Qualys;28/02/2026;;Em tratamento;5.6
+V01687;A0140;Crítica;Qualys;24/04/2026;;Aceita;4.0
+V01688;A0154;Baixa;Veracode;01/07/2026;;Aceita;2.4
+V01689;A0071;Alta;Veracode;01/01/2026;;Aberta;6.9
+V01690;A0180;Média;Pentest;10/05/2026;;Aberta;1.5
+V01691;A0025;Média;Cloud Security;31/02/2026;;Aberta;9.4
+V01692;A0074;Baixa;Cloud Security;06-30-2026;;Aberta;9.0
+V01693;A0110;Baixa;Veracode;05/08/2026;;Aberta;8.8
+V01694;A0051;Crítica;Veracode;18/03/2026;;Aceita;2.7
+V01695;A0174;Alta;Pentest;23/08/2026;;Aceita;7.5
+V01696;A0071;Média;Veracode;14/05/2026;18/06/2026;Corrigida;1.8
+V01697;A0161;Alta;Qualys;05/08/2026;;Aberta;0.7
+V01698;A0182;Média;Pentest;02/07/2026;;Aceita;7.4
+V01699;A0040;Crítica;Cloud Security;02/09/2026;02/11/2026;Corrigida;2.3
+V01700;A0049;Alta;Cloud Security;01/05/2026;;Aberta;8.0
+V01701;A9999;Crítica;Cloud Security;08/04/2026;31/05/2026;Corrigida;5.8
+V01702;A0088;;Veracode;08/04/2026;;Em tratamento;6.5
+V01703;A0095;Baixa;Pentest;23/01/2026;02/03/2026;Corrigida;9.2
+V01704;A0062;Média;Qualys;2026-13-01;12/08/2026;Corrigida;0.3
+V01705;A0074;Crítica;Pentest;05/04/2026;;Aceita;3.7
+V01706;A0117;Alta;Cloud Security;21/01/2026;;Aceita;5.2
+V01707;A0160;Média;Veracode;12/03/2026;;Aceita;8.3
+V01708;A0026;Alta;Pentest;26/02/2026;20/03/2026;Corrigida;9.7
+V01709;A0022;Baixa;Pentest;20/03/2026;;Em tratamento;4.3
+V01710;A0135;Média;Cloud Security;29/07/2026;21/09/2026;Corrigida;5.5
+V01711;A0096;Baixa;Qualys;20/02/2026;;Aberta;6.6
+V01712;A0085;Alta;Pentest;03/09/2026;;Aberta;0.9
+V01713;A0031;Média;Veracode;31/07/2026;;Aberta;1.3
+V01714;A0179;Baixa;Pentest;11/01/2026;;Aceita;4.3
+V01715;A0064;Alta;Qualys;02/01/2026;;Em tratamento;1.6
+V01716;A0102;Crítica;Pentest;27/03/2026;;Aberta;9.6
+V01717;A0113;Crítica;Veracode;04/08/2026;;Em tratamento;3.4
+V01718;A0013;Alta;Cloud Security;07/03/2026;17/03/2026;Corrigida;2.7
+V01719;A0010;Alta;Pentest;27/06/2026;;Aceita;9.5
+V01720;A0006;Média;Cloud Security;10/04/2026;02/07/2026;Corrigida;5.0
+V01721;A0025;Média;Veracode;28/03/2026;;Em tratamento;2.9
+V01722;A0115;Crítica;Veracode;27/02/2026;;Aceita;4.8
+V01723;A0009;Baixa;Qualys;19/07/2026;;Em tratamento;8.0
+V01724;A0117;Baixa;Pentest;21/08/2026;;Aberta;0.9
+V01725;A0143;ALTA;Veracode;07/09/2026;;Aceita;0.4
+V01726;A0060;Baixa;Veracode;13/04/2026;;Em tratamento;9.7
+V01727;A0156;Crítica;Cloud Security;13/03/2026;;Aceita;5.8
+V01728;A0197;Alta;Cloud Security;02/01/2026;12/02/2026;Corrigida;2.5
+V01729;A0017;Baixa;Qualys;07/07/2026;;Em tratamento;0.8
+V01730;A0134;Alta;Cloud Security;13/06/2026;;Em tratamento;8.0
+V01731;A0086;Alta;Veracode;26/08/2026;20/11/2026;Corrigida;9.2
+V01732;A0182;Baixa;Pentest;05/01/2026;;Aberta;5.2
+V01733;A0087;Crítica;Qualys;22/04/2026;;Em tratamento;7.5
+V01734;A0188;Crítica;Veracode;04/01/2026;;Em tratamento;0.1
+V01735;A0138;Baixa;Veracode;04/01/2026;;Em tratamento;1.7
+V01736;A0124;Crítica;Veracode;29/07/2026;;Aberta;3.0
+V01737;A0144;Média;Veracode;24/03/2026;01/05/2026;Corrigida;1.0
+V01738;A0006;Alta;Veracode;28/01/2026;;Aberta;6.4
+V01739;A0034;Baixa;Pentest;06-19-2026;15/09/2026;Corrigida;3.3
+V01740;A0036;Baixa;Pentest;21/05/2026;;Em tratamento;4.7
+V01741;A0190;Alta;Cloud Security;21/05/2026;26/06/2026;Corrigida;2.8
+V01742;A0175;Alta;Cloud Security;17/09/2026;;Em tratamento;5.0
+V01743;A0010;Média;Cloud Security;09/03/2026;03/04/2026;Corrigida;7.9
+V01744;A0179;Baixa;Qualys;07/03/2026;22/04/2026;Corrigida;2.5
+V01745;A0167;Baixa;Pentest;24/06/2026;;Aberta;7.1
+V01746;A0068;Alta;Qualys;25/01/2026;;Em tratamento;0.6
+V01747;A0118;Média;Qualys;22/03/2026;;Em tratamento;5.3
+V01748;A0003;BaixA;Pentest;14/03/2026;;Aceita;4.2
+V01749;A0008;Média;Veracode;20/03/2026;;Em tratamento;9.9
+V01750;A0188;Alta;Qualys;05/07/2026;12/09/2026;Corrigida;4.0
+V01751;A0129;Média;Cloud Security;09/02/2026;;Aberta;6.2
+V01752;A0135;Baixa;Qualys;15/06/2026;;Aberta;9.8
+V01753;A0027;Média;Veracode;09/01/2026;;Em tratamento;6.7
+V01754;A0107;Média;Pentest;02/06/2026;;Aceita;7.2
+V01755;A0065;Alta;Pentest;03/05/2026;15/06/2026;Corrigida;6.4
+V01756;A0151;Média;Veracode;13/08/2026;;Em tratamento;1.2
+V01757;A0029;Alta;Pentest;05/06/2026;;Aberta;5.2
+V01758;A0181;Média;Pentest;26/05/2026;27/05/2026;Corrigida;1.6
+V01759;A0117;Crítica;Veracode;07/01/2026;;Aberta;5.2
+V01760;A0169;Alta;Pentest;23/02/2026;;Aberta;3.0
+V01761;A0030;Média;Cloud Security;23/02/2026;24/05/2026;Corrigida;2.9
+V01762;A0080;Alta;Qualys;23/06/2026;;Em tratamento;6.8
+V01763;A0116;Crítica;Veracode;21/02/2026;;Em tratamento;1.0
+V01764;A0002;Baixa;Cloud Security;07/09/2026;;Aceita;5.9
+V01765;A0058;Crítica;Cloud Security;21/08/2026;;Aceita;6.2
+V01766;A0051;Alta;Qualys;03/08/2026;;Em tratamento;0.2
+V01767;A0107;Baixa;Pentest;22/07/2026;;Aceita;2.6
+V01768;A0115;Baixa;Veracode;27/02/2026;;Em tratamento;0.3
+V01769;A0189;Crítica;Veracode;14/06/2026;;Aceita;5.2
+V01770;A0128;Crítica;Pentest;23/03/2026;;Aceita;0.5
+V01771;A0097;BaixA;Pentest;20/02/2026;;Aceita;4.7
+V01772;A0193;Crítica;Qualys;29/08/2026;;Aceita;5.1
+V01773;A0052;Alta;Pentest;17/05/2026;;Em tratamento;3.7
+V01774;A0069;Crítica;Pentest;07/02/2026;;Aberta;4.4
+V01775;A0088;Média;Pentest;2026-13-01;;Aceita;7.3
+V01776;A0111;Baixa;Qualys;01/09/2026;;Em tratamento;8.3
+V01777;A0107;Baixa;Veracode;07/07/2026;10/09/2026;Corrigida;8.4
+V01778;A0045;Crítica;Veracode;22/01/2026;26/02/2026;Corrigida;2.9
+V01779;A0006;Média;Cloud Security;06/05/2026;;Aceita;2.1
+V01780;A0178;Crítica;Pentest;31/02/2026;;Aberta;5.9
+V01781;A0132;Crítica;Cloud Security;11/07/2026;;Em tratamento;6.0
+V01782;A0200;Alta;Pentest;25/03/2026;25/04/2026;Corrigida;0.4
+V01783;A0009;Baixa;Pentest;27/01/2026;;Aceita;4.8
+V01784;A0146;Crítica;Pentest;05/01/2026;13/03/2026;Corrigida;2.1
+V01785;A0143;Alta;Qualys;05/01/2026;;Em tratamento;2.8
+V01786;A0105;Alta;Veracode;05-23-2026;17/06/2026;Corrigida;7.2
+V01787;A0153;Baixa;Qualys;24/03/2026;;Aberta;9.6
+V01788;A0004;Alta;Qualys;08/07/2026;;Aberta;0.3
+V01789;A0051;Crítica;Pentest;13/01/2026;21/01/2026;Corrigida;1.4
+V01790;A0008;Crítica;Veracode;25/08/2026;;Em tratamento;6.3
+V01791;A0012;Alta;Veracode;21/02/2026;;Aceita;7.2
+V01792;A0045;Alta;Cloud Security;04/09/2026;;Aberta;4.2
+V01793;A0057;Média;Cloud Security;08/09/2026;;Em tratamento;9.4
+V01794;A0139;;Pentest;31/05/2026;11/08/2026;Corrigida;3.7
+V01795;A0066;Alta;Veracode;01/01/2026;;Aberta;3.3
+V01796;A0070;Crítica;Pentest;07/01/2026;;Aceita;1.5
+V01797;A0116;Média;Cloud Security;11/02/2026;14/04/2026;Corrigida;4.6
+V01798;A0011;Média;Pentest;04/09/2026;22/11/2026;Corrigida;9.8
+V01799;A0147;Alta;Cloud Security;24/08/2026;;Aberta;8.3
+V01800;A0002;Baixa;Qualys;11/06/2026;;Aceita;6.6
+V01801;A0098;Alta;Veracode;27/04/2026;;Aceita;8.7
+V01802;A0113;Baixa;Qualys;30/04/2026;;Em tratamento;7.1
+V01803;A0021;Crítica;Veracode;13/06/2026;;Aceita;1.9
+V01804;A0119;Baixa;Pentest;24/02/2026;;Aberta;9.7
+V01805;A0062;Média;Veracode;11/03/2026;;Aberta;8.2
+V01806;A0011;Média;Qualys;24/07/2026;11/08/2026;Corrigida;2.3
+V01807;A0086;Crítica;Pentest;17/09/2026;;Em tratamento;6.1
+V01808;A0013;Alta;Veracode;24/06/2026;;Aceita;0.3
+V01809;A0142;Média;Qualys;05/09/2026;;Aceita;3.8
+V01810;A0102;Média;Pentest;06/03/2026;;Aberta;2.3
+V01811;A0137;Baixa;Cloud Security;08/05/2026;;Em tratamento;9.4
+V01812;A0179;Baixa;Qualys;06/02/2026;;Em tratamento;9.0
+V01813;A0061;Baixa;Pentest;20/08/2026;;Aberta;8.3
+V01814;A0177;Crítica;Cloud Security;16/03/2026;;Aberta;1.1
+V01815;A0083;Baixa;Cloud Security;09/06/2026;;Aceita;2.9
+V01816;A0127;Média;Qualys;19/08/2026;14/10/2026;Corrigida;9.7
+V01817;A0194;N/A;Qualys;14/08/2026;;Em tratamento;7.5
+V01818;A0133;Baixa;Qualys;31/03/2026;;Em tratamento;5.3
+V01819;A0012;Crítica;Cloud Security;22/04/2026;;Aberta;3.1
+V01820;A0003;Baixa;Veracode;25/08/2026;;Em tratamento;8.7
+V01821;A0062;Alta;Veracode;24/01/2026;;Em tratamento;7.1
+V01822;A0006;Alta;Pentest;08/07/2026;01/10/2026;Corrigida;5.7
+V01823;A0174;Crítica;Qualys;01/09/2026;05/09/2026;Corrigida;0.6
+V01824;A0018;Baixa;Qualys;14/07/2026;;Em tratamento;2.3
+V01825;A0134;Média;Veracode;06/05/2026;;Em tratamento;3.7
+V01826;A0111;Média;Veracode;30/04/2026;;Em tratamento;8.8
+V01827;A0153;Crítica;Cloud Security;20/07/2026;12/10/2026;Corrigida;6.3
+V01828;A0087;Média;Cloud Security;02/06/2026;;Aceita;9.2
+V01829;A0115;Média;Cloud Security;09/09/2026;;Em tratamento;8.1
+V01830;A0078;Crítica;Cloud Security;24/01/2026;;Aceita;4.7
+V01831;A0025;Crítica;Qualys;06/09/2026;;Em tratamento;9.4
+V01832;A0118;Média;Qualys;20/02/2026;;Aceita;7.2
+V01833;A0068;Baixa;Qualys;05/10/2026;;Em tratamento;0.1
+V01834;A0104;Baixa;Veracode;04/08/2026;;Aberta;2.1
+V01835;A0182;Baixa;Veracode;03/01/2026;;Aberta;5.4
+V01836;A0072;Crítica;Qualys;15/01/2026;07/02/2026;Corrigida;2.7
+V01837;A0010;Alta;Qualys;18/07/2026;;Aberta;2.8
+V01838;A0048;Crítica;Pentest;27/02/2026;15/05/2026;Corrigida;9.6
+V01839;A0074;Média;Veracode;18/07/2026;;Em tratamento;5.5
+V01840;A0111;ALTA;Pentest;09/03/2026;;Aceita;0.9
+V01841;A0050;Baixa;Qualys;30/04/2026;;Aceita;5.9
+V01842;A0154;Média;Pentest;29/06/2026;23/09/2026;Corrigida;7.3
+V01843;A0183;Crítica;Cloud Security;07/08/2026;;Aceita;0.4
+V01844;A0006;Baixa;Qualys;03/04/2026;;Aceita;6.6
+V01845;A0096;Média;Veracode;27/01/2026;24/03/2026;Corrigida;2.6
+V01846;A0087;Média;Veracode;2026-13-01;05/04/2026;Corrigida;1.8
+V01847;A0077;Crítica;Qualys;08/04/2026;;Aceita;5.4
+V01848;A0127;Alta;Cloud Security;15/05/2026;02/08/2026;Corrigida;3.0
+V01849;A0118;Baixa;Veracode;26/02/2026;;Aceita;6.4
+V01850;A0133;Crítica;Veracode;03/01/2026;;Aberta;6.4
+V01851;A0128;Média;Cloud Security;24/02/2026;;Aberta;9.6
+V01852;A0081;Baixa;Veracode;10/06/2026;;Em tratamento;5.7
+V01853;A0136;Alta;Cloud Security;12/02/2026;;Aceita;8.6
+V01854;A0077;Média;Pentest;13/01/2026;;Em tratamento;9.4
+V01855;A0195;Crítica;Qualys;16/06/2026;;Em tratamento;4.0
+V01856;A0029;Média;Pentest;14/02/2026;03/05/2026;Corrigida;7.8
+V01857;A0058;Baixa;Cloud Security;31/05/2026;;Aberta;7.7
+V01858;A0068;Alta;Pentest;18/05/2026;;Aberta;9.1
+V01859;A0136;Crítica;Cloud Security;17/05/2026;12/07/2026;Corrigida;2.3
+V01860;A0140;Baixa;Pentest;10/03/2026;;Aceita;1.3
+V01861;A0155;Média;Veracode;26/01/2026;;Em tratamento;2.2
+V01862;A0128;Média;Veracode;10/01/2026;;Aceita;1.3
+V01863;A0040;N/A;Qualys;11/06/2026;;Aberta;3.6
+V01864;A0029;Crítica;Cloud Security;21/03/2026;;Em tratamento;6.9
+V01865;A0048;Alta;Qualys;08/01/2026;;Em tratamento;2.0
+V01866;A0057;Crítica;Qualys;22/02/2026;;Em tratamento;1.1
+V01867;A0098;Alta;Cloud Security;30/06/2026;;Em tratamento;2.3
+V01868;A0046;Média;Veracode;21/05/2026;;Em tratamento;4.9
+V01869;A0082;Crítica;Pentest;31/02/2026;03/06/2026;Corrigida;2.2
+V01870;A0082;Crítica;Pentest;30/05/2026;;Em tratamento;1.9
+V01871;A0006;Alta;Cloud Security;23/07/2026;;Aceita;8.0
+V01872;A0063;Crítica;Veracode;13/05/2026;;Em tratamento;9.3
+V01873;A0133;Crítica;Veracode;25/03/2026;29/05/2026;Corrigida;9.3
+V01874;A0011;Crítica;Pentest;14/09/2026;27/11/2026;Corrigida;6.2
+V01875;A0045;Alta;Pentest;25/02/2026;;Em tratamento;4.7
+V01876;A0115;Baixa;Veracode;10/09/2026;23/09/2026;Corrigida;6.0
+V01877;A0040;Crítica;Veracode;04/08/2026;25/08/2026;Corrigida;2.7
+V01878;A0086;Alta;Qualys;01/02/2026;;Em tratamento;4.3
+V01879;A0037;Média;Veracode;29/05/2026;;Aceita;3.7
+V01880;A0027;Alta;Cloud Security;09/12/2026;13/09/2026;Corrigida;8.4
+V01881;A0038;Crítica;Qualys;17/08/2026;29/10/2026;Corrigida;8.2
+V01882;A0178;Média;Cloud Security;09/01/2026;;Aberta;0.3
+V01883;A0024;Alta;Qualys;29/03/2026;;Aberta;4.7
+V01884;A0070;Média;Cloud Security;01/03/2026;;Aceita;8.8
+V01885;A0046;Crítica;Cloud Security;02/07/2026;;Aberta;1.1
+V01886;A0147;ALTA;Pentest;21/06/2026;;Aberta;8.6
+V01887;A0091;Média;Pentest;06/05/2026;;Aceita;7.9
+V01888;A0075;Alta;Veracode;06/09/2026;;Aberta;3.5
+V01889;A0116;Média;Pentest;18/09/2026;;Aceita;6.8
+V01890;A0088;Baixa;Veracode;19/03/2026;;Aberta;4.6
+V01891;A0060;Alta;Veracode;25/03/2026;17/06/2026;Corrigida;3.1
+V01892;A0012;Crítica;Pentest;31/08/2026;;Aceita;7.4
+V01893;A0183;Baixa;Veracode;17/04/2026;;Aberta;2.4
+V01894;A0052;Baixa;Cloud Security;12/01/2026;;Aceita;4.4
+V01895;A0131;Média;Veracode;21/06/2026;;Aceita;6.3
+V01896;A0096;Baixa;Cloud Security;12/01/2026;;Em tratamento;9.3
+V01897;A0194;Baixa;Pentest;13/06/2026;;Aberta;1.9
+V01898;A0010;Média;Qualys;03/06/2026;;Aberta;9.0
+V01899;A0024;Crítica;Pentest;09/07/2026;;Em tratamento;7.5
+V01900;A0120;Alta;Veracode;26/03/2026;;Em tratamento;7.4
+V01901;A0093;Alta;Cloud Security;27/03/2026;08/06/2026;Corrigida;4.8
+V01902;A0124;Média;Qualys;05/09/2026;;Aceita;3.6
+V01903;A0177;Crítica;Cloud Security;16/02/2026;;Aberta;7.5
+V01904;A0136;Alta;Cloud Security;05/03/2026;13/05/2026;Corrigida;3.7
+V01905;A0157;Baixa;Qualys;30/08/2026;;Aberta;5.8
+V01906;A0085;Alta;Veracode;09/07/2026;;Aceita;6.0
+V01907;A0061;Alta;Qualys;19/04/2026;;Aceita;8.5
+V01908;A0002;Alta;Veracode;20/03/2026;;Aceita;5.5
+V01909;A0045;N/A;Pentest;07/08/2026;;Em tratamento;10.0
+V01910;A0084;Crítica;Cloud Security;26/01/2026;;Aceita;8.9
+V01911;A0075;Crítica;Pentest;18/06/2026;;Em tratamento;8.1
+V01912;A0011;Crítica;Qualys;06/07/2026;;Aceita;5.8
+V01913;A0107;Baixa;Veracode;01/03/2026;;Em tratamento;7.3
+V01914;A0119;Média;Qualys;25/04/2026;16/07/2026;Corrigida;0.3
+V01915;A0195;Média;Pentest;07/04/2026;;Aceita;4.3
+V01916;A0027;Alta;Veracode;15/07/2026;09/10/2026;Corrigida;7.7
+V01917;A0091;Média;Qualys;2026-13-01;;Aberta;8.3
+V01918;A0081;Baixa;Qualys;09/04/2026;;Aceita;1.8
+V01919;A0023;Média;Qualys;19/03/2026;;Em tratamento;2.8
+V01920;A0160;Alta;Veracode;20/05/2026;06/07/2026;Corrigida;1.1
+V01921;A0070;Alta;Pentest;18/05/2026;;Aberta;4.0
+V01922;A0054;Crítica;Cloud Security;04/07/2026;;Aberta;6.6
+V01923;A0053;Alta;Veracode;17/08/2026;;Aceita;9.2
+V01924;A0076;Baixa;Veracode;25/02/2026;;Aceita;3.0
+V01925;A0174;Alta;Qualys;14/09/2026;;Em tratamento;2.7
+V01926;A0167;Baixa;Cloud Security;10/02/2026;25/04/2026;Corrigida;2.0
+V01927;A0061;Crítica;Veracode;01/05/2026;07/03/2026;Corrigida;7.2
+V01928;A0060;Alta;Pentest;16/03/2026;;Em tratamento;6.0
+V01929;A0200;Média;Qualys;15/08/2026;;Aceita;2.6
+V01930;A0059;Alta;Veracode;11/04/2026;;Em tratamento;6.1
+V01931;A0136;Alta;Cloud Security;27/08/2026;14/11/2026;Corrigida;9.4
+V01932;A0141;media;Cloud Security;13/03/2026;26/04/2026;Corrigida;2.2
+V01933;A0120;Baixa;Cloud Security;10/09/2026;;Em tratamento;4.7
+V01934;A0041;Baixa;Pentest;01/06/2026;;Aceita;6.5
+V01935;A0157;Crítica;Cloud Security;14/09/2026;07/10/2026;Corrigida;1.7
+V01936;A0099;Média;Veracode;17/03/2026;;Aberta;1.1
+V01937;A0175;Alta;Pentest;20/06/2026;;Em tratamento;3.9
+V01938;A0096;Média;Pentest;18/06/2026;15/09/2026;Corrigida;8.5
+V01939;A0034;Crítica;Qualys;24/03/2026;13/05/2026;Corrigida;6.2
+V01940;A0199;Baixa;Qualys;25/01/2026;;Aberta;5.4
+V01941;A0034;Baixa;Qualys;27/06/2026;;Em tratamento;9.5
+V01942;A0093;Alta;Qualys;06/06/2026;;Em tratamento;5.9
+V01943;A0082;Crítica;Qualys;28/08/2026;;Aberta;5.8
+V01944;A0161;Alta;Qualys;05/03/2026;;Aceita;9.1
+V01945;A0036;Crítica;Veracode;01/06/2026;;Aberta;2.1
+V01946;A0131;Alta;Qualys;02/07/2026;;Aceita;3.3
+V01947;A0066;Crítica;Pentest;04/01/2026;;Aberta;2.7
+V01948;A0135;Alta;Qualys;23/03/2026;;Em tratamento;0.2
+V01949;A0174;Baixa;Qualys;16/06/2026;;Aberta;7.2
+V01950;A0181;Alta;Veracode;08/03/2026;;Em tratamento;9.8
+V01951;A0033;Baixa;Cloud Security;28/06/2026;;Aceita;4.8
+V01952;A0162;Baixa;Qualys;21/04/2026;;Aberta;4.9
+V01953;A0100;Média;Pentest;19/06/2026;;Aberta;0.6
+V01954;A0186;Alta;Pentest;28/02/2026;14/04/2026;Corrigida;1.9
+V01955;A0166;N/A;Qualys;02/03/2026;;Em tratamento;5.3
+V01956;A0160;Baixa;Veracode;17/06/2026;;Em tratamento;6.3
+V01957;A0146;Baixa;Pentest;25/02/2026;;Em tratamento;6.0
+V01958;A0033;Média;Qualys;31/02/2026;01/03/2026;Corrigida;6.8
+V01959;A0193;Alta;Veracode;31/03/2026;11/04/2026;Corrigida;1.5
+V01960;A0116;Alta;Qualys;23/05/2026;;Em tratamento;7.5
+V01961;A0003;Alta;Pentest;23/07/2026;;Em tratamento;2.7
+V01962;A0096;Crítica;Qualys;10/03/2026;12/04/2026;Corrigida;5.2
+V01963;A0068;Média;Cloud Security;16/02/2026;;Em tratamento;8.0
+V01964;A0099;Média;Qualys;24/07/2026;28/08/2026;Corrigida;8.5
+V01965;A0053;Alta;Veracode;15/09/2026;02/12/2026;Corrigida;5.6
+V01966;A0016;Alta;Pentest;21/03/2026;;Aberta;9.6
+V01967;A0014;Baixa;Cloud Security;15/02/2026;;Aberta;7.7
+V01968;A0121;Crítica;Pentest;21/05/2026;;Aberta;0.4
+V01969;A0105;Crítica;Qualys;21/07/2026;;Em tratamento;3.1
+V01970;A0117;Baixa;Veracode;09/03/2026;;Aberta;9.1
+V01971;A0185;Média;Cloud Security;10/01/2026;;Em tratamento;0.9
+V01972;A0074;Crítica;Veracode;02/01/2026;31/03/2026;Corrigida;8.4
+V01973;A0091;Alta;Pentest;24/03/2026;;Aberta;0.1
+V01974;A0030;Média;Qualys;07-15-2026;;Aberta;3.6
+V01975;A0067;Alta;Veracode;03/01/2026;05/01/2026;Corrigida;9.7
+V01976;A0144;Crítica;Veracode;29/05/2026;;Aberta;1.1
+V01977;A0012;Baixa;Cloud Security;04/08/2026;06/10/2026;Corrigida;0.2
+V01978;A0139;BaixA;Pentest;12/08/2026;;Em tratamento;6.5
+V01979;A0087;Alta;Cloud Security;06/09/2026;;Em tratamento;5.8
+V01980;A0123;Crítica;Pentest;19/04/2026;;Aceita;3.0
+V01981;A0039;Crítica;Qualys;15/04/2026;;Em tratamento;5.0
+V01982;A0090;Baixa;Qualys;10/09/2026;;Aceita;0.9
+V01983;A0068;Média;Veracode;28/02/2026;;Aceita;5.2
+V01984;A0012;Média;Veracode;07/02/2026;;Aceita;7.1
+V01985;A0020;Alta;Pentest;11/03/2026;16/05/2026;Corrigida;8.4
+V01986;A0158;Média;Pentest;12/07/2026;;Aceita;0.8
+V01987;A0161;Alta;Pentest;01/03/2026;;Aberta;4.4
+V01988;A0136;Alta;Pentest;2026-13-01;;Aceita;0.5
+V01989;A0184;Alta;Pentest;08/09/2026;;Aberta;0.5
+V01990;A0014;Alta;Veracode;18/09/2026;;Aberta;1.2
+V01991;A0133;Crítica;Veracode;22/03/2026;;Aceita;9.3
+V01992;A0139;Média;Veracode;24/05/2026;;Em tratamento;7.5
+V01993;A0148;Média;Veracode;08/02/2026;;Em tratamento;5.2
+V01994;A0124;Crítica;Cloud Security;05/02/2026;;Em tratamento;4.2
+V01995;A0086;Crítica;Qualys;06/09/2026;;Em tratamento;5.8
+V01996;A0128;Média;Veracode;29/07/2026;;Aberta;7.6
+V01997;A0015;Crítica;Pentest;25/02/2026;;Aceita;6.2
+V01998;A0060;Crítica;Veracode;04/07/2026;17/07/2026;Corrigida;0.6
+V01999;A0046;Crítica;Veracode;26/07/2026;;Aberta;9.0
+V02000;A0184;Alta;Pentest;02/06/2026;;Em tratamento;9.3
