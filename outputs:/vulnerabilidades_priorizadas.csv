@@ -1,0 +1,1015 @@
+﻿vuln_id,ativo_id,sistema,crit_norm,amb_norm,status_ativo,sev_norm,cvss_score,status,prioridade,priority_score
+V00113,A0188,Sistema_188,Crítica,Desenvolvimento,Ativo,Crítica,2.6,Em tratamento,P1,16.0
+V00191,A0073,Sistema_73,Crítica,Desenvolvimento,Em desativação,Crítica,3.8,Aberta,P1,16.0
+V00211,A0188,Sistema_188,Crítica,Desenvolvimento,Ativo,Crítica,7.4,Em tratamento,P1,16.0
+V00216,A0184,Sistema_184,Crítica,Produção,Em desativação,Crítica,7.6,Aberta,P1,16.0
+V00289,A0152,Sistema_152,Crítica,Homologação,Em desativação,Crítica,6.4,Em tratamento,P1,16.0
+V00380,A0066,Sistema_66,Crítica,Homologação,Ativo,Crítica,1.9,Em tratamento,P1,16.0
+V00381,A0091,Sistema_91,Crítica,Desenvolvimento,Em desativação,Crítica,7.5,Aberta,P1,16.0
+V00407,A0181,Sistema_181,Crítica,Produção,Em desativação,Crítica,3.0,Aberta,P1,16.0
+V00442,A0001,Sistema_1,Crítica,Homologação,Em desativação,Crítica,4.2,Em tratamento,P1,16.0
+V00492,A0164,Sistema_164,Crítica,Produção,Ativo,Crítica,3.4,Em tratamento,P1,16.0
+V00495,A0102,Sistema_102,Crítica,Produção,Ativo,Crítica,1.7,Aberta,P1,16.0
+V00571,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Crítica,9.9,Aberta,P1,16.0
+V00668,A0152,Sistema_152,Crítica,Homologação,Em desativação,Crítica,7.4,Em tratamento,P1,16.0
+V00674,A0098,Sistema_98,Crítica,Homologação,Ativo,Crítica,7.6,Em tratamento,P1,16.0
+V00692,A0181,Sistema_181,Crítica,Produção,Em desativação,Crítica,1.1,Em tratamento,P1,16.0
+V00745,A0115,Sistema_115,Crítica,Produção,Ativo,Crítica,0.7,Aberta,P1,16.0
+V00768,A0161,Sistema_161,Crítica,Homologação,Em desativação,Crítica,8.7,Em tratamento,P1,16.0
+V00811,A0151,Sistema_151,Crítica,Produção,Ativo,Crítica,8.7,Aberta,P1,16.0
+V00826,A0014,Sistema_14,Crítica,Homologação,Ativo,Crítica,5.3,Aberta,P1,16.0
+V00873,A0102,Sistema_102,Crítica,Produção,Ativo,Crítica,8.8,Aberta,P1,16.0
+V00919,A0161,Sistema_161,Crítica,Homologação,Em desativação,Crítica,9.1,Em tratamento,P1,16.0
+V00953,A0184,Sistema_184,Crítica,Produção,Em desativação,Crítica,6.2,Em tratamento,P1,16.0
+V00995,A0030,Sistema_30,Crítica,Desenvolvimento,Ativo,Crítica,5.3,Aberta,P1,16.0
+V01023,A0098,Sistema_98,Crítica,Homologação,Ativo,Crítica,5.6,Em tratamento,P1,16.0
+V01141,A0014,Sistema_14,Crítica,Homologação,Ativo,Crítica,4.7,Aberta,P1,16.0
+V01181,A0151,Sistema_151,Crítica,Produção,Ativo,Crítica,0.4,Em tratamento,P1,16.0
+V01197,A0175,Sistema_175,Crítica,Homologação,Ativo,Crítica,8.1,Em tratamento,P1,16.0
+V01237,A0014,Sistema_14,Crítica,Homologação,Ativo,Crítica,5.1,Aberta,P1,16.0
+V01312,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Crítica,7.1,Aberta,P1,16.0
+V01331,A0036,Sistema_36,Crítica,Homologação,Em desativação,Crítica,7.9,Aberta,P1,16.0
+V01346,A0159,Sistema_159,Crítica,Homologação,Ativo,Crítica,3.6,Em tratamento,P1,16.0
+V01447,A0073,Sistema_73,Crítica,Desenvolvimento,Em desativação,Crítica,1.4,Em tratamento,P1,16.0
+V01517,A0161,Sistema_161,Crítica,Homologação,Em desativação,Crítica,6.4,Em tratamento,P1,16.0
+V01609,A0184,Sistema_184,Crítica,Produção,Em desativação,Crítica,9.0,Aberta,P1,16.0
+V01624,A0194,Sistema_194,Crítica,Desenvolvimento,Em desativação,Crítica,1.9,Em tratamento,P1,16.0
+V01644,A0036,Sistema_36,Crítica,Homologação,Em desativação,Crítica,2.7,Em tratamento,P1,16.0
+V01661,A0181,Sistema_181,Crítica,Produção,Em desativação,Crítica,8.8,Aberta,P1,16.0
+V01716,A0102,Sistema_102,Crítica,Produção,Ativo,Crítica,9.6,Aberta,P1,16.0
+V01734,A0188,Sistema_188,Crítica,Desenvolvimento,Ativo,Crítica,0.1,Em tratamento,P1,16.0
+V01763,A0116,Sistema_116,Crítica,Produção,Ativo,Crítica,1.0,Em tratamento,P1,16.0
+V01774,A0069,Sistema_69,Crítica,Homologação,Ativo,Crítica,4.4,Aberta,P1,16.0
+V01781,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Crítica,6.0,Em tratamento,P1,16.0
+V01814,A0177,Sistema_177,Crítica,Desenvolvimento,Ativo,Crítica,1.1,Aberta,P1,16.0
+V01866,A0057,Sistema_57,Crítica,Homologação,Ativo,Crítica,1.1,Em tratamento,P1,16.0
+V01903,A0177,Sistema_177,Crítica,Desenvolvimento,Ativo,Crítica,7.5,Aberta,P1,16.0
+V01945,A0036,Sistema_36,Crítica,Homologação,Em desativação,Crítica,2.1,Aberta,P1,16.0
+V01947,A0066,Sistema_66,Crítica,Homologação,Ativo,Crítica,2.7,Aberta,P1,16.0
+V01968,A0121,Sistema_121,Crítica,Homologação,Ativo,Crítica,0.4,Aberta,P1,16.0
+V01976,A0144,Sistema_144,Crítica,Desenvolvimento,Ativo,Crítica,1.1,Aberta,P1,16.0
+V01981,A0039,Sistema_39,Crítica,Desenvolvimento,Ativo,Crítica,5.0,Em tratamento,P1,16.0
+V00054,A0178,Sistema_178,Alta,Produção,Ativo,Crítica,7.2,Aberta,P1,12.0
+V00065,A0197,Sistema_197,Alta,Homologação,Ativo,Crítica,4.0,Aberta,P1,12.0
+V00091,A0148,Sistema_148,Alta,Produção,Ativo,Crítica,9.0,Em tratamento,P1,12.0
+V00106,A0100,Sistema_100,Alta,Produção,Ativo,Crítica,7.3,Aberta,P1,12.0
+V00124,A0157,Sistema_157,Alta,Desenvolvimento,Ativo,Crítica,3.6,Aberta,P1,12.0
+V00127,A0195,Sistema_195,Alta,Produção,Ativo,Crítica,4.7,Aberta,P1,12.0
+V00142,A0173,Sistema_173,Alta,Produção,Ativo,Crítica,6.2,Aberta,P1,12.0
+V00196,A0100,Sistema_100,Alta,Produção,Ativo,Crítica,4.8,Em tratamento,P1,12.0
+V00248,A0095,Sistema_95,Alta,Homologação,Ativo,Crítica,3.4,Aberta,P1,12.0
+V00275,A0100,Sistema_100,Alta,Produção,Ativo,Crítica,4.4,Aberta,P1,12.0
+V00303,A0081,Sistema_81,Alta,Homologação,Ativo,Crítica,8.3,Em tratamento,P1,12.0
+V00424,A0155,Sistema_155,Alta,Produção,Ativo,Crítica,5.4,Em tratamento,P1,12.0
+V00426,A0083,Sistema_83,Alta,Homologação,Em desativação,Crítica,4.6,Aberta,P1,12.0
+V00443,A0158,Sistema_158,Alta,Desenvolvimento,Em desativação,Crítica,9.0,Aberta,P1,12.0
+V00486,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Crítica,8.3,Aberta,P1,12.0
+V00487,A0137,Sistema_137,Alta,Desenvolvimento,Ativo,Crítica,8.7,Aberta,P1,12.0
+V00489,A0122,Sistema_122,Alta,Produção,Ativo,Crítica,9.3,Em tratamento,P1,12.0
+V00534,A0084,Sistema_84,Alta,Desenvolvimento,Em desativação,Crítica,7.4,Em tratamento,P1,12.0
+V00557,A0189,Sistema_189,Alta,Homologação,Em desativação,Crítica,8.8,Em tratamento,P1,12.0
+V00584,A0195,Sistema_195,Alta,Produção,Ativo,Crítica,5.7,Aberta,P1,12.0
+V00592,A0120,Sistema_120,Alta,Produção,Ativo,Crítica,7.0,Aberta,P1,12.0
+V00610,A0052,Sistema_52,Alta,Produção,Ativo,Crítica,1.9,Aberta,P1,12.0
+V00612,A0092,Sistema_92,Alta,Homologação,Em desativação,Crítica,5.9,Em tratamento,P1,12.0
+V00613,A0122,Sistema_122,Alta,Produção,Ativo,Crítica,9.7,Aberta,P1,12.0
+V00669,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Crítica,2.2,Aberta,P1,12.0
+V00726,A0081,Sistema_81,Alta,Homologação,Ativo,Crítica,6.4,Em tratamento,P1,12.0
+V00739,A0129,Sistema_129,Alta,Homologação,Ativo,Crítica,6.4,Aberta,P1,12.0
+V00763,A0190,Sistema_190,Alta,Homologação,Ativo,Crítica,1.5,Em tratamento,P1,12.0
+V00772,A0063,Sistema_63,Alta,Homologação,Ativo,Crítica,5.8,Aberta,P1,12.0
+V00833,A0173,Sistema_173,Alta,Produção,Ativo,Crítica,4.2,Aberta,P1,12.0
+V00855,A0043,Sistema_43,Alta,Produção,Ativo,Crítica,6.8,Aberta,P1,12.0
+V00862,A0083,Sistema_83,Alta,Homologação,Em desativação,Crítica,10.0,Em tratamento,P1,12.0
+V00905,A0120,Sistema_120,Alta,Produção,Ativo,Crítica,0.5,Aberta,P1,12.0
+V00961,A0083,Sistema_83,Alta,Homologação,Em desativação,Crítica,6.3,Aberta,P1,12.0
+V01017,A0189,Sistema_189,Alta,Homologação,Em desativação,Crítica,4.7,Aberta,P1,12.0
+V01019,A0171,Sistema_171,Alta,Desenvolvimento,Em desativação,Crítica,4.5,Aberta,P1,12.0
+V01024,A0189,Sistema_189,Alta,Homologação,Em desativação,Crítica,0.4,Aberta,P1,12.0
+V01037,A0093,Sistema_93,Alta,Produção,Ativo,Crítica,9.0,Em tratamento,P1,12.0
+V01038,A0084,Sistema_84,Alta,Desenvolvimento,Em desativação,Crítica,4.1,Em tratamento,P1,12.0
+V01057,A0100,Sistema_100,Alta,Produção,Ativo,Crítica,8.5,Aberta,P1,12.0
+V01062,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Crítica,10.0,Aberta,P1,12.0
+V01085,A0137,Sistema_137,Alta,Desenvolvimento,Ativo,Crítica,6.3,Em tratamento,P1,12.0
+V01104,A0189,Sistema_189,Alta,Homologação,Em desativação,Crítica,2.7,Aberta,P1,12.0
+V01157,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Crítica,7.6,Aberta,P1,12.0
+V01159,A0120,Sistema_120,Alta,Produção,Ativo,Crítica,5.0,Aberta,P1,12.0
+V01165,A0004,Sistema_4,Alta,Homologação,Ativo,Crítica,3.0,Em tratamento,P1,12.0
+V01239,A0095,Sistema_95,Alta,Homologação,Ativo,Crítica,2.2,Aberta,P1,12.0
+V01252,A0120,Sistema_120,Alta,Produção,Ativo,Crítica,7.4,Aberta,P1,12.0
+V01324,A0197,Sistema_197,Alta,Homologação,Ativo,Crítica,3.7,Aberta,P1,12.0
+V01438,A0041,Sistema_41,Alta,Homologação,Em desativação,Crítica,3.1,Aberta,P1,12.0
+V01457,A0084,Sistema_84,Alta,Desenvolvimento,Em desativação,Crítica,2.2,Aberta,P1,12.0
+V01483,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Crítica,9.1,Em tratamento,P1,12.0
+V01539,A0190,Sistema_190,Alta,Homologação,Ativo,Crítica,8.1,Aberta,P1,12.0
+V01548,A0178,Sistema_178,Alta,Produção,Ativo,Crítica,1.5,Aberta,P1,12.0
+V01645,A0095,Sistema_95,Alta,Homologação,Ativo,Crítica,1.7,Em tratamento,P1,12.0
+V01646,A0148,Sistema_148,Alta,Produção,Ativo,Crítica,6.3,Aberta,P1,12.0
+V01651,A0158,Sistema_158,Alta,Desenvolvimento,Em desativação,Crítica,3.9,Em tratamento,P1,12.0
+V01733,A0087,Sistema_87,Alta,Produção,Ativo,Crítica,7.5,Em tratamento,P1,12.0
+V01780,A0178,Sistema_178,Alta,Produção,Ativo,Crítica,5.9,Aberta,P1,12.0
+V01790,A0008,Sistema_8,Alta,Produção,Ativo,Crítica,6.3,Em tratamento,P1,12.0
+V01855,A0195,Sistema_195,Alta,Produção,Ativo,Crítica,4.0,Em tratamento,P1,12.0
+V01872,A0063,Sistema_63,Alta,Homologação,Ativo,Crítica,9.3,Em tratamento,P1,12.0
+V00003,A0080,Sistema_80,Crítica,Produção,Ativo,Alta,1.7,Aberta,P2,12.0
+V00014,A0039,Sistema_39,Crítica,Desenvolvimento,Ativo,Alta,4.2,Aberta,P2,12.0
+V00049,A0163,Sistema_163,Crítica,Homologação,Em desativação,Alta,8.6,Em tratamento,P2,12.0
+V00155,A0057,Sistema_57,Crítica,Homologação,Ativo,Alta,9.0,Em tratamento,P2,12.0
+V00188,A0030,Sistema_30,Crítica,Desenvolvimento,Ativo,Alta,5.0,Aberta,P2,12.0
+V00215,A0036,Sistema_36,Crítica,Homologação,Em desativação,Alta,9.4,Aberta,P2,12.0
+V00239,A0115,Sistema_115,Crítica,Produção,Ativo,Alta,2.3,Aberta,P2,12.0
+V00256,A0164,Sistema_164,Crítica,Produção,Ativo,Alta,9.6,Aberta,P2,12.0
+V00282,A0106,Sistema_106,Crítica,Desenvolvimento,Ativo,Alta,0.3,Aberta,P2,12.0
+V00339,A0151,Sistema_151,Crítica,Produção,Ativo,Alta,9.9,Em tratamento,P2,12.0
+V00354,A0116,Sistema_116,Crítica,Produção,Ativo,Alta,7.7,Em tratamento,P2,12.0
+V00409,A0164,Sistema_164,Crítica,Produção,Ativo,Alta,7.5,Aberta,P2,12.0
+V00461,A0064,Sistema_64,Crítica,Homologação,Ativo,Alta,8.4,Aberta,P2,12.0
+V00480,A0161,Sistema_161,Crítica,Homologação,Em desativação,Alta,1.7,Aberta,P2,12.0
+V00574,A0078,Sistema_78,Crítica,Homologação,Ativo,Alta,8.1,Em tratamento,P2,12.0
+V00617,A0055,Sistema_55,Crítica,Homologação,Ativo,Alta,9.6,Aberta,P2,12.0
+V00625,A0014,Sistema_14,Crítica,Homologação,Ativo,Alta,0.3,Aberta,P2,12.0
+V00675,A0163,Sistema_163,Crítica,Homologação,Em desativação,Alta,9.0,Aberta,P2,12.0
+V00951,A0116,Sistema_116,Crítica,Produção,Ativo,Alta,4.2,Aberta,P2,12.0
+V00968,A0069,Sistema_69,Crítica,Homologação,Ativo,Alta,3.8,Aberta,P2,12.0
+V00977,A0152,Sistema_152,Crítica,Homologação,Em desativação,Alta,2.4,Aberta,P2,12.0
+V00979,A0066,Sistema_66,Crítica,Homologação,Ativo,Alta,9.7,Aberta,P2,12.0
+V01005,A0080,Sistema_80,Crítica,Produção,Ativo,Alta,5.4,Aberta,P2,12.0
+V01028,A0161,Sistema_161,Crítica,Homologação,Em desativação,Alta,3.5,Aberta,P2,12.0
+V01043,A0159,Sistema_159,Crítica,Homologação,Ativo,Alta,6.6,Em tratamento,P2,12.0
+V01075,A0098,Sistema_98,Crítica,Homologação,Ativo,Alta,5.8,Aberta,P2,12.0
+V01079,A0073,Sistema_73,Crítica,Desenvolvimento,Em desativação,Alta,5.0,Aberta,P2,12.0
+V01124,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Alta,3.1,Aberta,P2,12.0
+V01134,A0039,Sistema_39,Crítica,Desenvolvimento,Ativo,Alta,9.0,Aberta,P2,12.0
+V01220,A0152,Sistema_152,Crítica,Homologação,Em desativação,Alta,9.2,Aberta,P2,12.0
+V01235,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Alta,10.0,Em tratamento,P2,12.0
+V01308,A0073,Sistema_73,Crítica,Desenvolvimento,Em desativação,Alta,1.4,Aberta,P2,12.0
+V01363,A0116,Sistema_116,Crítica,Produção,Ativo,Alta,4.6,Aberta,P2,12.0
+V01394,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Alta,4.4,Aberta,P2,12.0
+V01418,A0141,Sistema_141,Crítica,Produção,Ativo,Alta,1.6,Em tratamento,P2,12.0
+V01420,A0102,Sistema_102,Crítica,Produção,Ativo,Alta,6.0,Em tratamento,P2,12.0
+V01474,A0115,Sistema_115,Crítica,Produção,Ativo,Alta,1.1,Aberta,P2,12.0
+V01516,A0111,Sistema_111,Crítica,Produção,Ativo,Alta,1.6,Em tratamento,P2,12.0
+V01604,A0108,Sistema_108,Crítica,Desenvolvimento,Ativo,Alta,3.3,Aberta,P2,12.0
+V01671,A0181,Sistema_181,Crítica,Produção,Em desativação,Alta,6.2,Aberta,P2,12.0
+V01697,A0161,Sistema_161,Crítica,Homologação,Em desativação,Alta,0.7,Aberta,P2,12.0
+V01715,A0064,Sistema_64,Crítica,Homologação,Ativo,Alta,1.6,Em tratamento,P2,12.0
+V01742,A0175,Sistema_175,Crítica,Homologação,Ativo,Alta,5.0,Em tratamento,P2,12.0
+V01762,A0080,Sistema_80,Crítica,Produção,Ativo,Alta,6.8,Em tratamento,P2,12.0
+V01795,A0066,Sistema_66,Crítica,Homologação,Ativo,Alta,3.3,Aberta,P2,12.0
+V01867,A0098,Sistema_98,Crítica,Homologação,Ativo,Alta,2.3,Em tratamento,P2,12.0
+V01937,A0175,Sistema_175,Crítica,Homologação,Ativo,Alta,3.9,Em tratamento,P2,12.0
+V01950,A0181,Sistema_181,Crítica,Produção,Em desativação,Alta,9.8,Em tratamento,P2,12.0
+V01960,A0116,Sistema_116,Crítica,Produção,Ativo,Alta,7.5,Em tratamento,P2,12.0
+V01973,A0091,Sistema_91,Crítica,Desenvolvimento,Em desativação,Alta,0.1,Aberta,P2,12.0
+V01987,A0161,Sistema_161,Crítica,Homologação,Em desativação,Alta,4.4,Aberta,P2,12.0
+V01989,A0184,Sistema_184,Crítica,Produção,Em desativação,Alta,0.5,Aberta,P2,12.0
+V01990,A0014,Sistema_14,Crítica,Homologação,Ativo,Alta,1.2,Aberta,P2,12.0
+V02000,A0184,Sistema_184,Crítica,Produção,Em desativação,Alta,9.3,Em tratamento,P2,12.0
+V00006,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Crítica,8.9,Aberta,P2,8.0
+V00040,A0183,Sistema_183,Média,Produção,Ativo,Crítica,9.6,Aberta,P2,8.0
+V00088,A0142,Sistema_142,Média,Homologação,Ativo,Crítica,4.7,Aberta,P2,8.0
+V00121,A0166,Sistema_166,Média,Desenvolvimento,Ativo,Crítica,3.4,Aberta,P2,8.0
+V00152,A0165,Sistema_165,Média,Homologação,Em desativação,Crítica,2.3,Em tratamento,P2,8.0
+V00187,A0060,Sistema_60,Média,Indefinido,Ativo,Crítica,2.8,Em tratamento,P2,8.0
+V00190,A0051,Sistema_51,Média,Produção,Ativo,Crítica,6.2,Aberta,P2,8.0
+V00249,A0089,Sistema_89,Média,Produção,Ativo,Crítica,7.5,Em tratamento,P2,8.0
+V00325,A0119,Sistema_119,Média,Homologação,Em desativação,Crítica,7.4,Em tratamento,P2,8.0
+V00341,A0147,Sistema_147,Média,Desenvolvimento,Ativo,Crítica,1.7,Em tratamento,P2,8.0
+V00342,A0186,Sistema_186,Média,Desenvolvimento,Ativo,Crítica,6.7,Em tratamento,P2,8.0
+V00368,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Crítica,9.3,Em tratamento,P2,8.0
+V00378,A0105,Sistema_105,Média,Homologação,Em desativação,Crítica,9.2,Em tratamento,P2,8.0
+V00389,A0003,Sistema_3,Média,Homologação,Ativo,Crítica,8.7,Aberta,P2,8.0
+V00414,A0142,Sistema_142,Média,Homologação,Ativo,Crítica,9.1,Em tratamento,P2,8.0
+V00437,A0193,Sistema_193,Média,Produção,Em desativação,Crítica,1.0,Aberta,P2,8.0
+V00496,A0038,Sistema_38,Média,Desenvolvimento,Ativo,Crítica,4.6,Em tratamento,P2,8.0
+V00510,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Crítica,9.3,Aberta,P2,8.0
+V00520,A0037,Sistema_37,Média,Homologação,Ativo,Crítica,9.4,Aberta,P2,8.0
+V00524,A0082,Sistema_82,Média,Produção,Ativo,Crítica,7.6,Aberta,P2,8.0
+V00525,A0142,Sistema_142,Média,Homologação,Ativo,Crítica,9.9,Em tratamento,P2,8.0
+V00545,A0154,Sistema_154,Média,Desenvolvimento,Ativo,Crítica,3.2,Aberta,P2,8.0
+V00546,A0183,Sistema_183,Média,Produção,Ativo,Crítica,5.7,Em tratamento,P2,8.0
+V00558,A0089,Sistema_89,Média,Produção,Ativo,Crítica,5.4,Aberta,P2,8.0
+V00737,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Crítica,3.7,Em tratamento,P2,8.0
+V00746,A0050,Sistema_50,Média,Homologação,Em desativação,Crítica,6.7,Em tratamento,P2,8.0
+V00850,A0094,Sistema_94,Média,Produção,Ativo,Crítica,8.6,Em tratamento,P2,8.0
+V00858,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Crítica,1.2,Em tratamento,P2,8.0
+V00928,A0082,Sistema_82,Média,Produção,Ativo,Crítica,4.9,Aberta,P2,8.0
+V00932,A0170,Sistema_170,Média,Produção,Ativo,Crítica,5.8,Aberta,P2,8.0
+V00933,A0165,Sistema_165,Média,Homologação,Em desativação,Crítica,1.6,Aberta,P2,8.0
+V00940,A0089,Sistema_89,Média,Produção,Ativo,Crítica,6.9,Aberta,P2,8.0
+V00964,A0065,Sistema_65,Média,Desenvolvimento,Ativo,Crítica,0.5,Em tratamento,P2,8.0
+V00970,A0065,Sistema_65,Média,Desenvolvimento,Ativo,Crítica,5.5,Em tratamento,P2,8.0
+V00974,A0105,Sistema_105,Média,Homologação,Em desativação,Crítica,1.0,Em tratamento,P2,8.0
+V01040,A0153,Sistema_153,Média,Desenvolvimento,Ativo,Crítica,8.1,Em tratamento,P2,8.0
+V01068,A0070,Sistema_70,Média,Homologação,Ativo,Crítica,8.4,Aberta,P2,8.0
+V01069,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Crítica,3.8,Aberta,P2,8.0
+V01114,A0050,Sistema_50,Média,Homologação,Em desativação,Crítica,4.5,Aberta,P2,8.0
+V01122,A0183,Sistema_183,Média,Produção,Ativo,Crítica,0.4,Em tratamento,P2,8.0
+V01145,A0142,Sistema_142,Média,Homologação,Ativo,Crítica,6.2,Aberta,P2,8.0
+V01164,A0128,Sistema_128,Média,Homologação,Ativo,Crítica,3.5,Em tratamento,P2,8.0
+V01180,A0047,Sistema_47,Média,Desenvolvimento,Ativo,Crítica,5.2,Aberta,P2,8.0
+V01188,A0086,Sistema_86,Média,Produção,Ativo,Crítica,9.0,Em tratamento,P2,8.0
+V01199,A0147,Sistema_147,Média,Desenvolvimento,Ativo,Crítica,4.8,Em tratamento,P2,8.0
+V01203,A0086,Sistema_86,Média,Produção,Ativo,Crítica,1.4,Em tratamento,P2,8.0
+V01216,A0183,Sistema_183,Média,Produção,Ativo,Crítica,1.7,Em tratamento,P2,8.0
+V01250,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Crítica,3.6,Em tratamento,P2,8.0
+V01265,A0170,Sistema_170,Média,Produção,Ativo,Crítica,1.1,Em tratamento,P2,8.0
+V01277,A0037,Sistema_37,Média,Homologação,Ativo,Crítica,8.1,Aberta,P2,8.0
+V01281,A0153,Sistema_153,Média,Desenvolvimento,Ativo,Crítica,8.5,Em tratamento,P2,8.0
+V01294,A0033,Sistema_33,Média,Homologação,Ativo,Crítica,3.2,Em tratamento,P2,8.0
+V01297,A0050,Sistema_50,Média,Homologação,Em desativação,Crítica,9.5,Aberta,P2,8.0
+V01298,A0065,Sistema_65,Média,Desenvolvimento,Ativo,Crítica,4.1,Em tratamento,P2,8.0
+V01329,A0045,Sistema_45,Média,Desenvolvimento,Ativo,Crítica,1.7,Em tratamento,P2,8.0
+V01335,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Crítica,8.9,Em tratamento,P2,8.0
+V01342,A0162,Sistema_162,Média,Produção,Em desativação,Crítica,5.7,Aberta,P2,8.0
+V01374,A0160,Sistema_160,Média,Desenvolvimento,Ativo,Crítica,9.4,Em tratamento,P2,8.0
+V01382,A0045,Sistema_45,Média,Desenvolvimento,Ativo,Crítica,3.8,Aberta,P2,8.0
+V01391,A0166,Sistema_166,Média,Desenvolvimento,Ativo,Crítica,1.0,Em tratamento,P2,8.0
+V01409,A0150,Sistema_150,Média,Homologação,Ativo,Crítica,4.4,Em tratamento,P2,8.0
+V01455,A0065,Sistema_65,Média,Desenvolvimento,Ativo,Crítica,2.4,Em tratamento,P2,8.0
+V01487,A0071,Sistema_71,Média,Desenvolvimento,Ativo,Crítica,0.3,Em tratamento,P2,8.0
+V01489,A0040,Sistema_40,Média,Produção,Ativo,Crítica,6.9,Em tratamento,P2,8.0
+V01496,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Crítica,9.9,Em tratamento,P2,8.0
+V01503,A0183,Sistema_183,Média,Produção,Ativo,Crítica,8.0,Aberta,P2,8.0
+V01540,A0038,Sistema_38,Média,Desenvolvimento,Ativo,Crítica,2.4,Em tratamento,P2,8.0
+V01657,A0170,Sistema_170,Média,Produção,Ativo,Crítica,3.9,Aberta,P2,8.0
+V01759,A0117,Sistema_117,Média,Homologação,Ativo,Crítica,5.2,Aberta,P2,8.0
+V01807,A0086,Sistema_86,Média,Produção,Ativo,Crítica,6.1,Em tratamento,P2,8.0
+V01831,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Crítica,9.4,Em tratamento,P2,8.0
+V01864,A0029,Sistema_29,Média,Produção,Em desativação,Crítica,6.9,Em tratamento,P2,8.0
+V01870,A0082,Sistema_82,Média,Produção,Ativo,Crítica,1.9,Em tratamento,P2,8.0
+V01943,A0082,Sistema_82,Média,Produção,Ativo,Crítica,5.8,Aberta,P2,8.0
+V01969,A0105,Sistema_105,Média,Homologação,Em desativação,Crítica,3.1,Em tratamento,P2,8.0
+V01995,A0086,Sistema_86,Média,Produção,Ativo,Crítica,5.8,Em tratamento,P2,8.0
+V00002,A0060,Sistema_60,Média,Indefinido,Ativo,Alta,7.5,Em tratamento,P2,6.0
+V00004,A0086,Sistema_86,Média,Produção,Ativo,Alta,2.5,Aberta,P2,6.0
+V00005,A0089,Sistema_89,Média,Produção,Ativo,Alta,4.4,Em tratamento,P2,6.0
+V00009,A0186,Sistema_186,Média,Desenvolvimento,Ativo,Alta,3.1,Em tratamento,P2,6.0
+V00028,A0070,Sistema_70,Média,Homologação,Ativo,Alta,2.5,Em tratamento,P2,6.0
+V00055,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Alta,2.5,Em tratamento,P2,6.0
+V00056,A0193,Sistema_193,Média,Produção,Em desativação,Alta,0.8,Aberta,P2,6.0
+V00060,A0060,Sistema_60,Média,Indefinido,Ativo,Alta,1.7,Em tratamento,P2,6.0
+V00087,A0142,Sistema_142,Média,Homologação,Ativo,Alta,9.6,Em tratamento,P2,6.0
+V00120,A0045,Sistema_45,Média,Desenvolvimento,Ativo,Alta,1.9,Em tratamento,P2,6.0
+V00153,A0117,Sistema_117,Média,Homologação,Ativo,Alta,0.3,Em tratamento,P2,6.0
+V00184,A0029,Sistema_29,Média,Produção,Em desativação,Alta,6.1,Aberta,P2,6.0
+V00229,A0105,Sistema_105,Média,Homologação,Em desativação,Alta,1.3,Em tratamento,P2,6.0
+V00238,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Alta,0.9,Em tratamento,P2,6.0
+V00292,A0126,Sistema_126,Média,Produção,Ativo,Alta,8.9,Em tratamento,P2,6.0
+V00375,A0071,Sistema_71,Média,Desenvolvimento,Ativo,Alta,1.6,Em tratamento,P2,6.0
+V00473,A0185,Sistema_185,Média,Produção,Ativo,Alta,0.8,Aberta,P2,6.0
+V00474,A0166,Sistema_166,Média,Desenvolvimento,Ativo,Alta,5.2,Em tratamento,P2,6.0
+V00504,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Alta,9.2,Aberta,P2,6.0
+V00505,A0070,Sistema_70,Média,Homologação,Ativo,Alta,7.0,Em tratamento,P2,6.0
+V00528,A0040,Sistema_40,Média,Produção,Ativo,Alta,2.3,Aberta,P2,6.0
+V00555,A0154,Sistema_154,Média,Desenvolvimento,Ativo,Alta,9.5,Em tratamento,P2,6.0
+V00616,A0193,Sistema_193,Média,Produção,Em desativação,Alta,6.2,Em tratamento,P2,6.0
+V00622,A0186,Sistema_186,Média,Desenvolvimento,Ativo,Alta,5.3,Em tratamento,P2,6.0
+V00623,A0125,Sistema_125,Média,Homologação,Em desativação,Alta,8.1,Em tratamento,P2,6.0
+V00720,A0156,Sistema_156,Média,Produção,Ativo,Alta,2.1,Em tratamento,P2,6.0
+V00774,A0050,Sistema_50,Média,Homologação,Em desativação,Alta,7.2,Aberta,P2,6.0
+V00814,A0045,Sistema_45,Média,Desenvolvimento,Ativo,Alta,9.3,Aberta,P2,6.0
+V00847,A0002,Sistema_2,Média,Produção,Em desativação,Alta,3.3,Aberta,P2,6.0
+V00871,A0185,Sistema_185,Média,Produção,Ativo,Alta,0.8,Em tratamento,P2,6.0
+V00888,A0170,Sistema_170,Média,Produção,Ativo,Alta,6.4,Em tratamento,P2,6.0
+V00921,A0153,Sistema_153,Média,Desenvolvimento,Ativo,Alta,5.8,Aberta,P2,6.0
+V01015,A0119,Sistema_119,Média,Homologação,Em desativação,Alta,3.6,Em tratamento,P2,6.0
+V01058,A0003,Sistema_3,Média,Homologação,Ativo,Alta,7.1,Em tratamento,P2,6.0
+V01094,A0117,Sistema_117,Média,Homologação,Ativo,Alta,9.4,Aberta,P2,6.0
+V01105,A0183,Sistema_183,Média,Produção,Ativo,Alta,2.8,Aberta,P2,6.0
+V01126,A0002,Sistema_2,Média,Produção,Em desativação,Alta,7.2,Aberta,P2,6.0
+V01211,A0033,Sistema_33,Média,Homologação,Ativo,Alta,4.3,Em tratamento,P2,6.0
+V01228,A0015,Sistema_15,Média,Homologação,Ativo,Alta,7.8,Aberta,P2,6.0
+V01243,A0086,Sistema_86,Média,Produção,Ativo,Alta,4.0,Aberta,P2,6.0
+V01261,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Alta,4.6,Aberta,P2,6.0
+V01356,A0147,Sistema_147,Média,Desenvolvimento,Ativo,Alta,4.7,Em tratamento,P2,6.0
+V01370,A0086,Sistema_86,Média,Produção,Ativo,Alta,3.2,Em tratamento,P2,6.0
+V01376,A0082,Sistema_82,Média,Produção,Ativo,Alta,5.2,Em tratamento,P2,6.0
+V01388,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Alta,5.1,Em tratamento,P2,6.0
+V01404,A0154,Sistema_154,Média,Desenvolvimento,Ativo,Alta,0.6,Aberta,P2,6.0
+V01441,A0185,Sistema_185,Média,Produção,Ativo,Alta,8.1,Em tratamento,P2,6.0
+V01576,A0101,Sistema_101,Média,Desenvolvimento,Ativo,Alta,3.9,Aberta,P2,6.0
+V01675,A0094,Sistema_94,Média,Produção,Ativo,Alta,5.3,Aberta,P2,6.0
+V01689,A0071,Sistema_71,Média,Desenvolvimento,Ativo,Alta,6.9,Aberta,P2,6.0
+V01757,A0029,Sistema_29,Média,Produção,Em desativação,Alta,5.2,Aberta,P2,6.0
+V01766,A0051,Sistema_51,Média,Produção,Ativo,Alta,0.2,Em tratamento,P2,6.0
+V01785,A0143,Sistema_143,Média,Homologação,Ativo,Alta,2.8,Em tratamento,P2,6.0
+V01792,A0045,Sistema_45,Média,Desenvolvimento,Ativo,Alta,4.2,Aberta,P2,6.0
+V01799,A0147,Sistema_147,Média,Desenvolvimento,Ativo,Alta,8.3,Aberta,P2,6.0
+V01875,A0045,Sistema_45,Média,Desenvolvimento,Ativo,Alta,4.7,Em tratamento,P2,6.0
+V01878,A0086,Sistema_86,Média,Produção,Ativo,Alta,4.3,Em tratamento,P2,6.0
+V01886,A0147,Sistema_147,Média,Desenvolvimento,Ativo,Alta,8.6,Aberta,P2,6.0
+V01921,A0070,Sistema_70,Média,Homologação,Ativo,Alta,4.0,Aberta,P2,6.0
+V01925,A0174,Sistema_174,Média,Desenvolvimento,Em desativação,Alta,2.7,Em tratamento,P2,6.0
+V01928,A0060,Sistema_60,Média,Indefinido,Ativo,Alta,6.0,Em tratamento,P2,6.0
+V01961,A0003,Sistema_3,Média,Homologação,Ativo,Alta,2.7,Em tratamento,P2,6.0
+V00027,A0172,Sistema_172,Baixa,Homologação,Ativo,Crítica,1.4,Aberta,P2,4.0
+V00092,A0046,Sistema_46,Baixa,Homologação,Ativo,Crítica,6.1,Em tratamento,P2,4.0
+V00107,A0067,Sistema_67,Baixa,Homologação,Ativo,Crítica,5.2,Aberta,P2,4.0
+V00119,A0112,Sistema_112,Baixa,Homologação,Ativo,Crítica,9.6,Aberta,P2,4.0
+V00139,A0035,Sistema_35,Baixa,Produção,Em desativação,Crítica,9.7,Aberta,P2,4.0
+V00175,A0124,Sistema_124,Baixa,Produção,Ativo,Crítica,5.9,Em tratamento,P2,4.0
+V00225,A0123,Sistema_123,Baixa,Produção,Ativo,Crítica,2.7,Aberta,P2,4.0
+V00244,A0096,Sistema_96,Baixa,Produção,Ativo,Crítica,3.0,Em tratamento,P2,4.0
+V00247,A0009,Sistema_9,Baixa,Desenvolvimento,Ativo,Crítica,5.3,Aberta,P2,4.0
+V00266,A0127,Sistema_127,Baixa,Homologação,Ativo,Crítica,0.4,Em tratamento,P2,4.0
+V00271,A0067,Sistema_67,Baixa,Homologação,Ativo,Crítica,6.7,Em tratamento,P2,4.0
+V00297,A0118,Sistema_118,Baixa,Produção,Ativo,Crítica,2.1,Em tratamento,P2,4.0
+V00318,A0011,Sistema_11,Baixa,Produção,Ativo,Crítica,8.1,Aberta,P2,4.0
+V00333,A0172,Sistema_172,Baixa,Homologação,Ativo,Crítica,2.2,Em tratamento,P2,4.0
+V00340,A0027,Sistema_27,Baixa,Produção,Ativo,Crítica,4.4,Em tratamento,P2,4.0
+V00349,A0079,Sistema_79,Baixa,Desenvolvimento,Ativo,Crítica,10.0,Em tratamento,P2,4.0
+V00393,A0079,Sistema_79,Baixa,Desenvolvimento,Ativo,Crítica,4.3,Em tratamento,P2,4.0
+V00408,A0016,Sistema_16,Baixa,Homologação,Ativo,Crítica,1.5,Em tratamento,P2,4.0
+V00522,A0172,Sistema_172,Baixa,Homologação,Ativo,Crítica,7.6,Em tratamento,P2,4.0
+V00536,A0075,Sistema_75,Baixa,Desenvolvimento,Ativo,Crítica,9.0,Em tratamento,P2,4.0
+V00567,A0192,Sistema_192,Baixa,Homologação,Em desativação,Crítica,2.9,Em tratamento,P2,4.0
+V00572,A0026,Sistema_26,Baixa,Produção,Ativo,Crítica,3.5,Em tratamento,P2,4.0
+V00621,A0109,Sistema_109,Baixa,Desenvolvimento,Ativo,Crítica,5.8,Aberta,P2,4.0
+V00643,A0016,Sistema_16,Baixa,Homologação,Ativo,Crítica,7.0,Aberta,P2,4.0
+V00671,A0027,Sistema_27,Baixa,Produção,Ativo,Crítica,6.5,Em tratamento,P2,4.0
+V00693,A0145,Sistema_145,Baixa,Desenvolvimento,Em desativação,Crítica,0.3,Em tratamento,P2,4.0
+V00695,A0123,Sistema_123,Baixa,Produção,Ativo,Crítica,3.3,Aberta,P2,4.0
+V00696,A0198,Sistema_198,Baixa,Desenvolvimento,Em desativação,Crítica,3.8,Em tratamento,P2,4.0
+V00781,A0134,Sistema_134,Baixa,Desenvolvimento,Ativo,Crítica,6.3,Aberta,P2,4.0
+V00802,A0056,Sistema_56,Baixa,Produção,Ativo,Crítica,6.3,Aberta,P2,4.0
+V00846,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Crítica,3.3,Em tratamento,P2,4.0
+V00863,A0067,Sistema_67,Baixa,Homologação,Ativo,Crítica,6.3,Em tratamento,P2,4.0
+V00913,A0134,Sistema_134,Baixa,Desenvolvimento,Ativo,Crítica,6.7,Aberta,P2,4.0
+V00930,A0013,Sistema_13,Baixa,Indefinido,Ativo,Crítica,9.9,Em tratamento,P2,4.0
+V00955,A0016,Sistema_16,Baixa,Homologação,Ativo,Crítica,6.4,Aberta,P2,4.0
+V01025,A0140,Sistema_140,Baixa,Desenvolvimento,Ativo,Crítica,1.9,Em tratamento,P2,4.0
+V01033,A0179,Sistema_179,Baixa,Desenvolvimento,Em desativação,Crítica,6.5,Aberta,P2,4.0
+V01042,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Crítica,4.4,Aberta,P2,4.0
+V01064,A0062,Sistema_62,Baixa,Desenvolvimento,Em desativação,Crítica,0.4,Aberta,P2,4.0
+V01072,A0180,Sistema_180,Baixa,Desenvolvimento,Em desativação,Crítica,5.5,Aberta,P2,4.0
+V01095,A0176,Sistema_176,Baixa,Produção,Ativo,Crítica,8.3,Aberta,P2,4.0
+V01113,A0140,Sistema_140,Baixa,Desenvolvimento,Ativo,Crítica,4.2,Em tratamento,P2,4.0
+V01292,A0074,Sistema_74,Baixa,Produção,Em desativação,Crítica,5.7,Em tratamento,P2,4.0
+V01392,A0058,Sistema_58,Baixa,Homologação,Ativo,Crítica,0.9,Em tratamento,P2,4.0
+V01397,A0198,Sistema_198,Baixa,Desenvolvimento,Em desativação,Crítica,3.1,Aberta,P2,4.0
+V01472,A0130,Sistema_130,Baixa,Produção,Ativo,Crítica,1.7,Em tratamento,P2,4.0
+V01518,A0021,Sistema_21,Baixa,Produção,Ativo,Crítica,2.3,Em tratamento,P2,4.0
+V01534,A0028,Sistema_28,Baixa,Produção,Em desativação,Crítica,8.4,Em tratamento,P2,4.0
+V01550,A0072,Sistema_72,Baixa,Desenvolvimento,Ativo,Crítica,2.2,Aberta,P2,4.0
+V01556,A0048,Sistema_48,Baixa,Produção,Ativo,Crítica,6.6,Em tratamento,P2,4.0
+V01605,A0022,Sistema_22,Baixa,Produção,Ativo,Crítica,9.7,Em tratamento,P2,4.0
+V01611,A0123,Sistema_123,Baixa,Produção,Ativo,Crítica,0.9,Em tratamento,P2,4.0
+V01626,A0062,Sistema_62,Baixa,Desenvolvimento,Em desativação,Crítica,2.8,Em tratamento,P2,4.0
+V01632,A0067,Sistema_67,Baixa,Homologação,Ativo,Crítica,9.5,Aberta,P2,4.0
+V01678,A0079,Sistema_79,Baixa,Desenvolvimento,Ativo,Crítica,2.9,Em tratamento,P2,4.0
+V01717,A0113,Sistema_113,Baixa,Produção,Ativo,Crítica,3.4,Em tratamento,P2,4.0
+V01736,A0124,Sistema_124,Baixa,Produção,Ativo,Crítica,3.0,Aberta,P2,4.0
+V01819,A0012,Sistema_12,Baixa,Desenvolvimento,Em desativação,Crítica,3.1,Aberta,P2,4.0
+V01850,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Crítica,6.4,Aberta,P2,4.0
+V01885,A0046,Sistema_46,Baixa,Homologação,Ativo,Crítica,1.1,Aberta,P2,4.0
+V01899,A0024,Sistema_24,Baixa,Produção,Ativo,Crítica,7.5,Em tratamento,P2,4.0
+V01911,A0075,Sistema_75,Baixa,Desenvolvimento,Ativo,Crítica,8.1,Em tratamento,P2,4.0
+V01922,A0054,Sistema_54,Baixa,Homologação,Ativo,Crítica,6.6,Aberta,P2,4.0
+V01994,A0124,Sistema_124,Baixa,Produção,Ativo,Crítica,4.2,Em tratamento,P2,4.0
+V01999,A0046,Sistema_46,Baixa,Homologação,Ativo,Crítica,9.0,Aberta,P2,4.0
+V00011,A0044,Sistema_44,Alta,Produção,Ativo,Alta,3.1,Aberta,P3,9.0
+V00047,A0167,Sistema_167,Alta,Produção,Ativo,Alta,2.6,Em tratamento,P3,9.0
+V00165,A0008,Sistema_8,Alta,Produção,Ativo,Alta,7.1,Aberta,P3,9.0
+V00173,A0190,Sistema_190,Alta,Homologação,Ativo,Alta,3.8,Em tratamento,P3,9.0
+V00199,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Alta,9.4,Aberta,P3,9.0
+V00223,A0167,Sistema_167,Alta,Produção,Ativo,Alta,5.9,Em tratamento,P3,9.0
+V00242,A0189,Sistema_189,Alta,Homologação,Em desativação,Alta,2.0,Aberta,P3,9.0
+V00314,A0167,Sistema_167,Alta,Produção,Ativo,Alta,9.9,Em tratamento,P3,9.0
+V00382,A0041,Sistema_41,Alta,Homologação,Em desativação,Alta,6.3,Aberta,P3,9.0
+V00396,A0063,Sistema_63,Alta,Homologação,Ativo,Alta,3.1,Aberta,P3,9.0
+V00444,A0169,Sistema_169,Alta,Homologação,Ativo,Alta,4.0,Em tratamento,P3,9.0
+V00457,A0155,Sistema_155,Alta,Produção,Ativo,Alta,0.4,Em tratamento,P3,9.0
+V00458,A0178,Sistema_178,Alta,Produção,Ativo,Alta,0.3,Aberta,P3,9.0
+V00460,A0129,Sistema_129,Alta,Homologação,Ativo,Alta,9.4,Aberta,P3,9.0
+V00531,A0052,Sistema_52,Alta,Produção,Ativo,Alta,6.1,Em tratamento,P3,9.0
+V00606,A0004,Sistema_4,Alta,Homologação,Ativo,Alta,9.1,Em tratamento,P3,9.0
+V00639,A0004,Sistema_4,Alta,Homologação,Ativo,Alta,8.8,Em tratamento,P3,9.0
+V00680,A0081,Sistema_81,Alta,Homologação,Ativo,Alta,4.4,Em tratamento,P3,9.0
+V00835,A0004,Sistema_4,Alta,Homologação,Ativo,Alta,5.7,Aberta,P3,9.0
+V00843,A0044,Sistema_44,Alta,Produção,Ativo,Alta,0.9,Em tratamento,P3,9.0
+V00857,A0020,Sistema_20,Alta,Produção,Em desativação,Alta,4.9,Em tratamento,P3,9.0
+V00881,A0197,Sistema_197,Alta,Homologação,Ativo,Alta,5.3,Aberta,P3,9.0
+V00999,A0157,Sistema_157,Alta,Desenvolvimento,Ativo,Alta,0.4,Aberta,P3,9.0
+V01039,A0043,Sistema_43,Alta,Produção,Ativo,Alta,7.5,Em tratamento,P3,9.0
+V01048,A0093,Sistema_93,Alta,Produção,Ativo,Alta,8.0,Aberta,P3,9.0
+V01132,A0173,Sistema_173,Alta,Produção,Ativo,Alta,3.4,Em tratamento,P3,9.0
+V01142,A0087,Sistema_87,Alta,Produção,Ativo,Alta,1.1,Aberta,P3,9.0
+V01189,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Alta,6.7,Em tratamento,P3,9.0
+V01191,A0120,Sistema_120,Alta,Produção,Ativo,Alta,1.4,Aberta,P3,9.0
+V01198,A0173,Sistema_173,Alta,Produção,Ativo,Alta,8.2,Aberta,P3,9.0
+V01205,A0081,Sistema_81,Alta,Homologação,Ativo,Alta,3.7,Em tratamento,P3,9.0
+V01209,A0120,Sistema_120,Alta,Produção,Ativo,Alta,5.4,Aberta,P3,9.0
+V01224,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Alta,6.0,Em tratamento,P3,9.0
+V01302,A0083,Sistema_83,Alta,Homologação,Em desativação,Alta,0.5,Em tratamento,P3,9.0
+V01339,A0004,Sistema_4,Alta,Homologação,Ativo,Alta,6.1,Em tratamento,P3,9.0
+V01344,A0008,Sistema_8,Alta,Produção,Ativo,Alta,5.4,Aberta,P3,9.0
+V01385,A0020,Sistema_20,Alta,Produção,Em desativação,Alta,2.3,Em tratamento,P3,9.0
+V01476,A0087,Sistema_87,Alta,Produção,Ativo,Alta,8.8,Aberta,P3,9.0
+V01530,A0155,Sistema_155,Alta,Produção,Ativo,Alta,4.7,Aberta,P3,9.0
+V01571,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Alta,0.8,Em tratamento,P3,9.0
+V01574,A0178,Sistema_178,Alta,Produção,Ativo,Alta,7.5,Aberta,P3,9.0
+V01585,A0173,Sistema_173,Alta,Produção,Ativo,Alta,3.1,Em tratamento,P3,9.0
+V01602,A0129,Sistema_129,Alta,Homologação,Ativo,Alta,2.0,Aberta,P3,9.0
+V01606,A0171,Sistema_171,Alta,Desenvolvimento,Em desativação,Alta,1.8,Aberta,P3,9.0
+V01616,A0158,Sistema_158,Alta,Desenvolvimento,Em desativação,Alta,2.6,Em tratamento,P3,9.0
+V01653,A0135,Sistema_135,Alta,Produção,Ativo,Alta,2.1,Aberta,P3,9.0
+V01654,A0178,Sistema_178,Alta,Produção,Ativo,Alta,4.7,Aberta,P3,9.0
+V01760,A0169,Sistema_169,Alta,Homologação,Ativo,Alta,3.0,Aberta,P3,9.0
+V01773,A0052,Sistema_52,Alta,Produção,Ativo,Alta,3.7,Em tratamento,P3,9.0
+V01788,A0004,Sistema_4,Alta,Homologação,Ativo,Alta,0.3,Aberta,P3,9.0
+V01900,A0120,Sistema_120,Alta,Produção,Ativo,Alta,7.4,Em tratamento,P3,9.0
+V01930,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Alta,6.1,Em tratamento,P3,9.0
+V01942,A0093,Sistema_93,Alta,Produção,Ativo,Alta,5.9,Em tratamento,P3,9.0
+V01948,A0135,Sistema_135,Alta,Produção,Ativo,Alta,0.2,Em tratamento,P3,9.0
+V01979,A0087,Sistema_87,Alta,Produção,Ativo,Alta,5.8,Em tratamento,P3,9.0
+V00019,A0090,Sistema_90,Crítica,Desenvolvimento,Ativo,Média,9.6,Em tratamento,P3,8.0
+V00041,A0199,Sistema_199,Crítica,Homologação,Ativo,Média,8.3,Em tratamento,P3,8.0
+V00061,A0069,Sistema_69,Crítica,Homologação,Ativo,Média,0.1,Em tratamento,P3,8.0
+V00062,A0066,Sistema_66,Crítica,Homologação,Ativo,Média,5.2,Aberta,P3,8.0
+V00130,A0098,Sistema_98,Crítica,Homologação,Ativo,Média,1.1,Em tratamento,P3,8.0
+V00136,A0055,Sistema_55,Crítica,Homologação,Ativo,Média,7.6,Aberta,P3,8.0
+V00137,A0115,Sistema_115,Crítica,Produção,Ativo,Média,0.6,Aberta,P3,8.0
+V00160,A0116,Sistema_116,Crítica,Produção,Ativo,Média,4.2,Em tratamento,P3,8.0
+V00174,A0069,Sistema_69,Crítica,Homologação,Ativo,Média,0.9,Em tratamento,P3,8.0
+V00182,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Média,3.8,Aberta,P3,8.0
+V00183,A0152,Sistema_152,Crítica,Homologação,Em desativação,Média,6.8,Aberta,P3,8.0
+V00250,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Média,9.8,Aberta,P3,8.0
+V00273,A0042,Sistema_42,Crítica,Desenvolvimento,Ativo,Média,4.2,Em tratamento,P3,8.0
+V00394,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Média,9.2,Aberta,P3,8.0
+V00438,A0161,Sistema_161,Crítica,Homologação,Em desativação,Média,3.1,Aberta,P3,8.0
+V00446,A0001,Sistema_1,Crítica,Homologação,Em desativação,Média,9.1,Em tratamento,P3,8.0
+V00462,A0102,Sistema_102,Crítica,Produção,Ativo,Média,5.8,Em tratamento,P3,8.0
+V00478,A0097,Sistema_97,Crítica,Homologação,Ativo,Média,9.0,Aberta,P3,8.0
+V00569,A0181,Sistema_181,Crítica,Produção,Em desativação,Média,9.0,Aberta,P3,8.0
+V00601,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Média,0.8,Aberta,P3,8.0
+V00627,A0159,Sistema_159,Crítica,Homologação,Ativo,Média,9.4,Em tratamento,P3,8.0
+V00630,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Média,0.7,Em tratamento,P3,8.0
+V00676,A0159,Sistema_159,Crítica,Homologação,Ativo,Média,3.1,Aberta,P3,8.0
+V00700,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Média,7.0,Aberta,P3,8.0
+V00702,A0001,Sistema_1,Crítica,Homologação,Em desativação,Média,7.8,Em tratamento,P3,8.0
+V00725,A0001,Sistema_1,Crítica,Homologação,Em desativação,Média,9.0,Aberta,P3,8.0
+V00744,A0164,Sistema_164,Crítica,Produção,Ativo,Média,9.7,Aberta,P3,8.0
+V00790,A0151,Sistema_151,Crítica,Produção,Ativo,Média,9.5,Em tratamento,P3,8.0
+V00867,A0042,Sistema_42,Crítica,Desenvolvimento,Ativo,Média,3.6,Aberta,P3,8.0
+V00879,A0116,Sistema_116,Crítica,Produção,Ativo,Média,5.1,Em tratamento,P3,8.0
+V00923,A0057,Sistema_57,Crítica,Homologação,Ativo,Média,5.9,Aberta,P3,8.0
+V00963,A0199,Sistema_199,Crítica,Homologação,Ativo,Média,4.2,Em tratamento,P3,8.0
+V01035,A0057,Sistema_57,Crítica,Homologação,Ativo,Média,1.0,Em tratamento,P3,8.0
+V01116,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Média,6.7,Aberta,P3,8.0
+V01144,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Média,4.8,Aberta,P3,8.0
+V01195,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Média,9.9,Em tratamento,P3,8.0
+V01217,A0064,Sistema_64,Crítica,Homologação,Ativo,Média,7.2,Em tratamento,P3,8.0
+V01267,A0163,Sistema_163,Crítica,Homologação,Em desativação,Média,1.8,Em tratamento,P3,8.0
+V01274,A0106,Sistema_106,Crítica,Desenvolvimento,Ativo,Média,5.0,Em tratamento,P3,8.0
+V01300,A0108,Sistema_108,Crítica,Desenvolvimento,Ativo,Média,6.4,Aberta,P3,8.0
+V01323,A0097,Sistema_97,Crítica,Homologação,Ativo,Média,7.5,Em tratamento,P3,8.0
+V01351,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Média,2.3,Em tratamento,P3,8.0
+V01354,A0116,Sistema_116,Crítica,Produção,Ativo,Média,7.3,Em tratamento,P3,8.0
+V01403,A0141,Sistema_141,Crítica,Produção,Ativo,Média,3.7,Aberta,P3,8.0
+V01410,A0121,Sistema_121,Crítica,Homologação,Ativo,Média,4.9,Em tratamento,P3,8.0
+V01467,A0091,Sistema_91,Crítica,Desenvolvimento,Em desativação,Média,6.5,Aberta,P3,8.0
+V01495,A0073,Sistema_73,Crítica,Desenvolvimento,Em desativação,Média,3.6,Aberta,P3,8.0
+V01521,A0132,Sistema_132,Crítica,Desenvolvimento,Ativo,Média,8.6,Em tratamento,P3,8.0
+V01522,A0066,Sistema_66,Crítica,Homologação,Ativo,Média,0.2,Aberta,P3,8.0
+V01525,A0111,Sistema_111,Crítica,Produção,Ativo,Média,9.8,Em tratamento,P3,8.0
+V01607,A0098,Sistema_98,Crítica,Homologação,Ativo,Média,3.4,Em tratamento,P3,8.0
+V01634,A0042,Sistema_42,Crítica,Desenvolvimento,Ativo,Média,6.7,Aberta,P3,8.0
+V01686,A0088,Sistema_88,Crítica,Homologação,Ativo,Média,5.6,Em tratamento,P3,8.0
+V01756,A0151,Sistema_151,Crítica,Produção,Ativo,Média,1.2,Em tratamento,P3,8.0
+V01793,A0057,Sistema_57,Crítica,Homologação,Ativo,Média,9.4,Em tratamento,P3,8.0
+V01810,A0102,Sistema_102,Crítica,Produção,Ativo,Média,2.3,Aberta,P3,8.0
+V01826,A0111,Sistema_111,Crítica,Produção,Ativo,Média,8.8,Em tratamento,P3,8.0
+V01829,A0115,Sistema_115,Crítica,Produção,Ativo,Média,8.1,Em tratamento,P3,8.0
+V01917,A0091,Sistema_91,Crítica,Desenvolvimento,Em desativação,Média,8.3,Aberta,P3,8.0
+V01974,A0030,Sistema_30,Crítica,Desenvolvimento,Ativo,Média,3.6,Aberta,P3,8.0
+V00151,A0200,Sistema_200,Alta,Homologação,Ativo,Média,0.5,Em tratamento,P3,6.0
+V00156,A0122,Sistema_122,Alta,Produção,Ativo,Média,8.3,Aberta,P3,6.0
+V00159,A0137,Sistema_137,Alta,Desenvolvimento,Ativo,Média,3.7,Aberta,P3,6.0
+V00167,A0041,Sistema_41,Alta,Homologação,Em desativação,Média,2.7,Aberta,P3,6.0
+V00232,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Média,5.3,Em tratamento,P3,6.0
+V00241,A0095,Sistema_95,Alta,Homologação,Ativo,Média,7.4,Em tratamento,P3,6.0
+V00265,A0197,Sistema_197,Alta,Homologação,Ativo,Média,4.7,Aberta,P3,6.0
+V00274,A0120,Sistema_120,Alta,Produção,Ativo,Média,2.6,Aberta,P3,6.0
+V00301,A0173,Sistema_173,Alta,Produção,Ativo,Média,3.7,Em tratamento,P3,6.0
+V00370,A0004,Sistema_4,Alta,Homologação,Ativo,Média,3.2,Aberta,P3,6.0
+V00418,A0148,Sistema_148,Alta,Produção,Ativo,Média,7.1,Aberta,P3,6.0
+V00527,A0004,Sistema_4,Alta,Homologação,Ativo,Média,5.2,Em tratamento,P3,6.0
+V00561,A0195,Sistema_195,Alta,Produção,Ativo,Média,7.3,Aberta,P3,6.0
+V00599,A0190,Sistema_190,Alta,Homologação,Ativo,Média,7.2,Em tratamento,P3,6.0
+V00655,A0120,Sistema_120,Alta,Produção,Ativo,Média,9.0,Aberta,P3,6.0
+V00665,A0043,Sistema_43,Alta,Produção,Ativo,Média,9.7,Em tratamento,P3,6.0
+V00681,A0008,Sistema_8,Alta,Produção,Ativo,Média,8.1,Aberta,P3,6.0
+V00684,A0020,Sistema_20,Alta,Produção,Em desativação,Média,6.5,Aberta,P3,6.0
+V00685,A0158,Sistema_158,Alta,Desenvolvimento,Em desativação,Média,3.5,Aberta,P3,6.0
+V00694,A0020,Sistema_20,Alta,Produção,Em desativação,Média,4.5,Em tratamento,P3,6.0
+V00705,A0020,Sistema_20,Alta,Produção,Em desativação,Média,4.2,Em tratamento,P3,6.0
+V00727,A0059,Sistema_59,Alta,Desenvolvimento,Ativo,Média,0.1,Aberta,P3,6.0
+V00760,A0137,Sistema_137,Alta,Desenvolvimento,Ativo,Média,8.2,Em tratamento,P3,6.0
+V00830,A0173,Sistema_173,Alta,Produção,Ativo,Média,3.3,Em tratamento,P3,6.0
+V00884,A0114,Sistema_114,Alta,Produção,Ativo,Média,1.3,Em tratamento,P3,6.0
+V00892,A0135,Sistema_135,Alta,Produção,Ativo,Média,5.8,Aberta,P3,6.0
+V00898,A0189,Sistema_189,Alta,Homologação,Em desativação,Média,1.8,Aberta,P3,6.0
+V00902,A0083,Sistema_83,Alta,Homologação,Em desativação,Média,3.6,Aberta,P3,6.0
+V01013,A0005,Sistema_5,Alta,Produção,Ativo,Média,5.1,Em tratamento,P3,6.0
+V01027,A0200,Sistema_200,Alta,Homologação,Ativo,Média,9.1,Em tratamento,P3,6.0
+V01053,A0148,Sistema_148,Alta,Produção,Ativo,Média,1.9,Aberta,P3,6.0
+V01127,A0092,Sistema_92,Alta,Homologação,Em desativação,Média,6.0,Em tratamento,P3,6.0
+V01146,A0092,Sistema_92,Alta,Homologação,Em desativação,Média,2.5,Em tratamento,P3,6.0
+V01147,A0083,Sistema_83,Alta,Homologação,Em desativação,Média,5.1,Aberta,P3,6.0
+V01214,A0195,Sistema_195,Alta,Produção,Ativo,Média,0.9,Em tratamento,P3,6.0
+V01279,A0169,Sistema_169,Alta,Homologação,Ativo,Média,2.8,Em tratamento,P3,6.0
+V01285,A0081,Sistema_81,Alta,Homologação,Ativo,Média,9.2,Aberta,P3,6.0
+V01313,A0103,Sistema_103,Alta,Homologação,Ativo,Média,4.4,Em tratamento,P3,6.0
+V01320,A0148,Sistema_148,Alta,Produção,Ativo,Média,10.0,Aberta,P3,6.0
+V01333,A0095,Sistema_95,Alta,Homologação,Ativo,Média,3.6,Em tratamento,P3,6.0
+V01369,A0197,Sistema_197,Alta,Homologação,Ativo,Média,6.8,Aberta,P3,6.0
+V01396,A0158,Sistema_158,Alta,Desenvolvimento,Em desativação,Média,7.3,Em tratamento,P3,6.0
+V01411,A0195,Sistema_195,Alta,Produção,Ativo,Média,7.8,Em tratamento,P3,6.0
+V01425,A0173,Sistema_173,Alta,Produção,Ativo,Média,8.4,Em tratamento,P3,6.0
+V01509,A0137,Sistema_137,Alta,Desenvolvimento,Ativo,Média,6.1,Aberta,P3,6.0
+V01510,A0087,Sistema_87,Alta,Produção,Ativo,Média,5.4,Aberta,P3,6.0
+V01553,A0092,Sistema_92,Alta,Homologação,Em desativação,Média,3.9,Aberta,P3,6.0
+V01579,A0173,Sistema_173,Alta,Produção,Ativo,Média,1.8,Em tratamento,P3,6.0
+V01713,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Média,1.3,Aberta,P3,6.0
+V01749,A0008,Sistema_8,Alta,Produção,Ativo,Média,9.9,Em tratamento,P3,6.0
+V01751,A0129,Sistema_129,Alta,Homologação,Ativo,Média,6.2,Aberta,P3,6.0
+V01854,A0077,Sistema_77,Alta,Produção,Ativo,Média,9.4,Em tratamento,P3,6.0
+V01861,A0155,Sistema_155,Alta,Produção,Ativo,Média,2.2,Em tratamento,P3,6.0
+V01882,A0178,Sistema_178,Alta,Produção,Ativo,Média,0.3,Aberta,P3,6.0
+V01936,A0099,Sistema_99,Alta,Produção,Ativo,Média,1.1,Aberta,P3,6.0
+V01953,A0100,Sistema_100,Alta,Produção,Ativo,Média,0.6,Aberta,P3,6.0
+V01993,A0148,Sistema_148,Alta,Produção,Ativo,Média,5.2,Em tratamento,P3,6.0
+V00001,A0078,Sistema_78,Crítica,Homologação,Ativo,Baixa,2.8,Em tratamento,P3,4.0
+V00015,A0078,Sistema_78,Crítica,Homologação,Ativo,Baixa,3.3,Em tratamento,P3,4.0
+V00017,A0037,Sistema_37,Média,Homologação,Ativo,Média,8.1,Em tratamento,P3,4.0
+V00018,A0188,Sistema_188,Crítica,Desenvolvimento,Ativo,Baixa,4.9,Aberta,P3,4.0
+V00036,A0050,Sistema_50,Média,Homologação,Em desativação,Média,8.3,Em tratamento,P3,4.0
+V00038,A0101,Sistema_101,Média,Desenvolvimento,Ativo,Média,0.9,Em tratamento,P3,4.0
+V00048,A0036,Sistema_36,Crítica,Homologação,Em desativação,Baixa,0.7,Em tratamento,P3,4.0
+V00053,A0199,Sistema_199,Crítica,Homologação,Ativo,Baixa,0.3,Aberta,P3,4.0
+V00072,A0064,Sistema_64,Crítica,Homologação,Ativo,Baixa,3.2,Em tratamento,P3,4.0
+V00074,A0036,Sistema_36,Crítica,Homologação,Em desativação,Baixa,7.3,Em tratamento,P3,4.0
+V00076,A0150,Sistema_150,Média,Homologação,Ativo,Média,9.3,Em tratamento,P3,4.0
+V00078,A0101,Sistema_101,Média,Desenvolvimento,Ativo,Média,8.6,Aberta,P3,4.0
+V00083,A0057,Sistema_57,Crítica,Homologação,Ativo,Baixa,3.2,Em tratamento,P3,4.0
+V00096,A0194,Sistema_194,Crítica,Desenvolvimento,Em desativação,Baixa,8.6,Em tratamento,P3,4.0
+V00157,A0094,Sistema_94,Média,Produção,Ativo,Média,6.4,Aberta,P3,4.0
+V00206,A0184,Sistema_184,Crítica,Produção,Em desativação,Baixa,8.4,Aberta,P3,4.0
+V00217,A0057,Sistema_57,Crítica,Homologação,Ativo,Baixa,4.5,Aberta,P3,4.0
+V00219,A0156,Sistema_156,Média,Produção,Ativo,Média,1.0,Aberta,P3,4.0
+V00260,A0078,Sistema_78,Crítica,Homologação,Ativo,Baixa,7.1,Aberta,P3,4.0
+V00261,A0142,Sistema_142,Média,Homologação,Ativo,Média,9.2,Aberta,P3,4.0
+V00302,A0070,Sistema_70,Média,Homologação,Ativo,Média,4.0,Em tratamento,P3,4.0
+V00322,A0117,Sistema_117,Média,Homologação,Ativo,Média,2.0,Em tratamento,P3,4.0
+V00327,A0186,Sistema_186,Média,Desenvolvimento,Ativo,Média,0.6,Em tratamento,P3,4.0
+V00360,A0184,Sistema_184,Crítica,Produção,Em desativação,Baixa,3.1,Aberta,P3,4.0
+V00413,A0080,Sistema_80,Crítica,Produção,Ativo,Baixa,2.6,Em tratamento,P3,4.0
+V00415,A0033,Sistema_33,Média,Homologação,Ativo,Média,9.3,Aberta,P3,4.0
+V00422,A0164,Sistema_164,Crítica,Produção,Ativo,Baixa,2.0,Em tratamento,P3,4.0
+V00455,A0061,Sistema_61,Crítica,Homologação,Ativo,Baixa,9.2,Aberta,P3,4.0
+V00470,A0018,Sistema_18,Média,Produção,Ativo,Média,6.3,Em tratamento,P3,4.0
+V00476,A0193,Sistema_193,Média,Produção,Em desativação,Média,4.7,Em tratamento,P3,4.0
+V00516,A0001,Sistema_1,Crítica,Homologação,Em desativação,Baixa,5.8,Aberta,P3,4.0
+V00544,A0051,Sistema_51,Média,Produção,Ativo,Média,7.8,Em tratamento,P3,4.0
+V00551,A0071,Sistema_71,Média,Desenvolvimento,Ativo,Média,4.4,Em tratamento,P3,4.0
+V00609,A0098,Sistema_98,Crítica,Homologação,Ativo,Baixa,5.7,Em tratamento,P3,4.0
+V00618,A0152,Sistema_152,Crítica,Homologação,Em desativação,Baixa,7.3,Aberta,P3,4.0
+V00632,A0175,Sistema_175,Crítica,Homologação,Ativo,Baixa,6.0,Aberta,P3,4.0
+V00636,A0160,Sistema_160,Média,Desenvolvimento,Ativo,Média,6.9,Em tratamento,P3,4.0
+V00652,A0164,Sistema_164,Crítica,Produção,Ativo,Baixa,5.8,Aberta,P3,4.0
+V00653,A0194,Sistema_194,Crítica,Desenvolvimento,Em desativação,Baixa,2.5,Em tratamento,P3,4.0
+V00697,A0152,Sistema_152,Crítica,Homologação,Em desativação,Baixa,3.1,Em tratamento,P3,4.0
+V00706,A0199,Sistema_199,Crítica,Homologação,Ativo,Baixa,4.0,Em tratamento,P3,4.0
+V00743,A0057,Sistema_57,Crítica,Homologação,Ativo,Baixa,3.3,Em tratamento,P3,4.0
+V00754,A0064,Sistema_64,Crítica,Homologação,Ativo,Baixa,3.6,Aberta,P3,4.0
+V00770,A0170,Sistema_170,Média,Produção,Ativo,Média,9.2,Aberta,P3,4.0
+V00784,A0086,Sistema_86,Média,Produção,Ativo,Média,1.1,Aberta,P3,4.0
+V00791,A0086,Sistema_86,Média,Produção,Ativo,Média,9.3,Aberta,P3,4.0
+V00798,A0070,Sistema_70,Média,Homologação,Ativo,Média,3.5,Em tratamento,P3,4.0
+V00829,A0163,Sistema_163,Crítica,Homologação,Em desativação,Baixa,0.3,Aberta,P3,4.0
+V00845,A0090,Sistema_90,Crítica,Desenvolvimento,Ativo,Baixa,4.1,Aberta,P3,4.0
+V00866,A0018,Sistema_18,Média,Produção,Ativo,Média,2.3,Em tratamento,P3,4.0
+V00907,A0166,Sistema_166,Média,Desenvolvimento,Ativo,Média,8.1,Aberta,P3,4.0
+V00965,A0166,Sistema_166,Média,Desenvolvimento,Ativo,Média,4.4,Em tratamento,P3,4.0
+V00996,A0102,Sistema_102,Crítica,Produção,Ativo,Baixa,8.7,Em tratamento,P3,4.0
+V01051,A0160,Sistema_160,Média,Desenvolvimento,Ativo,Média,2.4,Em tratamento,P3,4.0
+V01093,A0121,Sistema_121,Crítica,Homologação,Ativo,Baixa,1.0,Aberta,P3,4.0
+V01097,A0104,Sistema_104,Crítica,Desenvolvimento,Em desativação,Baixa,7.8,Aberta,P3,4.0
+V01150,A0037,Sistema_37,Média,Homologação,Ativo,Média,5.0,Em tratamento,P3,4.0
+V01176,A0001,Sistema_1,Crítica,Homologação,Em desativação,Baixa,5.7,Aberta,P3,4.0
+V01182,A0115,Sistema_115,Crítica,Produção,Ativo,Baixa,3.3,Em tratamento,P3,4.0
+V01184,A0186,Sistema_186,Média,Desenvolvimento,Ativo,Média,7.4,Em tratamento,P3,4.0
+V01186,A0101,Sistema_101,Média,Desenvolvimento,Ativo,Média,2.9,Aberta,P3,4.0
+V01204,A0064,Sistema_64,Crítica,Homologação,Ativo,Baixa,5.1,Aberta,P3,4.0
+V01219,A0036,Sistema_36,Crítica,Homologação,Em desativação,Baixa,2.9,Aberta,P3,4.0
+V01222,A0193,Sistema_193,Média,Produção,Em desativação,Média,5.4,Aberta,P3,4.0
+V01270,A0055,Sistema_55,Crítica,Homologação,Ativo,Baixa,1.8,Aberta,P3,4.0
+V01286,A0151,Sistema_151,Crítica,Produção,Ativo,Baixa,6.0,Aberta,P3,4.0
+V01291,A0149,Sistema_149,Crítica,Desenvolvimento,Em desativação,Baixa,0.2,Em tratamento,P3,4.0
+V01321,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Média,2.5,Aberta,P3,4.0
+V01350,A0094,Sistema_94,Média,Produção,Ativo,Média,5.9,Em tratamento,P3,4.0
+V01358,A0073,Sistema_73,Crítica,Desenvolvimento,Em desativação,Baixa,2.7,Em tratamento,P3,4.0
+V01368,A0175,Sistema_175,Crítica,Homologação,Ativo,Baixa,5.6,Aberta,P3,4.0
+V01373,A0117,Sistema_117,Média,Homologação,Ativo,Média,7.0,Aberta,P3,4.0
+V01381,A0170,Sistema_170,Média,Produção,Ativo,Média,9.9,Aberta,P3,4.0
+V01400,A0102,Sistema_102,Crítica,Produção,Ativo,Baixa,3.7,Aberta,P3,4.0
+V01423,A0089,Sistema_89,Média,Produção,Ativo,Média,8.6,Aberta,P3,4.0
+V01430,A0146,Sistema_146,Crítica,Homologação,Em desativação,Baixa,7.3,Em tratamento,P3,4.0
+V01443,A0019,Sistema_19,Média,Homologação,Em desativação,Média,7.5,Aberta,P3,4.0
+V01445,A0080,Sistema_80,Crítica,Produção,Ativo,Baixa,3.2,Em tratamento,P3,4.0
+V01469,A0033,Sistema_33,Média,Homologação,Ativo,Média,8.5,Aberta,P3,4.0
+V01473,A0141,Sistema_141,Crítica,Produção,Ativo,Baixa,3.6,Em tratamento,P3,4.0
+V01486,A0088,Sistema_88,Crítica,Homologação,Ativo,Baixa,3.5,Em tratamento,P3,4.0
+V01520,A0150,Sistema_150,Média,Homologação,Ativo,Média,4.4,Aberta,P3,4.0
+V01528,A0193,Sistema_193,Média,Produção,Em desativação,Média,0.9,Aberta,P3,4.0
+V01544,A0070,Sistema_70,Média,Homologação,Ativo,Média,6.5,Aberta,P3,4.0
+V01563,A0019,Sistema_19,Média,Homologação,Em desativação,Média,3.2,Em tratamento,P3,4.0
+V01572,A0089,Sistema_89,Média,Produção,Ativo,Média,4.8,Em tratamento,P3,4.0
+V01599,A0037,Sistema_37,Média,Homologação,Ativo,Média,2.3,Aberta,P3,4.0
+V01615,A0108,Sistema_108,Crítica,Desenvolvimento,Ativo,Baixa,7.5,Em tratamento,P3,4.0
+V01629,A0097,Sistema_97,Crítica,Homologação,Ativo,Baixa,5.5,Aberta,P3,4.0
+V01681,A0125,Sistema_125,Média,Homologação,Em desativação,Média,4.4,Aberta,P3,4.0
+V01691,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Média,9.4,Aberta,P3,4.0
+V01721,A0025,Sistema_25,Média,Desenvolvimento,Ativo,Média,2.9,Em tratamento,P3,4.0
+V01740,A0036,Sistema_36,Crítica,Homologação,Em desativação,Baixa,4.7,Em tratamento,P3,4.0
+V01768,A0115,Sistema_115,Crítica,Produção,Ativo,Baixa,0.3,Em tratamento,P3,4.0
+V01776,A0111,Sistema_111,Crítica,Produção,Ativo,Baixa,8.3,Em tratamento,P3,4.0
+V01813,A0061,Sistema_61,Crítica,Homologação,Ativo,Baixa,8.3,Aberta,P3,4.0
+V01834,A0104,Sistema_104,Crítica,Desenvolvimento,Em desativação,Baixa,2.1,Aberta,P3,4.0
+V01851,A0128,Sistema_128,Média,Homologação,Ativo,Média,9.6,Aberta,P3,4.0
+V01890,A0088,Sistema_88,Crítica,Homologação,Ativo,Baixa,4.6,Aberta,P3,4.0
+V01897,A0194,Sistema_194,Crítica,Desenvolvimento,Em desativação,Baixa,1.9,Aberta,P3,4.0
+V01919,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Média,2.8,Em tratamento,P3,4.0
+V01940,A0199,Sistema_199,Crítica,Homologação,Ativo,Baixa,5.4,Aberta,P3,4.0
+V01957,A0146,Sistema_146,Crítica,Homologação,Em desativação,Baixa,6.0,Em tratamento,P3,4.0
+V01967,A0014,Sistema_14,Crítica,Homologação,Ativo,Baixa,7.7,Aberta,P3,4.0
+V01971,A0185,Sistema_185,Média,Produção,Ativo,Média,0.9,Em tratamento,P3,4.0
+V01992,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Média,7.5,Em tratamento,P3,4.0
+V01996,A0128,Sistema_128,Média,Homologação,Ativo,Média,7.6,Aberta,P3,4.0
+V00010,A0173,Sistema_173,Alta,Produção,Ativo,Baixa,1.7,Em tratamento,P3,3.0
+V00031,A0197,Sistema_197,Alta,Homologação,Ativo,Baixa,1.8,Aberta,P3,3.0
+V00039,A0096,Sistema_96,Baixa,Produção,Ativo,Alta,8.6,Aberta,P3,3.0
+V00080,A0056,Sistema_56,Baixa,Produção,Ativo,Alta,1.9,Em tratamento,P3,3.0
+V00097,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Baixa,2.1,Aberta,P3,3.0
+V00099,A0192,Sistema_192,Baixa,Homologação,Em desativação,Alta,5.6,Aberta,P3,3.0
+V00105,A0079,Sistema_79,Baixa,Desenvolvimento,Ativo,Alta,2.9,Aberta,P3,3.0
+V00123,A0013,Sistema_13,Baixa,Indefinido,Ativo,Alta,8.1,Em tratamento,P3,3.0
+V00147,A0005,Sistema_5,Alta,Produção,Ativo,Baixa,6.7,Aberta,P3,3.0
+V00154,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Alta,6.9,Aberta,P3,3.0
+V00181,A0120,Sistema_120,Alta,Produção,Ativo,Baixa,5.4,Aberta,P3,3.0
+V00220,A0182,Sistema_182,Baixa,Desenvolvimento,Ativo,Alta,9.5,Aberta,P3,3.0
+V00240,A0127,Sistema_127,Baixa,Homologação,Ativo,Alta,0.4,Aberta,P3,3.0
+V00251,A0127,Sistema_127,Baixa,Homologação,Ativo,Alta,1.1,Em tratamento,P3,3.0
+V00264,A0200,Sistema_200,Alta,Homologação,Ativo,Baixa,7.8,Aberta,P3,3.0
+V00304,A0075,Sistema_75,Baixa,Desenvolvimento,Ativo,Alta,1.4,Aberta,P3,3.0
+V00313,A0058,Sistema_58,Baixa,Homologação,Ativo,Alta,7.5,Aberta,P3,3.0
+V00328,A0093,Sistema_93,Alta,Produção,Ativo,Baixa,0.6,Aberta,P3,3.0
+V00332,A0087,Sistema_87,Alta,Produção,Ativo,Baixa,8.9,Aberta,P3,3.0
+V00347,A0054,Sistema_54,Baixa,Homologação,Ativo,Alta,1.1,Em tratamento,P3,3.0
+V00348,A0076,Sistema_76,Baixa,Produção,Ativo,Alta,2.2,Em tratamento,P3,3.0
+V00366,A0007,Sistema_7,Baixa,Produção,Ativo,Alta,9.3,Em tratamento,P3,3.0
+V00373,A0067,Sistema_67,Baixa,Homologação,Ativo,Alta,5.6,Em tratamento,P3,3.0
+V00376,A0099,Sistema_99,Alta,Produção,Ativo,Baixa,2.7,Aberta,P3,3.0
+V00385,A0027,Sistema_27,Baixa,Produção,Ativo,Alta,3.9,Em tratamento,P3,3.0
+V00388,A0109,Sistema_109,Baixa,Desenvolvimento,Ativo,Alta,3.7,Em tratamento,P3,3.0
+V00401,A0074,Sistema_74,Baixa,Produção,Em desativação,Alta,1.5,Em tratamento,P3,3.0
+V00428,A0075,Sistema_75,Baixa,Desenvolvimento,Ativo,Alta,3.8,Aberta,P3,3.0
+V00433,A0087,Sistema_87,Alta,Produção,Ativo,Baixa,2.7,Em tratamento,P3,3.0
+V00450,A0020,Sistema_20,Alta,Produção,Em desativação,Baixa,2.8,Aberta,P3,3.0
+V00464,A0058,Sistema_58,Baixa,Homologação,Ativo,Alta,9.7,Em tratamento,P3,3.0
+V00493,A0024,Sistema_24,Baixa,Produção,Ativo,Alta,5.7,Em tratamento,P3,3.0
+V00503,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Alta,5.9,Em tratamento,P3,3.0
+V00548,A0084,Sistema_84,Alta,Desenvolvimento,Em desativação,Baixa,5.8,Aberta,P3,3.0
+V00579,A0027,Sistema_27,Baixa,Produção,Ativo,Alta,0.2,Aberta,P3,3.0
+V00582,A0198,Sistema_198,Baixa,Desenvolvimento,Em desativação,Alta,6.6,Aberta,P3,3.0
+V00604,A0084,Sistema_84,Alta,Desenvolvimento,Em desativação,Baixa,7.1,Aberta,P3,3.0
+V00607,A0124,Sistema_124,Baixa,Produção,Ativo,Alta,7.3,Em tratamento,P3,3.0
+V00619,A0067,Sistema_67,Baixa,Homologação,Ativo,Alta,9.0,Em tratamento,P3,3.0
+V00648,A0157,Sistema_157,Alta,Desenvolvimento,Ativo,Baixa,10.0,Em tratamento,P3,3.0
+V00649,A0077,Sistema_77,Alta,Produção,Ativo,Baixa,0.9,Aberta,P3,3.0
+V00656,A0131,Sistema_131,Baixa,Produção,Ativo,Alta,6.1,Aberta,P3,3.0
+V00658,A0009,Sistema_9,Baixa,Desenvolvimento,Ativo,Alta,8.4,Aberta,P3,3.0
+V00659,A0138,Sistema_138,Baixa,Desenvolvimento,Em desativação,Alta,4.9,Aberta,P3,3.0
+V00677,A0054,Sistema_54,Baixa,Homologação,Ativo,Alta,9.4,Em tratamento,P3,3.0
+V00679,A0074,Sistema_74,Baixa,Produção,Em desativação,Alta,6.5,Aberta,P3,3.0
+V00682,A0021,Sistema_21,Baixa,Produção,Ativo,Alta,1.4,Em tratamento,P3,3.0
+V00699,A0178,Sistema_178,Alta,Produção,Ativo,Baixa,2.0,Aberta,P3,3.0
+V00729,A0178,Sistema_178,Alta,Produção,Ativo,Baixa,9.0,Em tratamento,P3,3.0
+V00731,A0007,Sistema_7,Baixa,Produção,Ativo,Alta,3.0,Aberta,P3,3.0
+V00733,A0100,Sistema_100,Alta,Produção,Ativo,Baixa,1.9,Aberta,P3,3.0
+V00769,A0172,Sistema_172,Baixa,Homologação,Ativo,Alta,6.7,Aberta,P3,3.0
+V00789,A0179,Sistema_179,Baixa,Desenvolvimento,Em desativação,Alta,0.6,Em tratamento,P3,3.0
+V00804,A0113,Sistema_113,Baixa,Produção,Ativo,Alta,2.4,Aberta,P3,3.0
+V00834,A0180,Sistema_180,Baixa,Desenvolvimento,Em desativação,Alta,6.1,Aberta,P3,3.0
+V00836,A0135,Sistema_135,Alta,Produção,Ativo,Baixa,5.8,Em tratamento,P3,3.0
+V00908,A0087,Sistema_87,Alta,Produção,Ativo,Baixa,8.9,Aberta,P3,3.0
+V00945,A0013,Sistema_13,Baixa,Indefinido,Ativo,Alta,1.8,Em tratamento,P3,3.0
+V00947,A0083,Sistema_83,Alta,Homologação,Em desativação,Baixa,9.7,Em tratamento,P3,3.0
+V00948,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Baixa,2.1,Aberta,P3,3.0
+V00984,A0032,Sistema_32,Baixa,Desenvolvimento,Ativo,Alta,0.5,Aberta,P3,3.0
+V00987,A0092,Sistema_92,Alta,Homologação,Em desativação,Baixa,8.4,Em tratamento,P3,3.0
+V00993,A0167,Sistema_167,Alta,Produção,Ativo,Baixa,6.0,Aberta,P3,3.0
+V00997,A0118,Sistema_118,Baixa,Produção,Ativo,Alta,8.5,Aberta,P3,3.0
+V00998,A0026,Sistema_26,Baixa,Produção,Ativo,Alta,7.3,Em tratamento,P3,3.0
+V01004,A0176,Sistema_176,Baixa,Produção,Ativo,Alta,9.2,Em tratamento,P3,3.0
+V01009,A0067,Sistema_67,Baixa,Homologação,Ativo,Alta,7.4,Aberta,P3,3.0
+V01059,A0024,Sistema_24,Baixa,Produção,Ativo,Alta,3.0,Em tratamento,P3,3.0
+V01061,A0005,Sistema_5,Alta,Produção,Ativo,Baixa,7.4,Aberta,P3,3.0
+V01070,A0031,Sistema_31,Alta,Desenvolvimento,Ativo,Baixa,4.6,Em tratamento,P3,3.0
+V01096,A0027,Sistema_27,Baixa,Produção,Ativo,Alta,0.7,Aberta,P3,3.0
+V01102,A0123,Sistema_123,Baixa,Produção,Ativo,Alta,4.0,Aberta,P3,3.0
+V01129,A0099,Sistema_99,Alta,Produção,Ativo,Baixa,1.1,Em tratamento,P3,3.0
+V01133,A0109,Sistema_109,Baixa,Desenvolvimento,Ativo,Alta,2.4,Em tratamento,P3,3.0
+V01136,A0167,Sistema_167,Alta,Produção,Ativo,Baixa,4.6,Em tratamento,P3,3.0
+V01162,A0081,Sistema_81,Alta,Homologação,Ativo,Baixa,9.2,Aberta,P3,3.0
+V01163,A0022,Sistema_22,Baixa,Produção,Ativo,Alta,5.9,Aberta,P3,3.0
+V01172,A0044,Sistema_44,Alta,Produção,Ativo,Baixa,5.0,Em tratamento,P3,3.0
+V01178,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Alta,3.9,Em tratamento,P3,3.0
+V01193,A0005,Sistema_5,Alta,Produção,Ativo,Baixa,3.8,Em tratamento,P3,3.0
+V01196,A0173,Sistema_173,Alta,Produção,Ativo,Baixa,8.9,Aberta,P3,3.0
+V01200,A0010,Sistema_10,Baixa,Produção,Ativo,Alta,7.0,Em tratamento,P3,3.0
+V01207,A0024,Sistema_24,Baixa,Produção,Ativo,Alta,2.1,Aberta,P3,3.0
+V01221,A0173,Sistema_173,Alta,Produção,Ativo,Baixa,8.9,Aberta,P3,3.0
+V01241,A0024,Sistema_24,Baixa,Produção,Ativo,Alta,8.2,Em tratamento,P3,3.0
+V01262,A0158,Sistema_158,Alta,Desenvolvimento,Em desativação,Baixa,5.8,Em tratamento,P3,3.0
+V01337,A0083,Sistema_83,Alta,Homologação,Em desativação,Baixa,1.7,Em tratamento,P3,3.0
+V01365,A0099,Sistema_99,Alta,Produção,Ativo,Baixa,5.2,Em tratamento,P3,3.0
+V01377,A0103,Sistema_103,Alta,Homologação,Ativo,Baixa,6.4,Em tratamento,P3,3.0
+V01399,A0114,Sistema_114,Alta,Produção,Ativo,Baixa,4.0,Aberta,P3,3.0
+V01413,A0006,Sistema_6,Baixa,Produção,Ativo,Alta,4.9,Em tratamento,P3,3.0
+V01415,A0053,Sistema_53,Baixa,Homologação,Ativo,Alta,9.4,Em tratamento,P3,3.0
+V01439,A0148,Sistema_148,Alta,Produção,Ativo,Baixa,8.0,Aberta,P3,3.0
+V01444,A0093,Sistema_93,Alta,Produção,Ativo,Baixa,9.7,Em tratamento,P3,3.0
+V01459,A0099,Sistema_99,Alta,Produção,Ativo,Baixa,1.8,Aberta,P3,3.0
+V01475,A0077,Sistema_77,Alta,Produção,Ativo,Baixa,1.5,Aberta,P3,3.0
+V01494,A0046,Sistema_46,Baixa,Homologação,Ativo,Alta,0.2,Em tratamento,P3,3.0
+V01537,A0007,Sistema_7,Baixa,Produção,Ativo,Alta,8.8,Em tratamento,P3,3.0
+V01555,A0197,Sistema_197,Alta,Homologação,Ativo,Baixa,9.8,Em tratamento,P3,3.0
+V01559,A0096,Sistema_96,Baixa,Produção,Ativo,Alta,5.8,Aberta,P3,3.0
+V01597,A0062,Sistema_62,Baixa,Desenvolvimento,Em desativação,Alta,1.9,Em tratamento,P3,3.0
+V01600,A0016,Sistema_16,Baixa,Homologação,Ativo,Alta,2.5,Em tratamento,P3,3.0
+V01612,A0084,Sistema_84,Alta,Desenvolvimento,Em desativação,Baixa,2.7,Em tratamento,P3,3.0
+V01619,A0135,Sistema_135,Alta,Produção,Ativo,Baixa,8.8,Aberta,P3,3.0
+V01622,A0053,Sistema_53,Baixa,Homologação,Ativo,Alta,9.6,Em tratamento,P3,3.0
+V01633,A0052,Sistema_52,Alta,Produção,Ativo,Baixa,4.1,Em tratamento,P3,3.0
+V01641,A0044,Sistema_44,Alta,Produção,Ativo,Baixa,3.8,Em tratamento,P3,3.0
+V01642,A0172,Sistema_172,Baixa,Homologação,Ativo,Alta,9.4,Em tratamento,P3,3.0
+V01650,A0145,Sistema_145,Baixa,Desenvolvimento,Em desativação,Alta,3.7,Em tratamento,P3,3.0
+V01700,A0049,Sistema_49,Baixa,Homologação,Ativo,Alta,8.0,Aberta,P3,3.0
+V01712,A0085,Sistema_85,Baixa,Produção,Ativo,Alta,0.9,Aberta,P3,3.0
+V01730,A0134,Sistema_134,Baixa,Desenvolvimento,Ativo,Alta,8.0,Em tratamento,P3,3.0
+V01738,A0006,Sistema_6,Baixa,Produção,Ativo,Alta,6.4,Aberta,P3,3.0
+V01745,A0167,Sistema_167,Alta,Produção,Ativo,Baixa,7.1,Aberta,P3,3.0
+V01746,A0068,Sistema_68,Baixa,Desenvolvimento,Ativo,Alta,0.6,Em tratamento,P3,3.0
+V01752,A0135,Sistema_135,Alta,Produção,Ativo,Baixa,9.8,Aberta,P3,3.0
+V01811,A0137,Sistema_137,Alta,Desenvolvimento,Ativo,Baixa,9.4,Em tratamento,P3,3.0
+V01821,A0062,Sistema_62,Baixa,Desenvolvimento,Em desativação,Alta,7.1,Em tratamento,P3,3.0
+V01837,A0010,Sistema_10,Baixa,Produção,Ativo,Alta,2.8,Aberta,P3,3.0
+V01852,A0081,Sistema_81,Alta,Homologação,Ativo,Baixa,5.7,Em tratamento,P3,3.0
+V01858,A0068,Sistema_68,Baixa,Desenvolvimento,Ativo,Alta,9.1,Aberta,P3,3.0
+V01865,A0048,Sistema_48,Baixa,Produção,Ativo,Alta,2.0,Em tratamento,P3,3.0
+V01883,A0024,Sistema_24,Baixa,Produção,Ativo,Alta,4.7,Aberta,P3,3.0
+V01888,A0075,Sistema_75,Baixa,Desenvolvimento,Ativo,Alta,3.5,Aberta,P3,3.0
+V01905,A0157,Sistema_157,Alta,Desenvolvimento,Ativo,Baixa,5.8,Aberta,P3,3.0
+V01933,A0120,Sistema_120,Alta,Produção,Ativo,Baixa,4.7,Em tratamento,P3,3.0
+V01966,A0016,Sistema_16,Baixa,Homologação,Ativo,Alta,9.6,Aberta,P3,3.0
+V00016,A0019,Sistema_19,Média,Homologação,Em desativação,Baixa,6.4,Aberta,P3,2.0
+V00020,A0180,Sistema_180,Baixa,Desenvolvimento,Em desativação,Média,0.2,Aberta,P3,2.0
+V00025,A0060,Sistema_60,Média,Indefinido,Ativo,Baixa,9.6,Em tratamento,P3,2.0
+V00026,A0089,Sistema_89,Média,Produção,Ativo,Baixa,3.4,Aberta,P3,2.0
+V00033,A0038,Sistema_38,Média,Desenvolvimento,Ativo,Baixa,5.2,Em tratamento,P3,2.0
+V00034,A0011,Sistema_11,Baixa,Produção,Ativo,Média,0.3,Em tratamento,P3,2.0
+V00052,A0058,Sistema_58,Baixa,Homologação,Ativo,Média,6.4,Em tratamento,P3,2.0
+V00058,A0128,Sistema_128,Média,Homologação,Ativo,Baixa,1.2,Aberta,P3,2.0
+V00068,A0024,Sistema_24,Baixa,Produção,Ativo,Média,4.2,Aberta,P3,2.0
+V00073,A0138,Sistema_138,Baixa,Desenvolvimento,Em desativação,Média,6.9,Aberta,P3,2.0
+V00075,A0032,Sistema_32,Baixa,Desenvolvimento,Ativo,Média,1.1,Em tratamento,P3,2.0
+V00077,A0112,Sistema_112,Baixa,Homologação,Ativo,Média,8.9,Em tratamento,P3,2.0
+V00079,A0058,Sistema_58,Baixa,Homologação,Ativo,Média,0.8,Em tratamento,P3,2.0
+V00085,A0011,Sistema_11,Baixa,Produção,Ativo,Média,8.9,Em tratamento,P3,2.0
+V00094,A0150,Sistema_150,Média,Homologação,Ativo,Baixa,3.8,Aberta,P3,2.0
+V00135,A0021,Sistema_21,Baixa,Produção,Ativo,Média,7.7,Em tratamento,P3,2.0
+V00164,A0134,Sistema_134,Baixa,Desenvolvimento,Ativo,Média,6.0,Em tratamento,P3,2.0
+V00166,A0021,Sistema_21,Baixa,Produção,Ativo,Média,6.2,Aberta,P3,2.0
+V00180,A0124,Sistema_124,Baixa,Produção,Ativo,Média,6.5,Em tratamento,P3,2.0
+V00201,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Baixa,5.5,Em tratamento,P3,2.0
+V00202,A0013,Sistema_13,Baixa,Indefinido,Ativo,Média,7.1,Em tratamento,P3,2.0
+V00205,A0180,Sistema_180,Baixa,Desenvolvimento,Em desativação,Média,6.4,Em tratamento,P3,2.0
+V00207,A0110,Sistema_110,Baixa,Produção,Em desativação,Média,0.8,Em tratamento,P3,2.0
+V00233,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Baixa,4.9,Em tratamento,P3,2.0
+V00269,A0051,Sistema_51,Média,Produção,Ativo,Baixa,1.6,Em tratamento,P3,2.0
+V00280,A0131,Sistema_131,Baixa,Produção,Ativo,Média,3.4,Em tratamento,P3,2.0
+V00281,A0038,Sistema_38,Média,Desenvolvimento,Ativo,Baixa,0.8,Em tratamento,P3,2.0
+V00287,A0160,Sistema_160,Média,Desenvolvimento,Ativo,Baixa,1.8,Em tratamento,P3,2.0
+V00288,A0007,Sistema_7,Baixa,Produção,Ativo,Média,7.0,Aberta,P3,2.0
+V00311,A0027,Sistema_27,Baixa,Produção,Ativo,Média,3.2,Aberta,P3,2.0
+V00345,A0193,Sistema_193,Média,Produção,Em desativação,Baixa,6.1,Aberta,P3,2.0
+V00361,A0156,Sistema_156,Média,Produção,Ativo,Baixa,5.3,Em tratamento,P3,2.0
+V00377,A0145,Sistema_145,Baixa,Desenvolvimento,Em desativação,Média,5.9,Aberta,P3,2.0
+V00383,A0153,Sistema_153,Média,Desenvolvimento,Ativo,Baixa,6.0,Em tratamento,P3,2.0
+V00392,A0068,Sistema_68,Baixa,Desenvolvimento,Ativo,Média,3.1,Em tratamento,P3,2.0
+V00395,A0192,Sistema_192,Baixa,Homologação,Em desativação,Média,5.1,Em tratamento,P3,2.0
+V00421,A0119,Sistema_119,Média,Homologação,Em desativação,Baixa,8.5,Em tratamento,P3,2.0
+V00436,A0045,Sistema_45,Média,Desenvolvimento,Ativo,Baixa,3.6,Em tratamento,P3,2.0
+V00471,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Baixa,1.5,Em tratamento,P3,2.0
+V00497,A0196,Sistema_196,Baixa,Desenvolvimento,Ativo,Média,8.5,Aberta,P3,2.0
+V00507,A0150,Sistema_150,Média,Homologação,Ativo,Baixa,6.4,Aberta,P3,2.0
+V00509,A0196,Sistema_196,Baixa,Desenvolvimento,Ativo,Média,6.8,Aberta,P3,2.0
+V00514,A0040,Sistema_40,Média,Produção,Ativo,Baixa,2.2,Aberta,P3,2.0
+V00515,A0140,Sistema_140,Baixa,Desenvolvimento,Ativo,Média,2.8,Em tratamento,P3,2.0
+V00526,A0150,Sistema_150,Média,Homologação,Ativo,Baixa,1.9,Aberta,P3,2.0
+V00538,A0054,Sistema_54,Baixa,Homologação,Ativo,Média,6.8,Em tratamento,P3,2.0
+V00553,A0018,Sistema_18,Média,Produção,Ativo,Baixa,0.4,Em tratamento,P3,2.0
+V00559,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Baixa,4.8,Aberta,P3,2.0
+V00565,A0179,Sistema_179,Baixa,Desenvolvimento,Em desativação,Média,9.9,Aberta,P3,2.0
+V00578,A0053,Sistema_53,Baixa,Homologação,Ativo,Média,6.3,Em tratamento,P3,2.0
+V00587,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Média,6.5,Em tratamento,P3,2.0
+V00593,A0035,Sistema_35,Baixa,Produção,Em desativação,Média,1.1,Aberta,P3,2.0
+V00608,A0070,Sistema_70,Média,Homologação,Ativo,Baixa,0.8,Aberta,P3,2.0
+V00640,A0109,Sistema_109,Baixa,Desenvolvimento,Ativo,Média,2.1,Aberta,P3,2.0
+V00650,A0086,Sistema_86,Média,Produção,Ativo,Baixa,8.0,Em tratamento,P3,2.0
+V00688,A0060,Sistema_60,Média,Indefinido,Ativo,Baixa,2.6,Aberta,P3,2.0
+V00701,A0134,Sistema_134,Baixa,Desenvolvimento,Ativo,Média,5.7,Aberta,P3,2.0
+V00717,A0130,Sistema_130,Baixa,Produção,Ativo,Média,2.3,Aberta,P3,2.0
+V00750,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Baixa,9.5,Em tratamento,P3,2.0
+V00756,A0048,Sistema_48,Baixa,Produção,Ativo,Média,6.5,Em tratamento,P3,2.0
+V00780,A0038,Sistema_38,Média,Desenvolvimento,Ativo,Baixa,0.1,Aberta,P3,2.0
+V00808,A0072,Sistema_72,Baixa,Desenvolvimento,Ativo,Média,9.1,Em tratamento,P3,2.0
+V00809,A0075,Sistema_75,Baixa,Desenvolvimento,Ativo,Média,5.1,Em tratamento,P3,2.0
+V00812,A0193,Sistema_193,Média,Produção,Em desativação,Baixa,0.1,Em tratamento,P3,2.0
+V00827,A0125,Sistema_125,Média,Homologação,Em desativação,Baixa,3.3,Em tratamento,P3,2.0
+V00838,A0128,Sistema_128,Média,Homologação,Ativo,Baixa,0.7,Em tratamento,P3,2.0
+V00840,A0026,Sistema_26,Baixa,Produção,Ativo,Média,2.5,Aberta,P3,2.0
+V00849,A0079,Sistema_79,Baixa,Desenvolvimento,Ativo,Média,2.0,Em tratamento,P3,2.0
+V00852,A0180,Sistema_180,Baixa,Desenvolvimento,Em desativação,Média,3.5,Aberta,P3,2.0
+V00853,A0021,Sistema_21,Baixa,Produção,Ativo,Média,3.8,Aberta,P3,2.0
+V00878,A0127,Sistema_127,Baixa,Homologação,Ativo,Média,2.4,Em tratamento,P3,2.0
+V00883,A0068,Sistema_68,Baixa,Desenvolvimento,Ativo,Média,3.9,Em tratamento,P3,2.0
+V00890,A0024,Sistema_24,Baixa,Produção,Ativo,Média,0.4,Em tratamento,P3,2.0
+V00910,A0156,Sistema_156,Média,Produção,Ativo,Baixa,9.9,Aberta,P3,2.0
+V00915,A0038,Sistema_38,Média,Desenvolvimento,Ativo,Baixa,9.8,Em tratamento,P3,2.0
+V00916,A0109,Sistema_109,Baixa,Desenvolvimento,Ativo,Média,3.9,Em tratamento,P3,2.0
+V00918,A0142,Sistema_142,Média,Homologação,Ativo,Baixa,6.5,Em tratamento,P3,2.0
+V00924,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Baixa,4.6,Aberta,P3,2.0
+V00937,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Média,8.5,Em tratamento,P3,2.0
+V00957,A0196,Sistema_196,Baixa,Desenvolvimento,Ativo,Média,0.5,Em tratamento,P3,2.0
+V00991,A0182,Sistema_182,Baixa,Desenvolvimento,Ativo,Média,5.1,Em tratamento,P3,2.0
+V01018,A0174,Sistema_174,Média,Desenvolvimento,Em desativação,Baixa,8.4,Em tratamento,P3,2.0
+V01021,A0074,Sistema_74,Baixa,Produção,Em desativação,Média,8.6,Aberta,P3,2.0
+V01029,A0086,Sistema_86,Média,Produção,Ativo,Baixa,3.8,Aberta,P3,2.0
+V01046,A0047,Sistema_47,Média,Desenvolvimento,Ativo,Baixa,7.3,Aberta,P3,2.0
+V01080,A0038,Sistema_38,Média,Desenvolvimento,Ativo,Baixa,1.7,Aberta,P3,2.0
+V01086,A0110,Sistema_110,Baixa,Produção,Em desativação,Média,3.5,Em tratamento,P3,2.0
+V01110,A0007,Sistema_7,Baixa,Produção,Ativo,Média,4.4,Em tratamento,P3,2.0
+V01112,A0174,Sistema_174,Média,Desenvolvimento,Em desativação,Baixa,4.9,Em tratamento,P3,2.0
+V01118,A0033,Sistema_33,Média,Homologação,Ativo,Baixa,5.2,Aberta,P3,2.0
+V01125,A0186,Sistema_186,Média,Desenvolvimento,Ativo,Baixa,5.4,Em tratamento,P3,2.0
+V01154,A0050,Sistema_50,Média,Homologação,Em desativação,Baixa,1.3,Aberta,P3,2.0
+V01166,A0174,Sistema_174,Média,Desenvolvimento,Em desativação,Baixa,6.8,Aberta,P3,2.0
+V01192,A0143,Sistema_143,Média,Homologação,Ativo,Baixa,0.5,Em tratamento,P3,2.0
+V01226,A0112,Sistema_112,Baixa,Homologação,Ativo,Média,5.6,Em tratamento,P3,2.0
+V01256,A0079,Sistema_79,Baixa,Desenvolvimento,Ativo,Média,8.9,Aberta,P3,2.0
+V01259,A0125,Sistema_125,Média,Homologação,Em desativação,Baixa,4.9,Em tratamento,P3,2.0
+V01269,A0110,Sistema_110,Baixa,Produção,Em desativação,Média,6.1,Aberta,P3,2.0
+V01315,A0085,Sistema_85,Baixa,Produção,Ativo,Média,2.3,Aberta,P3,2.0
+V01327,A0113,Sistema_113,Baixa,Produção,Ativo,Média,3.4,Aberta,P3,2.0
+V01366,A0192,Sistema_192,Baixa,Homologação,Em desativação,Média,1.2,Aberta,P3,2.0
+V01379,A0060,Sistema_60,Média,Indefinido,Ativo,Baixa,7.5,Em tratamento,P3,2.0
+V01428,A0147,Sistema_147,Média,Desenvolvimento,Ativo,Baixa,5.7,Aberta,P3,2.0
+V01451,A0010,Sistema_10,Baixa,Produção,Ativo,Média,1.7,Em tratamento,P3,2.0
+V01466,A0026,Sistema_26,Baixa,Produção,Ativo,Média,8.6,Em tratamento,P3,2.0
+V01470,A0170,Sistema_170,Média,Produção,Ativo,Baixa,3.9,Em tratamento,P3,2.0
+V01471,A0192,Sistema_192,Baixa,Homologação,Em desativação,Média,3.4,Em tratamento,P3,2.0
+V01500,A0056,Sistema_56,Baixa,Produção,Ativo,Média,2.6,Em tratamento,P3,2.0
+V01502,A0049,Sistema_49,Baixa,Homologação,Ativo,Média,5.3,Em tratamento,P3,2.0
+V01507,A0071,Sistema_71,Média,Desenvolvimento,Ativo,Baixa,4.5,Em tratamento,P3,2.0
+V01511,A0075,Sistema_75,Baixa,Desenvolvimento,Ativo,Média,5.9,Aberta,P3,2.0
+V01519,A0060,Sistema_60,Média,Indefinido,Ativo,Baixa,0.4,Aberta,P3,2.0
+V01549,A0011,Sistema_11,Baixa,Produção,Ativo,Média,2.7,Aberta,P3,2.0
+V01558,A0029,Sistema_29,Média,Produção,Em desativação,Baixa,3.3,Em tratamento,P3,2.0
+V01560,A0113,Sistema_113,Baixa,Produção,Ativo,Média,0.3,Em tratamento,P3,2.0
+V01570,A0150,Sistema_150,Média,Homologação,Ativo,Baixa,1.5,Em tratamento,P3,2.0
+V01578,A0024,Sistema_24,Baixa,Produção,Ativo,Média,9.9,Em tratamento,P3,2.0
+V01581,A0029,Sistema_29,Média,Produção,Em desativação,Baixa,0.3,Aberta,P3,2.0
+V01584,A0032,Sistema_32,Baixa,Desenvolvimento,Ativo,Média,4.4,Aberta,P3,2.0
+V01594,A0068,Sistema_68,Baixa,Desenvolvimento,Ativo,Média,2.0,Aberta,P3,2.0
+V01603,A0079,Sistema_79,Baixa,Desenvolvimento,Ativo,Média,7.4,Aberta,P3,2.0
+V01610,A0145,Sistema_145,Baixa,Desenvolvimento,Em desativação,Média,4.7,Em tratamento,P3,2.0
+V01636,A0023,Sistema_23,Média,Desenvolvimento,Em desativação,Baixa,5.7,Aberta,P3,2.0
+V01690,A0180,Sistema_180,Baixa,Desenvolvimento,Em desativação,Média,1.5,Aberta,P3,2.0
+V01724,A0117,Sistema_117,Média,Homologação,Ativo,Baixa,0.9,Aberta,P3,2.0
+V01726,A0060,Sistema_60,Média,Indefinido,Ativo,Baixa,9.7,Em tratamento,P3,2.0
+V01747,A0118,Sistema_118,Baixa,Produção,Ativo,Média,5.3,Em tratamento,P3,2.0
+V01753,A0027,Sistema_27,Baixa,Produção,Ativo,Média,6.7,Em tratamento,P3,2.0
+V01787,A0153,Sistema_153,Média,Desenvolvimento,Ativo,Baixa,9.6,Aberta,P3,2.0
+V01804,A0119,Sistema_119,Média,Homologação,Em desativação,Baixa,9.7,Aberta,P3,2.0
+V01805,A0062,Sistema_62,Baixa,Desenvolvimento,Em desativação,Média,8.2,Aberta,P3,2.0
+V01820,A0003,Sistema_3,Média,Homologação,Ativo,Baixa,8.7,Em tratamento,P3,2.0
+V01824,A0018,Sistema_18,Média,Produção,Ativo,Baixa,2.3,Em tratamento,P3,2.0
+V01825,A0134,Sistema_134,Baixa,Desenvolvimento,Ativo,Média,3.7,Em tratamento,P3,2.0
+V01839,A0074,Sistema_74,Baixa,Produção,Em desativação,Média,5.5,Em tratamento,P3,2.0
+V01868,A0046,Sistema_46,Baixa,Homologação,Ativo,Média,4.9,Em tratamento,P3,2.0
+V01893,A0183,Sistema_183,Média,Produção,Ativo,Baixa,2.4,Aberta,P3,2.0
+V01898,A0010,Sistema_10,Baixa,Produção,Ativo,Média,9.0,Aberta,P3,2.0
+V01913,A0107,Sistema_107,Média,Desenvolvimento,Ativo,Baixa,7.3,Em tratamento,P3,2.0
+V01949,A0174,Sistema_174,Média,Desenvolvimento,Em desativação,Baixa,7.2,Aberta,P3,2.0
+V01952,A0162,Sistema_162,Média,Produção,Em desativação,Baixa,4.9,Aberta,P3,2.0
+V01956,A0160,Sistema_160,Média,Desenvolvimento,Ativo,Baixa,6.3,Em tratamento,P3,2.0
+V01963,A0068,Sistema_68,Baixa,Desenvolvimento,Ativo,Média,8.0,Em tratamento,P3,2.0
+V01970,A0117,Sistema_117,Média,Homologação,Ativo,Baixa,9.1,Aberta,P3,2.0
+V01978,A0139,Sistema_139,Média,Desenvolvimento,Em desativação,Baixa,6.5,Em tratamento,P3,2.0
+V00057,A0056,Sistema_56,Baixa,Produção,Ativo,Baixa,7.4,Em tratamento,P3,1.0
+V00081,A0021,Sistema_21,Baixa,Produção,Ativo,Baixa,9.5,Em tratamento,P3,1.0
+V00093,A0138,Sistema_138,Baixa,Desenvolvimento,Em desativação,Baixa,7.7,Em tratamento,P3,1.0
+V00176,A0021,Sistema_21,Baixa,Produção,Ativo,Baixa,3.8,Em tratamento,P3,1.0
+V00270,A0026,Sistema_26,Baixa,Produção,Ativo,Baixa,7.8,Em tratamento,P3,1.0
+V00329,A0127,Sistema_127,Baixa,Homologação,Ativo,Baixa,2.9,Em tratamento,P3,1.0
+V00330,A0054,Sistema_54,Baixa,Homologação,Ativo,Baixa,2.1,Aberta,P3,1.0
+V00343,A0027,Sistema_27,Baixa,Produção,Ativo,Baixa,3.9,Em tratamento,P3,1.0
+V00371,A0130,Sistema_130,Baixa,Produção,Ativo,Baixa,5.8,Aberta,P3,1.0
+V00412,A0074,Sistema_74,Baixa,Produção,Em desativação,Baixa,5.6,Aberta,P3,1.0
+V00431,A0130,Sistema_130,Baixa,Produção,Ativo,Baixa,4.5,Aberta,P3,1.0
+V00459,A0056,Sistema_56,Baixa,Produção,Ativo,Baixa,8.0,Em tratamento,P3,1.0
+V00498,A0192,Sistema_192,Baixa,Homologação,Em desativação,Baixa,1.9,Aberta,P3,1.0
+V00626,A0022,Sistema_22,Baixa,Produção,Ativo,Baixa,4.0,Aberta,P3,1.0
+V00638,A0085,Sistema_85,Baixa,Produção,Ativo,Baixa,9.2,Aberta,P3,1.0
+V00742,A0021,Sistema_21,Baixa,Produção,Ativo,Baixa,7.5,Em tratamento,P3,1.0
+V00747,A0124,Sistema_124,Baixa,Produção,Ativo,Baixa,5.3,Aberta,P3,1.0
+V00752,A0011,Sistema_11,Baixa,Produção,Ativo,Baixa,9.9,Aberta,P3,1.0
+V00759,A0072,Sistema_72,Baixa,Desenvolvimento,Ativo,Baixa,1.0,Aberta,P3,1.0
+V00816,A0027,Sistema_27,Baixa,Produção,Ativo,Baixa,7.0,Aberta,P3,1.0
+V00821,A0007,Sistema_7,Baixa,Produção,Ativo,Baixa,3.2,Em tratamento,P3,1.0
+V00837,A0062,Sistema_62,Baixa,Desenvolvimento,Em desativação,Baixa,7.1,Aberta,P3,1.0
+V00885,A0028,Sistema_28,Baixa,Produção,Em desativação,Baixa,6.6,Aberta,P3,1.0
+V00893,A0130,Sistema_130,Baixa,Produção,Ativo,Baixa,1.5,Aberta,P3,1.0
+V00896,A0138,Sistema_138,Baixa,Desenvolvimento,Em desativação,Baixa,8.7,Em tratamento,P3,1.0
+V00954,A0026,Sistema_26,Baixa,Produção,Ativo,Baixa,4.7,Em tratamento,P3,1.0
+V00985,A0007,Sistema_7,Baixa,Produção,Ativo,Baixa,3.0,Em tratamento,P3,1.0
+V00988,A0013,Sistema_13,Baixa,Indefinido,Ativo,Baixa,1.9,Aberta,P3,1.0
+V00994,A0054,Sistema_54,Baixa,Homologação,Ativo,Baixa,7.5,Aberta,P3,1.0
+V01010,A0009,Sistema_9,Baixa,Desenvolvimento,Ativo,Baixa,8.8,Aberta,P3,1.0
+V01012,A0198,Sistema_198,Baixa,Desenvolvimento,Em desativação,Baixa,7.1,Aberta,P3,1.0
+V01045,A0130,Sistema_130,Baixa,Produção,Ativo,Baixa,0.7,Aberta,P3,1.0
+V01052,A0013,Sistema_13,Baixa,Indefinido,Ativo,Baixa,2.7,Aberta,P3,1.0
+V01066,A0013,Sistema_13,Baixa,Indefinido,Ativo,Baixa,3.3,Em tratamento,P3,1.0
+V01088,A0032,Sistema_32,Baixa,Desenvolvimento,Ativo,Baixa,2.6,Aberta,P3,1.0
+V01208,A0012,Sistema_12,Baixa,Desenvolvimento,Em desativação,Baixa,0.1,Em tratamento,P3,1.0
+V01232,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Baixa,6.8,Aberta,P3,1.0
+V01326,A0145,Sistema_145,Baixa,Desenvolvimento,Em desativação,Baixa,7.8,Em tratamento,P3,1.0
+V01353,A0192,Sistema_192,Baixa,Homologação,Em desativação,Baixa,1.1,Em tratamento,P3,1.0
+V01389,A0179,Sistema_179,Baixa,Desenvolvimento,Em desativação,Baixa,0.5,Em tratamento,P3,1.0
+V01448,A0062,Sistema_62,Baixa,Desenvolvimento,Em desativação,Baixa,7.8,Aberta,P3,1.0
+V01480,A0035,Sistema_35,Baixa,Produção,Em desativação,Baixa,7.0,Aberta,P3,1.0
+V01501,A0096,Sistema_96,Baixa,Produção,Ativo,Baixa,5.7,Em tratamento,P3,1.0
+V01514,A0112,Sistema_112,Baixa,Homologação,Ativo,Baixa,1.3,Aberta,P3,1.0
+V01568,A0024,Sistema_24,Baixa,Produção,Ativo,Baixa,3.6,Em tratamento,P3,1.0
+V01627,A0131,Sistema_131,Baixa,Produção,Ativo,Baixa,0.6,Em tratamento,P3,1.0
+V01659,A0196,Sistema_196,Baixa,Desenvolvimento,Ativo,Baixa,9.6,Aberta,P3,1.0
+V01668,A0196,Sistema_196,Baixa,Desenvolvimento,Ativo,Baixa,4.5,Aberta,P3,1.0
+V01683,A0172,Sistema_172,Baixa,Homologação,Ativo,Baixa,1.4,Aberta,P3,1.0
+V01692,A0074,Sistema_74,Baixa,Produção,Em desativação,Baixa,9.0,Aberta,P3,1.0
+V01693,A0110,Sistema_110,Baixa,Produção,Em desativação,Baixa,8.8,Aberta,P3,1.0
+V01709,A0022,Sistema_22,Baixa,Produção,Ativo,Baixa,4.3,Em tratamento,P3,1.0
+V01711,A0096,Sistema_96,Baixa,Produção,Ativo,Baixa,6.6,Aberta,P3,1.0
+V01723,A0009,Sistema_9,Baixa,Desenvolvimento,Ativo,Baixa,8.0,Em tratamento,P3,1.0
+V01732,A0182,Sistema_182,Baixa,Desenvolvimento,Ativo,Baixa,5.2,Aberta,P3,1.0
+V01735,A0138,Sistema_138,Baixa,Desenvolvimento,Em desativação,Baixa,1.7,Em tratamento,P3,1.0
+V01802,A0113,Sistema_113,Baixa,Produção,Ativo,Baixa,7.1,Em tratamento,P3,1.0
+V01812,A0179,Sistema_179,Baixa,Desenvolvimento,Em desativação,Baixa,9.0,Em tratamento,P3,1.0
+V01818,A0133,Sistema_133,Baixa,Desenvolvimento,Em desativação,Baixa,5.3,Em tratamento,P3,1.0
+V01833,A0068,Sistema_68,Baixa,Desenvolvimento,Ativo,Baixa,0.1,Em tratamento,P3,1.0
+V01835,A0182,Sistema_182,Baixa,Desenvolvimento,Ativo,Baixa,5.4,Aberta,P3,1.0
+V01857,A0058,Sistema_58,Baixa,Homologação,Ativo,Baixa,7.7,Aberta,P3,1.0
+V01896,A0096,Sistema_96,Baixa,Produção,Ativo,Baixa,9.3,Em tratamento,P3,1.0
+V00051,A0017,Sistema_17,Indefinida,Produção,Ativo,Média,1.8,Em tratamento,P3,0.0
+V00059,A0017,Sistema_17,Indefinida,Produção,Ativo,Média,5.9,Em tratamento,P3,0.0
+V00069,A0187,Sistema_187,Indefinida,Homologação,Ativo,Média,6.7,Em tratamento,P3,0.0
+V00374,A0034,Sistema_34,Indefinida,Produção,Em desativação,Média,0.4,Em tratamento,P3,0.0
+V00406,A0034,Sistema_34,Indefinida,Produção,Em desativação,Crítica,9.3,Em tratamento,P3,0.0
+V00570,A0034,Sistema_34,Indefinida,Produção,Em desativação,Alta,3.4,Em tratamento,P3,0.0
+V00762,A0034,Sistema_34,Indefinida,Produção,Em desativação,Baixa,7.4,Em tratamento,P3,0.0
+V00783,A0187,Sistema_187,Indefinida,Homologação,Ativo,Crítica,6.8,Aberta,P3,0.0
+V00912,A0187,Sistema_187,Indefinida,Homologação,Ativo,Média,5.0,Aberta,P3,0.0
+V00946,A0017,Sistema_17,Indefinida,Produção,Ativo,Baixa,2.6,Em tratamento,P3,0.0
+V01082,A0187,Sistema_187,Indefinida,Homologação,Ativo,Baixa,5.7,Em tratamento,P3,0.0
+V01201,A0187,Sistema_187,Indefinida,Homologação,Ativo,Baixa,7.6,Em tratamento,P3,0.0
+V01231,A0017,Sistema_17,Indefinida,Produção,Ativo,Média,0.1,Em tratamento,P3,0.0
+V01336,A0034,Sistema_34,Indefinida,Produção,Em desativação,Crítica,3.5,Em tratamento,P3,0.0
+V01729,A0017,Sistema_17,Indefinida,Produção,Ativo,Baixa,0.8,Em tratamento,P3,0.0
+V01941,A0034,Sistema_34,Indefinida,Produção,Em desativação,Baixa,9.5,Em tratamento,P3,0.0
+V00046,A0101,Sistema_101,Média,Desenvolvimento,Ativo,,0.3,Em tratamento,Sem classificação,0.0
+V00253,A0032,Sistema_32,Baixa,Desenvolvimento,Ativo,,4.8,Em tratamento,Sem classificação,0.0
+V00276,A0021,Sistema_21,Baixa,Produção,Ativo,,8.9,Em tratamento,Sem classificação,0.0
+V00501,A9999,,,,,Crítica,4.7,Em tratamento,Sem classificação,0.0
+V00529,A0154,Sistema_154,Média,Desenvolvimento,Ativo,,4.7,Aberta,Sem classificação,0.0
+V00575,A0093,Sistema_93,Alta,Produção,Ativo,,1.2,Aberta,Sem classificação,0.0
+V00828,A0179,Sistema_179,Baixa,Desenvolvimento,Em desativação,,9.6,Em tratamento,Sem classificação,0.0
+V00874,A0150,Sistema_150,Média,Homologação,Ativo,,2.5,Aberta,Sem classificação,0.0
+V00897,A0174,Sistema_174,Média,Desenvolvimento,Em desativação,,9.7,Aberta,Sem classificação,0.0
+V00989,A0019,Sistema_19,Média,Homologação,Em desativação,,1.8,Em tratamento,Sem classificação,0.0
+V01702,A0088,Sistema_88,Crítica,Homologação,Ativo,,6.5,Em tratamento,Sem classificação,0.0
+V01817,A0194,Sistema_194,Crítica,Desenvolvimento,Em desativação,,7.5,Em tratamento,Sem classificação,0.0
+V01863,A0040,Sistema_40,Média,Produção,Ativo,,3.6,Aberta,Sem classificação,0.0
+V01909,A0045,Sistema_45,Média,Desenvolvimento,Ativo,,10.0,Em tratamento,Sem classificação,0.0
+V01955,A0166,Sistema_166,Média,Desenvolvimento,Ativo,,5.3,Em tratamento,Sem classificação,0.0
