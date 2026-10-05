@@ -1,0 +1,201 @@
+﻿ativo_id;sistema;criticidade;dominio;ambiente;localidade;status_ativo
+A0001;Sistema_1;Crítica;Dominio_2;Homologação;São Paulo;Em desativação
+A0002;Sistema_2;Média;Dominio_3;Produção;São Paulo;Em desativação
+A0003;Sistema_3;Média;Dominio_4;Homologação;São Paulo;Ativo
+A0004;Sistema_4;Alta;Dominio_5;Homologação;Campinas;Ativo
+A0005;Sistema_5;Alta;Dominio_6;Produção;Recife;Ativo
+A0006;Sistema_6;Baixa;Dominio_7;Produção;São Paulo;Ativo
+A0007;Sistema_7;Baixa;Dominio_8;Produção;São Paulo;Ativo
+A0008;Sistema_8;Alta;Dominio_9;Produção;São Paulo;Ativo
+A0009;Sistema_9;Baixa;Dominio_10;Desenvolvimento;Recife;Ativo
+A0010;Sistema_10;Baixa;Dominio_11;Produção;Campinas;Ativo
+A0011;Sistema_11;Baixa;Dominio_12;Produção;Campinas;Ativo
+A0012;Sistema_12;Baixa;Dominio_1;Desenvolvimento;Recife;Em desativação
+A0013;Sistema_13;Baixa;Dominio_2;;São Paulo;Ativo
+A0014;Sistema_14;Crítica;Dominio_3;Homologação;Campinas;Ativo
+A0015;Sistema_15;Média;Dominio_4;Homologação;Recife;Ativo
+A0016;Sistema_16;Baixa;Dominio_5;Homologação;Campinas;Ativo
+A0017;Sistema_17; ;Dominio_6;Produção;Campinas;Ativo
+A0018;Sistema_18;Média;Dominio_7;Produção;Recife;Ativo
+A0019;Sistema_19;Média;Dominio_8;Homologação;Curitiba;Em desativação
+A0020;Sistema_20;Alta;Dominio_9;Produção;Recife;Em desativação
+A0021;Sistema_21;Baixa;Dominio_10;Produção;São Paulo;Ativo
+A0022;Sistema_22;Baixa;Dominio_11;Produção;São Paulo;Ativo
+A0023;Sistema_23;Média;Dominio_12;Desenvolvimento;Campinas;Em desativação
+A0024;Sistema_24;Baixa;Dominio_1;Produção;São Paulo;Ativo
+A0025;Sistema_25;Média;Dominio_2;Desenvolvimento;São Paulo;Ativo
+A0026;Sistema_26;Baixa;Dominio_3;Produção;Recife;Ativo
+A0027;Sistema_27;Baixa;Dominio_4;Produção;Campinas;Ativo
+A0028;Sistema_28;Baixa;Dominio_5;Produção;Campinas;Em desativação
+A0029;Sistema_29;Média;Dominio_6;Produção;Curitiba;Em desativação
+A0030;Sistema_30;Crítica;Dominio_7;Desenvolvimento;Curitiba;Ativo
+A0031;Sistema_31;Alta;Dominio_8;Desenvolvimento;São Paulo;Ativo
+A0032;Sistema_32;Baixa;Dominio_9;Desenvolvimento;Campinas;Ativo
+A0033;Sistema_33;Média;Dominio_10;Homologação;Campinas;Ativo
+A0034;Sistema_34; ;Dominio_11;Produção;Curitiba;Em desativação
+A0035;Sistema_35;Baixa;Dominio_12;Produção;Curitiba;Em desativação
+A0036;Sistema_36;Crítica;Dominio_1;Homologação;Recife;Em desativação
+A0037;Sistema_37;Média;Dominio_2;Homologação;São Paulo;Ativo
+A0038;Sistema_38;Média;Dominio_3;Desenvolvimento;Curitiba;Ativo
+A0039;Sistema_39;Crítica;Dominio_4;Desenvolvimento;Campinas;Ativo
+A0040;Sistema_40;Média;Dominio_5;Produção;Campinas;Ativo
+A0041;Sistema_41;Alta;Dominio_6;Homologação;Campinas;Em desativação
+A0042;Sistema_42;Crítica;Dominio_7;Desenvolvimento;São Paulo;Ativo
+A0043;Sistema_43;Alta;Dominio_8;Produção;Curitiba;Ativo
+A0044;Sistema_44;Alta;Dominio_9;Produção;Campinas;Ativo
+A0045;Sistema_45;Média;Dominio_10;Desenvolvimento;Curitiba;Ativo
+A0046;Sistema_46;Baixa;Dominio_11;Homologação;Recife;Ativo
+A0047;Sistema_47;Média;Dominio_12;Desenvolvimento;Recife;Ativo
+A0048;Sistema_48;Baixa;Dominio_1;Produção;Curitiba;Ativo
+A0049;Sistema_49;Baixa;Dominio_2;Homologação;São Paulo;Ativo
+A0050;Sistema_50;Média;Dominio_3;Homologação;Campinas;Em desativação
+A0051;Sistema_51;media;Dominio_4;Produção;Recife;Ativo
+A0052;Sistema_52;Alta;Dominio_5;Produção;Recife;Ativo
+A0053;Sistema_53;Baixa;Dominio_6;Homologação;Campinas;Ativo
+A0054;Sistema_54;Baixa;Dominio_7;Homologação;São Paulo;Ativo
+A0055;Sistema_55;Crítica;Dominio_8;Homologação;Campinas;Ativo
+A0056;Sistema_56;Baixa;Dominio_9;Produção;Recife;Ativo
+A0057;Sistema_57;Crítica;Dominio_10;Homologação;Campinas;Ativo
+A0058;Sistema_58;Baixa;Dominio_11;Homologação;Recife;Ativo
+A0059;Sistema_59;Alta;Dominio_12;Desenvolvimento;Recife;Ativo
+A0060;Sistema_60;Média;Dominio_1;;Curitiba;Ativo
+A0061;Sistema_61;Crítica;Dominio_2;Homologação;Recife;Ativo
+A0062;Sistema_62;Baixa;Dominio_3;Desenvolvimento;São Paulo;Em desativação
+A0063;Sistema_63;Alta;Dominio_4;Homologação;Campinas;Ativo
+A0064;Sistema_64;Crítica;Dominio_5;Homologação;Campinas;Ativo
+A0065;Sistema_65;Média;Dominio_6;Desenvolvimento;Recife;Ativo
+A0066;Sistema_66;Crítica;Dominio_7;Homologação;Campinas;Ativo
+A0067;Sistema_67;Baixa;Dominio_8;Homologação;Recife;Ativo
+A0068;Sistema_68;BaixA;Dominio_9;Desenvolvimento;Curitiba;Ativo
+A0069;Sistema_69;Crítica;Dominio_10;Homologação;Curitiba;Ativo
+A0070;Sistema_70;Média;Dominio_11;Homologação;Recife;Ativo
+A0071;Sistema_71;Média;Dominio_12;Desenvolvimento;São Paulo;Ativo
+A0072;Sistema_72;Baixa;Dominio_1;Desenvolvimento;Campinas;Ativo
+A0073;Sistema_73;Crítica;Dominio_2;Desenvolvimento;Recife;Em desativação
+A0074;Sistema_74;Baixa;Dominio_3;Produção;São Paulo;Em desativação
+A0075;Sistema_75;Baixa;Dominio_4;Desenvolvimento;Campinas;Ativo
+A0076;Sistema_76;Baixa;Dominio_5;Produção;Curitiba;Ativo
+A0077;Sistema_77;Alta;Dominio_6;Produção;Curitiba;Ativo
+A0078;Sistema_78;Crítica;Dominio_7;Homologação;São Paulo;Ativo
+A0079;Sistema_79;Baixa;Dominio_8;Desenvolvimento;Campinas;Ativo
+A0080;Sistema_80;Crítica;Dominio_9;Produção;Recife;Ativo
+A0081;Sistema_81;Alta;Dominio_10;Homologação;São Paulo;Ativo
+A0082;Sistema_82;Média;Dominio_11;Produção;São Paulo;Ativo
+A0083;Sistema_83;Alta;Dominio_12;Homologação;Curitiba;Em desativação
+A0084;Sistema_84;Alta;Dominio_1;Desenvolvimento;Recife;Em desativação
+A0085;Sistema_85;BaixA;Dominio_2;Produção;Recife;Ativo
+A0086;Sistema_86;Média;Dominio_3;Produção;Recife;Ativo
+A0087;Sistema_87;Alta;Dominio_4;Produção;Recife;Ativo
+A0088;Sistema_88;Crítica;Dominio_5;Homologação;Campinas;Ativo
+A0089;Sistema_89;Média;Dominio_6;Produção;Recife;Ativo
+A0090;Sistema_90;Crítica;Dominio_7;Desenvolvimento;São Paulo;Ativo
+A0091;Sistema_91;Crítica;Dominio_8;Desenvolvimento;Curitiba;Em desativação
+A0092;Sistema_92;Alta;Dominio_9;Homologação;Curitiba;Em desativação
+A0093;Sistema_93;Alta;Dominio_10;Produção;Curitiba;Ativo
+A0094;Sistema_94;Média;Dominio_11;Produção;São Paulo;Ativo
+A0095;Sistema_95;Alta;Dominio_12;Homologação;Recife;Ativo
+A0096;Sistema_96;Baixa;Dominio_1;Produção;São Paulo;Ativo
+A0097;Sistema_97;Crítica;Dominio_2;Homologação;São Paulo;Ativo
+A0098;Sistema_98;Crítica;Dominio_3;Homologação;Recife;Ativo
+A0099;Sistema_99;Alta;Dominio_4;Produção;Recife;Ativo
+A0100;Sistema_100;Alta;Dominio_5;Produção;São Paulo;Ativo
+A0101;Sistema_101;Média;Dominio_6;Desenvolvimento;Recife;Ativo
+A0102;Sistema_102;critica;Dominio_7;Produção;São Paulo;Ativo
+A0103;Sistema_103;Alta;Dominio_8;Homologação;Curitiba;Ativo
+A0104;Sistema_104;Crítica;Dominio_9;Desenvolvimento;Campinas;Em desativação
+A0105;Sistema_105;Média;Dominio_10;Homologação;Curitiba;Em desativação
+A0106;Sistema_106;Crítica;Dominio_11;Desenvolvimento;Campinas;Ativo
+A0107;Sistema_107;Média;Dominio_12;Desenvolvimento;São Paulo;Ativo
+A0108;Sistema_108;Crítica;Dominio_1;Desenvolvimento;Campinas;Ativo
+A0109;Sistema_109;Baixa;Dominio_2;Desenvolvimento;Curitiba;Ativo
+A0110;Sistema_110;Baixa;Dominio_3;Produção;Curitiba;Em desativação
+A0111;Sistema_111;Crítica;Dominio_4;Produção;Curitiba;Ativo
+A0112;Sistema_112;Baixa;Dominio_5;Homologação;Campinas;Ativo
+A0113;Sistema_113;Baixa;Dominio_6;Produção;Campinas;Ativo
+A0114;Sistema_114;Alta;Dominio_7;Produção;Campinas;Ativo
+A0115;Sistema_115;Crítica;Dominio_8;Produção;São Paulo;Ativo
+A0116;Sistema_116;Crítica;Dominio_9;Produção;Campinas;Ativo
+A0117;Sistema_117;Média;Dominio_10;Homologação;Curitiba;Ativo
+A0118;Sistema_118;Baixa;Dominio_11;Produção;Campinas;Ativo
+A0119;Sistema_119;media;Dominio_12;Homologação;Campinas;Em desativação
+A0120;Sistema_120;Alta;Dominio_1;Produção;São Paulo;Ativo
+A0121;Sistema_121;Crítica;Dominio_2;Homologação;Recife;Ativo
+A0122;Sistema_122;Alta;Dominio_3;Produção;Recife;Ativo
+A0123;Sistema_123;Baixa;Dominio_4;Produção;Curitiba;Ativo
+A0124;Sistema_124;Baixa;Dominio_5;Produção;São Paulo;Ativo
+A0125;Sistema_125;Média;Dominio_6;Homologação;Curitiba;Em desativação
+A0126;Sistema_126;Média;Dominio_7;Produção;São Paulo;Ativo
+A0127;Sistema_127;Baixa;Dominio_8;Homologação;São Paulo;Ativo
+A0128;Sistema_128;Média;Dominio_9;Homologação;Campinas;Ativo
+A0129;Sistema_129;Alta;Dominio_10;Homologação;Campinas;Ativo
+A0130;Sistema_130;Baixa;Dominio_11;Produção;Recife;Ativo
+A0131;Sistema_131;Baixa;Dominio_12;Produção;Curitiba;Ativo
+A0132;Sistema_132;Crítica;Dominio_1;Desenvolvimento;Curitiba;Ativo
+A0133;Sistema_133;Baixa;Dominio_2;Desenvolvimento;Curitiba;Em desativação
+A0134;Sistema_134;Baixa;Dominio_3;Desenvolvimento;Campinas;Ativo
+A0135;Sistema_135;Alta;Dominio_4;Produção;Recife;Ativo
+A0136;Sistema_136;N/A;Dominio_5;Produção;Curitiba;Ativo
+A0137;Sistema_137;Alta;Dominio_6;Desenvolvimento;São Paulo;Ativo
+A0138;Sistema_138;Baixa;Dominio_7;Desenvolvimento;Recife;Em desativação
+A0139;Sistema_139;Média;Dominio_8;Desenvolvimento;Curitiba;Em desativação
+A0140;Sistema_140;Baixa;Dominio_9;Desenvolvimento;São Paulo;Ativo
+A0141;Sistema_141;Crítica;Dominio_10;Produção;Curitiba;Ativo
+A0142;Sistema_142;Média;Dominio_11;Homologação;Recife;Ativo
+A0143;Sistema_143;Média;Dominio_12;Homologação;Curitiba;Ativo
+A0144;Sistema_144;Crítica;Dominio_1;Desenvolvimento;Curitiba;Ativo
+A0145;Sistema_145;Baixa;Dominio_2;Desenvolvimento;Curitiba;Em desativação
+A0146;Sistema_146;Crítica;Dominio_3;Homologação;Campinas;Em desativação
+A0147;Sistema_147;Média;Dominio_4;Desenvolvimento;Campinas;Ativo
+A0148;Sistema_148;Alta;Dominio_5;Produção;São Paulo;Ativo
+A0149;Sistema_149;Crítica;Dominio_6;Desenvolvimento;São Paulo;Em desativação
+A0150;Sistema_150;Média;Dominio_7;Homologação;Curitiba;Ativo
+A0151;Sistema_151;Crítica;Dominio_8;Produção;Recife;Ativo
+A0152;Sistema_152;Crítica;Dominio_9;Homologação;Curitiba;Em desativação
+A0153;Sistema_153;media;Dominio_10;Desenvolvimento;Recife;Ativo
+A0154;Sistema_154;Média;Dominio_11;Desenvolvimento;Recife;Ativo
+A0155;Sistema_155;Alta;Dominio_12;Produção;São Paulo;Ativo
+A0156;Sistema_156;Média;Dominio_1;Produção;Curitiba;Ativo
+A0157;Sistema_157;Alta;Dominio_2;Desenvolvimento;Recife;Ativo
+A0158;Sistema_158;Alta;Dominio_3;Desenvolvimento;Curitiba;Em desativação
+A0159;Sistema_159;Crítica;Dominio_4;Homologação;Curitiba;Ativo
+A0160;Sistema_160;Média;Dominio_5;Desenvolvimento;Recife;Ativo
+A0161;Sistema_161;Crítica;Dominio_6;Homologação;Recife;Em desativação
+A0162;Sistema_162;Média;Dominio_7;Produção;Recife;Em desativação
+A0163;Sistema_163;Crítica;Dominio_8;Homologação;Recife;Em desativação
+A0164;Sistema_164;Crítica;Dominio_9;Produção;São Paulo;Ativo
+A0165;Sistema_165;Média;Dominio_10;Homologação;Curitiba;Em desativação
+A0166;Sistema_166;Média;Dominio_11;Desenvolvimento;Curitiba;Ativo
+A0167;Sistema_167;Alta;Dominio_12;Produção;Recife;Ativo
+A0168;Sistema_168;Baixa;Dominio_1;Homologação;São Paulo;Ativo
+A0169;Sistema_169;Alta;Dominio_2;Homologação;Campinas;Ativo
+A0170;Sistema_170;media;Dominio_3;Produção;São Paulo;Ativo
+A0171;Sistema_171;Alta;Dominio_4;Desenvolvimento;São Paulo;Em desativação
+A0172;Sistema_172;Baixa;Dominio_5;Homologação;Recife;Ativo
+A0173;Sistema_173;Alta;Dominio_6;Produção;Campinas;Ativo
+A0174;Sistema_174;Média;Dominio_7;Desenvolvimento;Recife;Em desativação
+A0175;Sistema_175;Crítica;Dominio_8;Homologação;São Paulo;Ativo
+A0176;Sistema_176;Baixa;Dominio_9;Produção;Curitiba;Ativo
+A0177;Sistema_177;Crítica;Dominio_10;Desenvolvimento;São Paulo;Ativo
+A0178;Sistema_178;Alta;Dominio_11;Produção;São Paulo;Ativo
+A0179;Sistema_179;Baixa;Dominio_12;Desenvolvimento;Recife;Em desativação
+A0180;Sistema_180;Baixa;Dominio_1;Desenvolvimento;São Paulo;Em desativação
+A0181;Sistema_181;Crítica;Dominio_2;Produção;Campinas;Em desativação
+A0182;Sistema_182;Baixa;Dominio_3;Desenvolvimento;Campinas;Ativo
+A0183;Sistema_183;Média;Dominio_4;Produção;Campinas;Ativo
+A0184;Sistema_184;Crítica;Dominio_5;Produção;Recife;Em desativação
+A0185;Sistema_185;Média;Dominio_6;Produção;Curitiba;Ativo
+A0186;Sistema_186;Média;Dominio_7;Desenvolvimento;Campinas;Ativo
+A0187;Sistema_187; ;Dominio_8;Homologação;Campinas;Ativo
+A0188;Sistema_188;Crítica;Dominio_9;Desenvolvimento;Recife;Ativo
+A0189;Sistema_189;Alta;Dominio_10;Homologação;Curitiba;Em desativação
+A0190;Sistema_190;Alta;Dominio_11;Homologação;Curitiba;Ativo
+A0191;Sistema_191;Baixa;Dominio_12;Homologação;Campinas;Em desativação
+A0192;Sistema_192;Baixa;Dominio_1;Homologação;Campinas;Em desativação
+A0193;Sistema_193;Média;Dominio_2;Produção;Recife;Em desativação
+A0194;Sistema_194;Crítica;Dominio_3;Desenvolvimento;Campinas;Em desativação
+A0195;Sistema_195;Alta;Dominio_4;Produção;São Paulo;Ativo
+A0196;Sistema_196;Baixa;Dominio_5;Desenvolvimento;Recife;Ativo
+A0197;Sistema_197;Alta;Dominio_6;Homologação;Curitiba;Ativo
+A0198;Sistema_198;Baixa;Dominio_7;Desenvolvimento;São Paulo;Em desativação
+A0199;Sistema_199;Crítica;Dominio_8;Homologação;Recife;Ativo
+A0200;Sistema_200;Alta;Dominio_9;Homologação;Curitiba;Ativo
