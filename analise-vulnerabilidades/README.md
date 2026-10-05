@@ -38,6 +38,7 @@ Substitua pelos seus arquivos reais mantendo os mesmos nomes de colunas.
 
 - `vulnerabilidades_priorizadas.csv`: base completa ordenada por prioridade e score
 - `ativos_expostos.csv`: ranking de ativos com vulnerabilidades expostas
+- `Cyber Exposure _ Dashboard executivo.html`: Dashboard
 
 ## Regras de classificação
 
