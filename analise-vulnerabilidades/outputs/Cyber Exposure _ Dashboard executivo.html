@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cyber Exposure | Dashboard executivo</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<style>
+:root{--bg:#f4f6f9;--card:#fff;--ink:#0f2740;--mut:#5d6b7c;--line:#e2e7ee;--risk:#c23a47;--risk2:#f0a8ae;--blue:#2a6db5;--ok:#2b8a65;--amb:#e8973a;--neu:#8fa0b3;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b1624;--card:#13243a;--ink:#e8eef6;--mut:#9aabbf;--line:#24384f;--risk:#e0626e;--risk2:#7a2f3a;--blue:#5b9be0;--ok:#4cc08f;--amb:#f0a85a;--neu:#6d8097}}
+:root[data-theme="dark"]{--bg:#0b1624;--card:#13243a;--ink:#e8eef6;--mut:#9aabbf;--line:#24384f;--risk:#e0626e;--risk2:#7a2f3a;--blue:#5b9be0;--ok:#4cc08f;--amb:#f0a85a;--neu:#6d8097}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 "IBM Plex Sans",system-ui,sans-serif;font-variant-numeric:tabular-nums}
+main{max-width:1280px;margin:0 auto;padding:28px 20px 40px}
+h1{font-size:26px;margin:0;letter-spacing:-.01em}
+.sub{color:var(--mut);margin:2px 0 22px}
+h2{font-size:15px;margin:0 0 2px}
+.cap{color:var(--mut);font-size:12.5px;margin:0 0 14px}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(12,1fr)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;min-width:0}
+.s12{grid-column:span 12}.s8{grid-column:span 8}.s7{grid-column:span 7}.s6{grid-column:span 6}.s5{grid-column:span 5}.s4{grid-column:span 4}.s3{grid-column:span 3}
+@media(max-width:960px){.s8,.s7,.s6,.s5,.s4{grid-column:span 12}.s3{grid-column:span 6}}
+@media(max-width:520px){.s3{grid-column:span 12}}
+.msg{border-left:4px solid var(--risk);padding:2px 0 2px 14px}
+.msg b{display:block;font-size:16px}
+.msg span{color:var(--mut);font-size:13px}
+.kpi .v{font-size:32px;font-weight:700;line-height:1.1;margin:4px 0}
+.kpi .l{font-weight:600;font-size:13px}
+.kpi .d{color:var(--mut);font-size:12.5px}
+.row{display:grid;grid-template-columns:96px 1fr 44px;align-items:center;gap:10px;margin:7px 0;font-size:13px}
+.bar{height:20px;background:var(--line);border-radius:3px;display:flex;overflow:hidden}
+.bar i{display:block;height:100%}
+.leg{display:flex;gap:16px;font-size:12.5px;color:var(--mut);margin-bottom:8px;flex-wrap:wrap}
+.leg s{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;text-decoration:none}
+.sc{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+td,th{padding:6px 8px;text-align:left;border-bottom:1px solid var(--line)}
+th{color:var(--mut);font-weight:500;font-size:12px}
+.tag{font-size:11.5px;padding:1px 7px;border-radius:9px;background:var(--line);color:var(--mut)}
+.tag.p{background:var(--risk2);color:var(--ink)}
+.hm{display:grid;grid-template-columns:70px repeat(4,1fr);gap:3px;font-size:13px;text-align:center;min-width:340px}
+.hm div{padding:11px 0;border-radius:4px}
+.hm .h{color:var(--mut);font-size:12px;padding:4px 0}
+.hm .r{text-align:right;color:var(--mut);padding-right:8px;font-size:12px}
+.hm .z{outline:2px solid var(--ink);outline-offset:-2px;font-weight:700}
+.foot{color:var(--mut);font-size:12px;margin-top:18px}
+svg text{fill:var(--mut);font:11.5px "IBM Plex Sans",sans-serif}
+</style>
+</head>
+<body>
+<main>
+<h1>Cyber Exposure: visão executiva</h1>
+<p class="sub">Vulnerabilidades e priorização de ativos. Data de referência: 05/10/2026</p>
+
+<div class="grid">
+<div class="card s4 msg"><b>Backlog envelhecido domina a exposição</b><span>690 de 973 itens ativos com data válida têm mais de 90 dias (70,9%).</span></div>
+<div class="card s4 msg"><b>Entram 5x mais do que saem</b><span>Em 2026, foram cerca de 1.920 novas vulnerabilidades contra 365 correções com data válida.</span></div>
+<div class="card s4 msg"><b>Três ativos destoam dos demais</b><span>A0086, A0173 e A0120 têm risk score acima de 192; o 4º colocado tem 150,5.</span></div>
+
+<div class="card s3 kpi"><div class="l">Exposição ativa</div><div class="v">1.014</div><div class="d">Aberta (488) + em tratamento (526)</div></div>
+<div class="card s3 kpi"><div class="l">Críticas ativas</div><div class="v" style="color:var(--risk)">257</div><div class="d">25% da exposição ativa</div></div>
+<div class="card s3 kpi"><div class="l">Ativos impactados</div><div class="v">197</div><div class="d">Ativos cadastrados</div></div>
+<div class="card s3 kpi"><div class="l">MTTR médio</div><div class="v">47,2 dias</div><div class="d">Itens corrigidos com data válida</div></div>
+
+<div class="card s6"><h2>Exposição ativa por severidade</h2><p class="cap">Críticas e altas somam 503 itens, quase metade do total</p>
+<div class="leg"><span><s style="background:var(--risk)"></s>Aberta</span><span><s style="background:var(--amb)"></s>Em tratamento</span></div><div id="sev"></div></div>
+
+<div class="card s6"><h2>Aging da exposição ativa</h2><p class="cap">Dias desde a detecção. 41 itens com data inválida ficam fora deste gráfico</p><div id="aging"></div></div>
+
+<div class="card s8"><h2>Novas e corrigidas por mês</h2><p class="cap">A área entre as linhas é o backlog que cresce todo mês. Setembro: 135 novas e 43 corrigidas</p><div class="sc"><svg id="ts" viewBox="0 0 640 230" width="100%" role="img" aria-label="Novas versus corrigidas por mês"></svg></div></div>
+
+<div class="card s4"><h2>MTTR por severidade</h2><p class="cap">Dias médios para corrigir. Críticas levam o mesmo tempo que baixas</p><div id="mttr"></div></div>
+
+<div class="card s5"><h2>Criticidade do ativo × faixa CVSS</h2><p class="cap">Contorno: ativos críticos/altos com CVSS alto/crítico (143 itens), a fila de ação</p><div class="sc"><div class="hm" id="hm"></div></div></div>
+
+<div class="card s7"><h2>Top 10 ativos por risco acumulado</h2><p class="cap">Risk score = CVSS + peso da severidade + peso da criticidade + bônus de produção</p><div class="sc"><table id="top"></table></div></div>
+
+<div class="card s12"><h2>Exposição ativa por ambiente</h2><p class="cap">Produção concentra 38% da exposição</p><div id="env"></div></div>
+</div>
+
+<p class="foot">Premissas: exposição ativa = aberta + em tratamento. Datas inválidas são excluídas apenas das métricas temporais. Valores de severidade, ativos e série mensal foram lidos do gráfico original e podem ter pequena diferença de arredondamento.</p>
+</main>
+<script>
+const f=n=>n.toLocaleString('pt-BR'),css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const $=id=>document.getElementById(id);
+// severidade
+const sev=[['Crítica',125,132],['Alta',122,124],['Média',113,139],['Baixa',124,122],['N/A',4,9]],mx=270;
+$('sev').innerHTML=sev.map(([n,a,t])=>`<div class="row"><span>${n}</span><div class="bar" style="width:${(a+t)/mx*100}%"><i style="width:${a/(a+t)*100}%;background:var(--risk)"></i><i style="width:${t/(a+t)*100}%;background:var(--amb)"></i></div><b>${a+t}</b></div>`).join('');
+// aging
+const ag=[['0–30',57,'var(--neu)'],['31–60',110,'var(--neu)'],['61–90',116,'var(--neu)'],['>90',690,'var(--risk)']];
+$('aging').innerHTML=ag.map(([n,v,c])=>`<div class="row"><span>${n} dias</span><div class="bar" style="background:none"><i style="width:${v/690*100}%;background:${c};border-radius:3px"></i></div><b>${v}</b></div>`).join('');
+// ambiente
+const env=[['Produção',390],['Homologação',310],['Desenvolvimento',297],['Não informado',17]];
+$('env').innerHTML=env.map(([n,v],i)=>`<div class="row" style="grid-template-columns:130px 1fr 80px"><span>${n}</span><div class="bar" style="background:none"><i style="width:${v/390*100}%;background:${i?'var(--neu)':'var(--blue)'};border-radius:3px"></i></div><b>${v} (${(v/1014*100).toFixed(0)}%)</b></div>`).join('');
+// mttr
+const mt=[['Crítica',47.3],['Alta',47.6],['Média',48.2],['Baixa',45.9],['N/A',38.4]];
+$('mttr').innerHTML=mt.map(([n,v])=>`<div class="row" style="grid-template-columns:60px 1fr 40px"><span>${n}</span><div class="bar" style="background:none"><i style="width:${v/50*100}%;background:var(--blue);border-radius:3px"></i></div><b>${v.toFixed(1).replace('.',',')}</b></div>`).join('');
+// heatmap
+const cols=['Baixo','Médio','Alto','Crítico'],rows=[['Crítica',[90,60,43,30]],['Alta',[84,74,42,28]],['Média',[102,83,43,35]],['Baixa',[115,84,53,31]],['N/A',[7,5,2,2]]];
+let h='<div class="h"></div>'+cols.map(c=>`<div class="h">${c}</div>`).join('');
+rows.forEach(([n,v],ri)=>{h+=`<div class="r" style="padding-top:11px">${n}</div>`;v.forEach((x,ci)=>{const z=ri<2&&ci>=2;h+=`<div class="${z?'z':''}" style="background:rgba(194,58,71,${(.08+x/115*.8).toFixed(2)});color:${x>60?'#fff':'var(--ink)'}">${x}</div>`})});
+$('hm').innerHTML=h;
+// top 10
+const tp=[['A0086',196.5,1],['A0173',193.8,1],['A0120',192.8,1],['A0139',150.5,0],['A0102',149.6,1],['A0178',149.4,1],['A0116',147.6,1],['A0024',147.3,1],['A0132',142.6,0],['A0184',139.1,1]];
+$('top').innerHTML='<tr><th>Ativo</th><th>Ambiente</th><th style="width:55%">Risk score</th></tr>'+tp.map(([a,s,p])=>`<tr><td><b>${a}</b></td><td><span class="tag ${p?'p':''}">${p?'Produção':'Outro'}</span></td><td><div style="display:flex;align-items:center;gap:8px"><div style="height:12px;width:${s/200*100}%;background:${s>190?'var(--risk)':'var(--risk2)'};border-radius:2px"></div><span>${s.toFixed(1).replace('.',',')}</span></div></td></tr>`).join('');
+// série temporal
+const m=['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set'],nv=[264,212,212,193,228,209,235,230,135],cr=[8,28,49,49,47,44,54,43,43];
+const X=i=>50+i*70,Y=v=>200-v/280*180;
+let s=[0,100,200].map(t=>`<line x1="40" x2="620" y1="${Y(t)}" y2="${Y(t)}" stroke="${css('--line')}"/><text x="32" y="${Y(t)+4}" text-anchor="end">${t}</text>`).join('');
+s+=`<path d="M${nv.map((v,i)=>X(i)+','+Y(v)).join('L')}L${cr.map((v,i)=>X(8-i)+','+Y(cr[8-i])).join('L')}Z" fill="${css('--risk')}" opacity=".1"/>`;
+s+=`<polyline fill="none" stroke="${css('--blue')}" stroke-width="2.5" points="${nv.map((v,i)=>X(i)+','+Y(v))}"/><polyline fill="none" stroke="${css('--ok')}" stroke-width="2.5" points="${cr.map((v,i)=>X(i)+','+Y(v))}"/>`;
+s+=m.map((n,i)=>`<text x="${X(i)}" y="220" text-anchor="middle">${n}</text><circle cx="${X(i)}" cy="${Y(nv[i])}" r="3.5" fill="${css('--blue')}"/><circle cx="${X(i)}" cy="${Y(cr[i])}" r="3.5" fill="${css('--ok')}"/>`).join('');
+s+=`<text x="${X(8)+8}" y="${Y(135)+4}" style="fill:${css('--blue')};font-weight:600">Novas</text><text x="${X(8)+8}" y="${Y(43)+4}" style="fill:${css('--ok')};font-weight:600">Corrigidas</text>`;
+$('ts').innerHTML=s;$('ts').setAttribute('viewBox','0 0 700 230');
+</script>
+</body>
+</html>
