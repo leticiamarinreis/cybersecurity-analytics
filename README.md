@@ -10,17 +10,6 @@ O pipeline foi projetado de forma modular em Python, realizando desde a leitura 
 
 ---
 
-## 🌐 Como Acessar o Dashboard Executivo
-
-O dashboard foi disponibilizado em formato HTML estático e pode ser visualizado diretamente no seu navegador.
-
-1. Faça o download do arquivo `Cyber Exposure _ Dashboard executivo.html` (ou utilize o arquivo salvo na sua máquina).
-2. Dê um **duplo clique** sobre o arquivo **ou** abra o seu navegador e cole a url abaixo:
-   ```text
-   file:///Users/leticiamarinreis/Downloads/Cyber%20Exposure%20_%20Dashboard%20executivo.html
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```text
