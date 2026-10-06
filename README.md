@@ -10,6 +10,14 @@ O pipeline foi projetado de forma modular em Python, realizando desde a leitura 
 
 ---
 
+## ⚙️ Linguagens e Bibliotecas Utilizadas
+
+* Python 3.8
+* Biblioteca `pandas`
+* Biblioteca `matplotlib`
+
+---
+
 ## 📁 Estrutura do Projeto
 
 ```text
@@ -121,11 +129,3 @@ $$\text{Priority Score} = \text{Criticidade do Ativo (1 a 4)} \times \text{Sever
 * **Taxa de Integridade (Orfãs):** Vulnerabilidades sem ativo cadastrado correspondente (`~asset_join_ok`).
 * **Top Ativos Críticos:** Ranking de ativos agrupados por quantidade de vulnerabilidades expostas e score acumulado.
 * **Backlog P1 Exposto:** Total de falhas P1 pendentes de correção.
-
----
-
-## ⚙️ Linguagens e Bibliotecas Utilizadas
-
-* Python 3.8
-* Biblioteca `pandas`
-* Biblioteca `matplotlib`
