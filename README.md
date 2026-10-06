@@ -126,6 +126,6 @@ $$\text{Priority Score} = \text{Criticidade do Ativo (1 a 4)} \times \text{Sever
 
 ## ⚙️ Linguagens e Bibliotecas Utilizadas
 
-* Python 3.8+
+* Python 3.8
 * Biblioteca `pandas`
 * Biblioteca `matplotlib`
