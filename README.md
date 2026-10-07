@@ -108,6 +108,8 @@ A camada **Gold** consolida as métricas, agregados e tabelas prontas para consu
 * **Estruturas para Visualização:**
   * Matriz / *Heatmap* cruzando **CVSS × Criticidade do Ativo**.
 
+---
+
 ## 🔄 Arquitetura do Fluxo de Dados do Scripts
 
 O processamento e a transformação dos dados seguem um fluxo em esteira modular e sequencial:
